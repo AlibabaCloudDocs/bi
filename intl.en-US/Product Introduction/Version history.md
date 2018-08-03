@@ -1,6 +1,24 @@
 # Version history {#concept_gkr_bdb_5db .concept}
 
-## Quick Bi V2.0 Edition {#section_sxs_kgb_5db .section}
+## Quick BI v2.4.0 {#section_xjt_2rq_k2b .section}
+
+The Quick BI Chinese version features are updated as follows:
+
+-   Dashboard layout updates.
+-   Table and pivot table support jump and linkage functionality.
+-   Support dragging to add query components and charts.
+-   Professional Edition: Add the support for external database Vertica and IBM DB2 LUW.
+-   Professional Edition: Minutes and seconds in time data are recognized, and the filtering of time data is accurate to seconds.
+
+## Quick BI v2.3.0 {#section_eh1_ccr_32c .section}
+
+The Quick BI international version features are updated as follows:
+
+-   The UI of Quick BI has updated.
+-   Professional Edition: Add support for Hive, Oracle database as data source.
+-   Advanced/Professional Edition: Data Modeling supports cross-source database connections for MaxCompute, MySQL, and Oracle data sources.
+
+## Quick BI v2.0 Edition {#section_sxs_kgb_5db .section}
 
 1. Product interaction process
 
@@ -8,15 +26,15 @@ The quick Bi interaction is upgraded to support the use of full links, and it is
 
 -   Home: The Home page includes the areas of Shared with Me and Favorites. A new user can quickly view resources in the workspace through the Report demos, and they also can join a workspace to view the resources in that workspace.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/1054_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15332654511054_en-US.png)
 
 -   Workspace: You can manage the data source, dataset, dashboard, and workbook, meanwhile, the display style of dashboard component is optimized, and the function of widgets is enhanced.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/1055_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15332654511055_en-US.png)
 
 -   Guide: The Guide provides a product process through a process chart.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/1056_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15332654511056_en-US.png)
 
 -   Subscription: You can create, manage, and monitor appropriate mail tasks through the Subscription function.
 
@@ -31,7 +49,7 @@ New in advanced Edition
 
     Added a data analysis method for a workbook. The workbook supports cell-level counting, displaying data from different data sources, and processing them at the same time. It also supports more than 200 data processing functions.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/1057_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15332654511057_en-US.png)
 
 -   Subscription
 
@@ -66,10 +84,10 @@ The features are updated as follows:
 -   Added the following widgets in dashboard:
 
     -   Five charts: Polar chart, Cloud chart, Tornado chart, Hierarchy chart, and Conversion chart.
-    -   One widget: IFRAME.
-    More charts are contained in dashboard.
+    -   The one content control is the iFrame control.
+    Quick BI supports more dashboard creation methods.
 
--   Added new rules in Table chart: You can use different colors and marks to display specified values or value ranges. The results of the data presentation are more clear.
+-   Added new rules in Table chart: You can use different colors and marks to display specified values or value ranges. Display of business data is clearer.
 -   New dashboard chart filter new detail filter feature: Metric filter in chart, not only support, filter by after-aggregation metric, filtering is now also supported based on the fine-grained metric of the pre-aggregation details. Quick BI supports more filtering methods.
 
 ## Quick BI  V1.10 {#section_b4t_f3b_5db .section}
@@ -88,14 +106,14 @@ The new dashboard product is released, and features are updated as follows:
 
 The features are updated as follows:
 
--   SQLServer data sources of ECS are supported.
--   Supports Excel-type files uploading: Meets the needs of users to upload and make reports from Excel files.
+-   SQL Server data sources of ECS are supported.
+-   Local Excel file uploading is supported: Quick BI supports upload of XLS and XLSX files. This function meets users' requirements of uploading and creating reports through Excel files.
 -   Table schema updating and data content updating of the exploration space are supported: The new version supports adding fields to the table schema and updating of table data content. You can add data files to the table and delete existing data files from the table.
--   Dashboard watermark optimization: Watermarks in previous versions display the user's base ID, and the current version replaces the base ID with a user login name.
--   To enhance the calculation field function: A calculated field is a new column that created by an existing field and SQL functions. The calculation field is conformed to the SQL column definition syntax rules  If the user needs to add a new field that uses existing fields to calculate, you can choose to add new calculation fields. Flexible data analysis, such as user attribute grouping analysis and price interval analysis, can be achieved by fields function of the field.
+-   Dashboard watermark display is optimized: BaseID of the user is displayed in the watermark of the earlier version, which has no intuitive meanings for users. The new version uses the logon name as the watermark.
+-   The calculated field function is strengthened: A calculated field is a new column that is constructed by a user using the existing fields and functions supported by SQL and meets the definition syntax rules of the SQL column of the current data source. If you want to perform calculation based on existing data in the data source, you can add calculated fields. The calculated field function can provide flexible data analysis, such as user attribute group analysis and price range analysis.
 -   Quick BI Basic version release: The Basic edition supports the following features: Connect to multiple data sources; use a worksheet for data analysis; create a dashboard with a variety of data charts; create data portals; data downloads, share a worksheet, dashboard, portal, dashboard that can be embedded in a third-party system.\( Number <=2 of visits per account month <= 10 thousand per dashboard \), local files are uploaded to exploration space \(capacity <= 100 m per account \).
--   Support for dashboard data download: supports data corresponding to a graph control in a dashboard that can be downloaded in xlsx format.
--   Data line-level permission setting Style Optimization: removes the column display boxes that are redundant in the Set line-level permissions interface in the old version, the operation of querying Member values is appended to each selected controlled field, these interactive optimizes make the operation of Row-level permissions more smooth and convenient.
+-   Dashboard data download is supported: Data corresponding to chart controls of the dashboard can be downloaded as XLSX files.
+-   Data row-level permission setting interface is optimized: The extra column display box on the row-level permission setting interface in the earlier version is removed. Operations of query member values are added to each selected controlled field. The interaction optimization makes operations of row-level permissions more smooth and convenient.
 -   Added Analyst roles in the workspace: The analyst is a role between the developer and the viewer. This role can use data sources and datasets to create reports, but the analyst cannot create or edit data sources and datasets. The requirement comes from the user's proposal, it is a role requirement that is refined from the user's real usage scenario.
 -   Batch upload of users in organizational unit management is supported: Earlier versions only allow the organizational unit administrator to manually add members. The batch user upload function is required for organizational unit that has a large number of members. This function enables the organizational unit administrator to add users in batches by filling in the workbook with Alibaba Cloud accounts and nicknames according to the template requirements. A maximum of 3000 users can be added at a time.
 -   Users who choose to share and transfer in a drop-down box in support of cluster space: previous versions used to share and transfer reports in cluster space when selecting users through a fuzzy search. way, only the match to keyword displays a list of the corresponding users, and currently supports the selection of users in the form of a drop-down box, it is easier for users to use.
@@ -111,7 +129,7 @@ The features are updated as follows:
 
 The features are updated as follows:
 
--   Support for CSV file data sources: enables CSV files to be uploaded to Discovery space, enables users to freely analyze their own data.
+-   CSV file data sources are supported. CSV files can be uploaded to exploration spaces, so that users can freely analyze their data.
 -   The main navigation bar is optimized. Data sources and datasets are integrated into a single data tag.
 
 ## Quick BI v1.6 {#section_sf1_y3b_5db .section}
@@ -120,47 +138,47 @@ The features are updated as follows:
 
 -   Publishing datasets speed-up function: Based on Quick  Bi built-in Acceleration Engine allows users to create extreme-speed data sets in the form, make the tables in maxcompute into extreme-speed data sets, and greatly increase the query speed.
 -   Add greenplum Data source Database open source database project, features such as OSS storage, JSON data types, hyperloglog Prediction and Analysis are supported by the Ali cloud depth extension. Complying with SQL 2008 standard query syntax and OLAP aggregate functions, ApsaraDB HybridDB offers a flexible hybrid analyzing capability.
--   Implement the ability to share to any member: The former sharing function can only be shared with users in a same organization. The new feature makes sharing easier to collaborate between users.
+-   The function of sharing works to any member is provided. The original share function can only share a work with members in the same organizational unit. The updated function helps easy collaboration and share.
 
 ## Quick BI v1.5 {#section_enp_bjb_5db .section}
 
 The features are updated as follows:
 
--   New dashboard publishing features.
+-   The dashboard release function is provided.
 -   The scenario analysis - HiChina log analysis template goes live.
 
 ## Quick BI v1.4 {#section_pzm_cjb_5db .section}
 
 The features are updated as follows:
 
--   Distributed execution layer framework optimization upgrade.
--   Supports data source deletion.
+-   The distributed execution layer framework is optimized and upgraded.
+-   Deletion of data sources is supported.
 -   SQLServer is supported.
 
 ## Quick BI v1.3 {#section_vf4_cjb_5db .section}
 
 The features are updated as follows:
 
--   Add User demo.
+-   User demos are added.
 -   The process of creating a file is optimized.
 
 ## Quick BI v1.2 {#section_ex4_cjb_5db .section}
 
 The features are updated as follows:
 
--   Simplify tenant models, data source management, work-sharing areas, authorization, and applications.
--   Implement dashboard embedded into a third-party system to showcase.
+-   Tenant models, management of data sources, file share area, authorization, and application are simplified.
+-   Dashboards can be embedded into a third-party system.
 
-## Quick BI  V1.1 {#section_orh_kjb_5db .section}
+## Quick BI  v1.1 {#section_orh_kjb_5db .section}
 
 The features are updated as follows:
 
 -   The problem about user's data source network connection is solved.
 -   Implement the sharing function.
 
-## Quick BI V1.0 {#section_fhv_kjb_5db .section}
+## Quick BI v1.0 {#section_fhv_kjb_5db .section}
 
 The features are updated as follows:
 
--   Quick BI supports developing and creating datasets, workbooks, dashboards, and data portals.
+-   Basic BI functions are provided. Quick BI supports developing and creating datasets, worksheets, and dashboards.
 
