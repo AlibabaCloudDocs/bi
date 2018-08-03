@@ -17,14 +17,14 @@ The following uses the company\_sales\_record dataset as an example.
 1.  Log on to the Quick BI console.
 2.  Click **Datasets** to enter the dataset management page.
 3.  Select company\_sales\_record dataset, and click **Create Dashboard**.
-4.  Double-click radar chart icon.
+4.  Click radar chart icon.
 5.  On the Data tab, select a required dimension field and measurement fields.
 
     In the dimension list, locate the **area** option and add it to the radius label area. In the measurement list, locate the **order\_amt** and **order\_number** options, and add them to the radius area in sequence, as shown in the following figure.
 
     **Note:** Make sure that the dimension type of the region field has been switched from string to geological information.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9133/1744_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9133/15332643311744_en-US.png)
 
 6.  Click **Update**. The system automatically updates the chart.
 7.  On the **Style** tab, you can edit the title, layout, and legends of the radar chart.
