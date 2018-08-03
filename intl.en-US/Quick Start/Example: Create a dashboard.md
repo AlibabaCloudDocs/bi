@@ -17,20 +17,20 @@ This section uses the connection to a MySQL data source as an example to describ
 2.  Select **Workspace** \> **Data sources** . The data source management page is displayed.
 3.  Click **Create \> MySQL \(From Cloud Database\)**. The data source connection menu is displayed.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1233_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602701233_en-US.png)
 
 4.  Enter the data source connection information and click **Test Connection** to check whether the data source is successfully connected.
 
     You can use the following MySQL connection address. For more information, see [Example: Create a workbook](intl.en-US/Quick Start/Example: Create a workbook.md#).
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1234_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602701234_en-US.png)
 
     If the data source cannot be connected, a corresponding message is returned. You can try to fix this problem by referring to [How to diagnose a data source connection exception](https://help.aliyun.com/document_detail/54950.html?spm=a2c4g.11186623.2.8.I5jjCh).
 
 5.  Click **Add**. The data source is automatically added to the data source list.
 6.  Click the **Create Dataset** icon next to a table, for example, company\_sales\_record, to create a dataset.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1235_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602701235_en-US.png)
 
 
 After the dataset is created, it is automatically saved to the **My Dataset** folder. New is displayed for the newly created dataset, which allows you to fast locate the dataset.
@@ -44,7 +44,7 @@ Take company\_sales\_record as an example.
 1.  Click **Datasets**. The dataset management page is displayed.
 2.  Click a dataset name, for example, company\_sales\_record. The dataset editing page is displayed.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1236_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602706901_en-US.png)
 
     To create a map chart, such as a geo bubble or geo map, select dimension fields that contain geographical information, and then switch their field type from String to Geographical Information. Otherwise, the map cannot be displayed.
 
@@ -53,19 +53,19 @@ Take company\_sales\_record as an example.
 
     **Note:** Note that the selected geographic information must match the field. For example, if the field is Area, you must select Area in the location information list. Otherwise, the field type cannot be switched.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1237_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602706903_en-US.png)
 
 5.  Switch Province field and City field in the same way.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1238_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602706904_en-US.png)
 
 6.  After the dataset is edited, click **Save**.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1239_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602706906_en-US.png)
 
 7.  Select **Synchronize \> Refresh Preview**. The data is automatically displayed in the table.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1240_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602706907_en-US.png)
 
 
 For more information about how to edit a dataset, see [Edit a dataset](intl.en-US/Quick Start/Data modeling/Dataset management/Edit a dataset.md#).
@@ -80,18 +80,18 @@ After a dataset is edited, you can use a dashboard to create a report.
 
     **Note:** The full-screen mode is available for Quick BI professional edition,  and the standard dashboard mode is available for Quick BI Basic and Quick BI Pro. Quick BI Basic has no Full-screen mode.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1241_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602701241_en-US.png)
 
 
 **Add a dataset to a dashboard**
 
 1.  Click the **Switch** icon and select a dataset.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1242_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602716908_en-US.png)
 
 2.  Choose company\_sales\_record as a target dataset. The data is listed in the dimension and measurement lists, respectively.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1243_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602716909_en-US.png)
 
 
 If the dataset list is empty, click **Datasets** to return to the dataset management page and check whether the dataset is successfully created.
@@ -107,7 +107,7 @@ For more information about other basic operations on a dashboard, see [Dashboard
 1.  Double-click the bar chart icon.
 2.  Double-click a field on the Data tab. The data is automatically filled in the field, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1244_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602716910_en-US.png)
 
 3.  Click **Update**. The following figure shows the updated chart.
 
@@ -115,33 +115,33 @@ For more information about other basic operations on a dashboard, see [Dashboard
 
     **Note:** Color legend is available when only one measurement field is in the value axis area. Otherwise, it cannot be used. When color legend is unavailable, you may receive a message on why it cannot be used. To enable the function, adjust the measurement and dimension fields as prompted.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1245_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602716911_en-US.png)
 
 4.  Click **Update**. The following figure shows the updated chart.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1246_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602711246_en-US.png)
 
 5.  When mouse points to a set of data, the data details are automatically listed by using the tooltip function, as shown in the following figure.
 
     Choose **Style** \> **Style** \> **Tooltip**, to disable this function.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1247_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602711247_en-US.png)
 
 6.  On the Style tab, you can edit the title, layout, and legends of the chart.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1248_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602716912_en-US.png)
 
     -   Common Settings: you can set the title, the font color, and the background color, as shown in the following illustration.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1249_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602716913_en-US.png)
 
-    -   Layout: You can set chart display styles, for example, Double Y-axis, the percentage stacked, and stacked. See the following figure.
+    -   Style: You can set chart display styles, for example, Secondary Y-axis and Smooth. See the following figure.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1250_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602716914_en-US.png)
 
-    -   Style: You can set the legend and tooltip, as shown in the following figure.
+    -   Layout: You can set the legend and tooltip, as shown in the following figure.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1251_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602716915_en-US.png)
 
     -   Axis: you can set the axis title, the Axis display style, and the axis value formatting and coefficients.
     -   Settings: you can set the alias, display type, and color of a class of data, including labels, value formats and decimals.
@@ -189,15 +189,15 @@ A dashboard supports the following widgets.
 
     1.  Double-click the **Filter bar** icon, as shown in the following figure.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1257_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602716925_en-US.png)
 
     2.  Click the **Filter bar** on the dashboard show area. The editing menu of the control is displayed.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1258_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602716926_en-US.png)
 
     3.  Select the expected dataset, as shown in the following figure.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1259_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602716928_en-US.png)
 
     4.  Select a field to be queried, for example, product\_type field.
 
@@ -205,22 +205,22 @@ A dashboard supports the following widgets.
 
     5.  Click **Single-Dataset** and select an expected chart, as shown in the following figure.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1260_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602716929_en-US.png)
 
     6.  Click **Style** to edit the Filter bar title.
     7.  Point to the field to be queried. A blue dashed line box is automatically displayed for the field. Click the dashed line box. The editing page of the field to be queried is displayed, as shown in the following figure.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1261_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602716930_en-US.png)
 
     8.  Click **Enumeration** and select **Radio** or **Multiple select**, as shown in the following figure.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1262_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602716932_en-US.png)
 
     9.  Click the drop-down arrow and select the option to be queried, as shown in the following figure.
 
         **Note:** If Radio is selected, you can select only one option. Otherwise, you can select multiple options.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1263_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602716933_en-US.png)
 
     10. After the selection, click **Search**. The charts to which the queried field applies are automatically updated.
     To delete the current widget, choose **More** \> **Delete** in the upper-right corner of the widget.
@@ -234,7 +234,7 @@ A dashboard supports the following widgets.
     1.  Double-click the text area icon.
     2.  Enter text in the text area.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1264_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602711264_en-US.png)
 
     To delete the current widget, select **More** \> **Delete** in the upper-right corner of the widget.
 
@@ -256,16 +256,16 @@ A dashboard supports the following widgets.
     1.  Double-click the **TAB** icon.
     2.  Click **Add TAB Page** to add a new tab, as shown in the following figure.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1266_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602716937_en-US.png)
 
     3.  Click a tab and insert a chart in it. For example, click TAB1. TAB1 then becomes blue, as shown in the following figure.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1267_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602721267_en-US.png)
 
     4.  Double-click the required chart icon. A chart is automatically inserted in TAB1.
     5.  Create the chart by following the chart creation process. After the chart is created, the tab control is as shown in the following figure.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1268_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602721268_en-US.png)
 
         To delete the current widget, select **More** \> **Delete** in the upper-right corner of the widget.
 
@@ -277,7 +277,7 @@ A dashboard supports the following widgets.
     2.  Enter the picture URL.
     3.  Click the drop-down arrow and select the picture display style, as shown in the following figure.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1269_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602726938_en-US.png)
 
         To delete the current widget, select **More** \> **Delete** in the upper-right corner of the widget.
 
@@ -288,7 +288,7 @@ After the dashboard is edited, you can preview the chart demonstration effect.
 
 Choose **Preview \> PC or Mobile**, as shown in the following figure.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1270_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602726940_en-US.png)
 
 ## Save the dashboard {#section_zrj_wpp_5db .section}
 
@@ -296,5 +296,5 @@ After the dashboard is edited, you can save it.
 
 Click **Save** to save the dashboard.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/1271_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15332602726941_en-US.png)
 
