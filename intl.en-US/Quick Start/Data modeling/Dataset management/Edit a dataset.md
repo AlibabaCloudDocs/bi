@@ -6,7 +6,7 @@ You can edit a dataset based on the chart demonstration needs.
 2.  Click **Datasets**. The dataset management page is displayed. 
 3.  Select a dataset and click its name. The dataset editing page is displayed.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/1318_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/15332599916888_en-US.png)
 
 
 Fields in the dataset are automatically classified into **dimensions** and **measurements**. You can edit the dimension and measurement fields based on your table creation requirements. After the dataset is edited, you can save and refresh the edited data using **Toolbar** provided by the system.
@@ -18,10 +18,12 @@ You can click the operation icon of a dimension field or right-click a dimension
 1.  Select a dimension field,  for example, **order\_level**.
 2.  Right-click the selected field. The field editing menu is displayed, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/1319_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/15332599916889_en-US.png)
 
     -   Edit: To modify the display name and remarks of a dimension field.
     -   Duplicate Dimension: To quickly copy a dimension. **Copy** is automatically displayed for the generated dimension.
+    -   Hide in analysis: Hide related dimensions.
+    -   Cancel all hidden: Cancel the hide for related dimensions.
     -   Delete: To delete a field.
     -   Create Calculated Field \(Dimension\): To create a dimension field and customize the calculation mode.
     -   Move To: To quickly include a dimension field in an existing level for drilling.
@@ -35,9 +37,12 @@ You can click the operation icon of a dimension field or right-click a dimension
 1.  Select a measurement field, for example, **order\_number**.
 2.  Right-click the selected field. The field editing menu is displayed, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/1320_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/15332599926890_en-US.png)
 
     -   Edit: To modify the display name and remarks of a measurement field.
+    -   Duplicate Measure: To quickly copy a measure. **Copy** is automatically displayed for the generated measure.
+    -   Hide in analysis: Hide related measures.
+    -   Cancel all hidden: Cancel the hide for related measures.
     -   Delete: To delete a field.
     -   Create Calculated Field \(Measurement\): To create a measurement field and customize the calculation mode.
     -   Move To: To quickly include a measurement field in an existing folder.
@@ -45,12 +50,13 @@ You can click the operation icon of a dimension field or right-click a dimension
     -   Convert to Dimension: To convert the current measurement field to a dimension field.
     -   Number Format: To set the display format of a number.
     -   Aggregations: You can select an aggregation mode, such as sum, max, or min, on the menu.
+    -   Change Measure Type: To switch a measure field to the default, date, or geographical type.
 
 ## Toolbar {#section_nk5_rgr_5db .section}
 
 You can use the toolbar shown in the following figure to save, refresh, or synchronize datasets.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/1321_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/15332599926891_en-US.png)
 
 -   Sync Table Schema: To combine new table fields added to an online physical table. This operation can be used when an online physical table is changed, for example, a field is added. In this case, fields can be easily synchronized online. If a field of the online table is deleted or renamed, the corresponding dimension/measurement of the dataset is not deleted.
 -   Refresh Preview: To refresh and preview data of a dataset.  If you want to view the latest data in real time, save the dataset and then refresh data.
@@ -70,29 +76,29 @@ If you have two data tables that are from the same dataset, you can click **Join
 
 1.  Click the **Join Table** icon. The data table joining page is displayed.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/1322_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/15332599921322_en-US.png)
 
 2.  Click **+ Table Join** and add the data table to be joined.
 3.  Click the drop-down arrow of Dataset Field and select the dataset field to be joined.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/1323_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/15332599921323_en-US.png)
 
 4.  Click the drop-down arrow of **Join Type** and select the join mode.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/1324_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/15332599926892_en-US.png)
 
 5.  Click the drop-down arrow of **Associate dimension table name** and select a joined table name.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/1325_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/15332599921325_en-US.png)
 
 6.  Click the drop-down arrow of **Join On** and select a joined field.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/1326_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/15332599921326_en-US.png)
 
 7.  Click **OK**. The joined table is added.
 8.  Click the preview icon to switch to preview mode, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/1328_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/15332599926893_en-US.png)
 
 9.  Click **Save** to save the current dataset.
 
