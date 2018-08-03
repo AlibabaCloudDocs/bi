@@ -15,7 +15,7 @@ When using Quick BI to analyze data,  you must specify the data source for raw 
 
 1.   Log on to the Quick BI console. 
 2.   Select **Workspace** \> **Data sources**. The data source management page is displayed. 
-3.  Switch to a workspace by clicking the Switch icon.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9078/6291_en-US.png)
+3.  Switch to a workspace by clicking the Switch icon.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9078/15332611376291_en-US.png)
 
  
 4.   Click **Create \> MySQL**, to add a new data source. 
@@ -23,7 +23,7 @@ When using Quick BI to analyze data,  you must specify the data source for raw 
 
     **Note:** The following figure only shows an example to add a data source, please enter the information based on an existing environment.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9078/6292_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9078/15332611376292_en-US.png)
 
     -   Name: Enter a display name
     -   Host name: rm-bp180925lcrm7xtc6.mysql.rds.aliyuncs.com \(To obtain the host name, see [Setup Quick BI with ApsaraDB for RDS](intl.en-US/Quick Start/Setup Quick BI with ApsaraDB for RDS.md#).\)
@@ -36,7 +36,7 @@ When using Quick BI to analyze data,  you must specify the data source for raw 
 
 ## Create a dataset {#task_lyk_53q_5db}
 
-1.   Find the expected table on the right side of data sources page, for example **demo\_dplus\_good\_sale**. 
+1.  Find the expected table on the right side of data sources page, for example **company\_sales\_record**. 
 2.   Click **Create Dataset**, to create a new dataset. 
 
     After the dataset is created, the dataset page is automatically displayed.
@@ -52,7 +52,7 @@ The columns in the workbook are classified into dimensions and measurements base
 
     You can also select the scope to be displayed on the workbook, and the data can be displayed in partitions. For more information, see [Area show](intl.en-US/Quick Start/Create a report/Area show.md#).
 
-4.  Double-click good\_cate field and addcart\_cnt field, as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9078/6296_en-US.png)
+4.  Double-click order\_amt field and prodcut\_type field, as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9078/15332611376296_en-US.png)
 
  
 5.   Click **Update**, the data content is automatically update. 
