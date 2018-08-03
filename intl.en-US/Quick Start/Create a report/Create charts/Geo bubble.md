@@ -19,14 +19,14 @@ The following uses the company\_sales\_record dataset as an example.
 1.  Log on to the Quick BI console.
 2.  Click **Datasets** to enter the dataset management page.
 3.  Select company\_sales\_record dataset, and click **Create Dashboard**.
-4.  Double-click geo bubble icon.
+4.  Click Geo bubble icon.
 5.  On the Data tab, select a required dimension field and measurement fields.
 
-    In the dimension list, locate the **province** option and add it to the geological area. In the measurement list, locate the **order\_amt** and **average\_profit** options and add them to the bubble size area in sequence, as shown in the following figure.
+    In the dimension list, locate the **province** option and add it to the geological area. In the measurement list, locate the **order\_amt** and **order\_number** options and add them to the bubble size area in sequence, as shown in the following figure.
 
     **Note:** Make sure that the dimension type of the region and province fields have been switched from string to geological information.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9129/1713_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9129/15332635781713_en-US.png)
 
 6.  Click **Update**. The system automatically updates the chart.
 7.  On the Style tab, you can edit the title and legends of the chart.
