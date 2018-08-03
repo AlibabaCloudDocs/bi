@@ -30,7 +30,7 @@ The configuration includes the following three parts.
 3.  Select **Create** \> **From Cloud Database** \> **MySQL**, to create a new data source from the Cloud database.
 4.  Copy IP ranges, which are displayed in the blue area. See the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9076/1134_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9076/15332610681134_en-US.png)
 
 
 **Obtain database endpoint from the RDS**
@@ -47,7 +47,7 @@ The configuration includes the following three parts.
 1.  Select **Security** in the left-side navigation pane to visit the Security page.
 2.  On the Whitelist Settings tab page, click **Modify**, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9076/1137_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9076/15332610691137_en-US.png)
 
 3.  Click **Clear** to delete the IP address 127.0.0.1.
 4.  Click **Add a Whitelist Group** to add a new whitelist group.
@@ -63,7 +63,7 @@ The configuration includes the following three parts.
 2.  Select **Create** \> **From Cloud Database** \> **MySQL**.
 3.  Enter the required information for connecting to a data source, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9076/1140_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9076/15332610691140_en-US.png)
 
     -   Name: The name of the data source.
     -   Database Endpoint: Enter the host name or Internet address.
@@ -88,14 +88,14 @@ The configuration includes the following three parts.
 4.  Select **Create \> Dashboard** to enter the dashboard editing page.
 5.  Select or search for the dataset that you want to analyze, as shown in following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9076/1150_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9076/15332610691150_en-US.png)
 
     For more information about dashboard basic operations, see [Dashboard basic operations](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Dashboard basic operations.md#).
 
 6.  Double-click a chart icon, for example, the line chart.   The line chart sample is displayed.
 7.  Select required dimension fields and measurement fields. 
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9076/1152_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9076/15332610691152_en-US.png)
 
 8.  Click **Update** to complete the line chart creation.
 9.  Click **Save** to save current dashboard.
@@ -105,7 +105,7 @@ The configuration includes the following three parts.
 1.  Select a dashboard in the dashboard management page.
 2.  Click **Make Public** icon next to the selected dashboard. 
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9076/1158_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9076/15332610691158_en-US.png)
 
 3.  Select an expiration date, and select Regenerate URL.
 4.  Copy the generated URL to your browser to view the dashboard contents.
