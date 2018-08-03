@@ -21,18 +21,18 @@ The following uses the company\_sales\_record dataset as an example.
 1.  Log on to the Quick BI console.
 2.  Click **Datasets** to enter the dataset management page.
 3.  Select the company\_sales\_record dataset ,  and click **Create Dashboard**. The dashboard editing page is displayed.
-4.  Double-click **line chart** icon. The line chart sample is displayed.
+4.  Click **line chart** icon. The line chart sample is displayed.
 5.  Select required dimension fields and measurement fields.
 
     In the dimension list, locate the order date \(year\), province, and product type options and add them to the category axis area in sequence. In the measurement list, locate the order quantity option and add it to the value axis area, as shown in the following figure.
 
     **Note:** Make sure that the dimension type of the province field has been switched from string to geological information. For details about how to switch the dimension field type, see [Example: Create a dashboard](intl.en-US/Quick Start/Example: Create a dashboard.md#).
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9124/1589_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9124/15332777711589_en-US.png)
 
 6.  On the Style tab, you can edit the title, layout, and legends of the chart.
 
-    **Note:** For more information about Styles, see[Set chart data](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Set chart data.md#).
+    **Note:** For more information about Styles, see [Set chart data](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Set chart data.md#).
 
 7.  Click **Save** to save current dashboard.
 
