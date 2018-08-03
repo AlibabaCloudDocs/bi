@@ -5,6 +5,9 @@
 1.  Create a data source.
 2.  Create a dataset.
 3.  Create a workbook, worksheet, or dashboard.
+
+    **Note:** Worksheet is public preview function and will be retired later.
+
 4.  Building a data portal
 
 ## The basic components are as follows. {#section_jgv_qvv_tdb .section}
@@ -36,7 +39,7 @@ For more information about how to create a dataset, see [Create a dataset](../..
 
 The workbook is only available for a workspace. Workbook provides a spreadsheet environment.  You can use it to reference individual cells, leverage a rich range of functions, and create sophisticated business reports.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/1005_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15332604796895_en-US.png)
 
 For more information, see [Create a workbook](../../../../intl.en-US/Quick Start/Create a report/Create a workbook.md#).
 
@@ -51,7 +54,7 @@ Dashboard supports two kinds of display mode.
 
 In standard mode, the dashboard includes 17 kinds of charts and 5 widgets.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/1007_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15332604796896_en-US.png)
 
 In full-screen mode, the dashboard includes 17 kinds of charts and 3 widgets.
 
@@ -65,5 +68,5 @@ The portal function is only available for Quick BI Pro and Quick BI Professional
 
  
 
-For more information, see [Create a portal](../../../../intl.en-US/Quick Start/Create a report/Create a portal.md#).
+For more information, see [Create a portal](../../../../intl.en-US/Quick Start/Create a portal.md#).
 
