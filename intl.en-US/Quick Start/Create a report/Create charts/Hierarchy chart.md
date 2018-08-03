@@ -17,14 +17,14 @@ The following uses the company\_sales\_record dataset as an example.
 1.  Log on to the Quick BI console.
 2.  Click **Datasets** to enter the dataset management page.
 3.  Select company\_sales\_record dataset, and click **Create Dashboard**. The dashboard editing page is displayed.
-4.  Double-click hierarchy chart icon
+4.  Click hierarchy chart icon
 5.  On the Data tab, select a required dimension field and measurement fields.
 
     In the dimension list, locate the **area**, **province**, and **product\_type** options and add them to the node label area in sequence. The sequence of these options is the parent-child relationship displayed on the chart. In the measurement list, locate the **order\_number** option and add it to the node metrics area, as shown in the following figure.
 
     **Note:** Make sure that the dimension type of the region and province fields have been switched from string to geological information.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9142/1844_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9142/15332650361844_en-US.png)
 
 6.  Click **Update**. The system automatically updates the chart.
 7.  On the Style tab, you can set the title, layout, and design of the chart.
