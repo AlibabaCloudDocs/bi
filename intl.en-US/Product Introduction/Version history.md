@@ -16,7 +16,7 @@ The Quick BI international version features are updated as follows:
 
 -   The UI of Quick BI has updated.
 -   Professional Edition: Add support for Hive, Oracle database as data source.
--   Advanced/Professional Edition: Data Modeling supports cross-source database connections for MaxCompute, MySQL, and Oracle data sources.
+-   Professional Edition: Data Modeling supports cross-source database connections for MaxCompute, MySQL, and Oracle data sources.
 
 ## Quick BI v2.0 Edition {#section_sxs_kgb_5db .section}
 
@@ -26,15 +26,15 @@ The quick Bi interaction is upgraded to support the use of full links, and it is
 
 -   Home: The Home page includes the areas of Shared with Me and Favorites. A new user can quickly view resources in the workspace through the Report demos, and they also can join a workspace to view the resources in that workspace.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15332654511054_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15332784381054_en-US.png)
 
 -   Workspace: You can manage the data source, dataset, dashboard, and workbook, meanwhile, the display style of dashboard component is optimized, and the function of widgets is enhanced.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15332654511055_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15332784381055_en-US.png)
 
 -   Guide: The Guide provides a product process through a process chart.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15332654511056_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15332784381056_en-US.png)
 
 -   Subscription: You can create, manage, and monitor appropriate mail tasks through the Subscription function.
 
@@ -49,7 +49,7 @@ New in advanced Edition
 
     Added a data analysis method for a workbook. The workbook supports cell-level counting, displaying data from different data sources, and processing them at the same time. It also supports more than 200 data processing functions.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15332654511057_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15332784381057_en-US.png)
 
 -   Subscription
 
