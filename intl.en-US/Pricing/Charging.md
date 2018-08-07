@@ -8,18 +8,18 @@ If you do not renew your Quick BI product before its expiration date, your resou
 
 Quick BI is available in two versions, which have different billing methods.
 
--   Quick BI Basic
 -   Quick BI Pro
+-   Quick BI Professional
 
-## Quick BI Basic {#section_w3z_kqc_5db .section}
+## Quick BI Pro {#section_w3z_kqc_5db .section}
 
 You select the number of users and service length. Then, the system automatically calculates the price.
 
- 
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9072/15336338358970_en-US.png)
 
-## Quick BI Pro {#section_bkl_nqc_5db .section}
+## Quick BI Professional {#section_bkl_nqc_5db .section}
 
-The service length of a Quick BI Pro account is fixed at one year. You select the number of users, and the system automatically calculates the price.
+The service length of a Quick BI Professional account is fixed at one year. You select the number of users, and the system automatically calculates the price.
 
- 
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9072/15336338358971_en-US.png)
 
