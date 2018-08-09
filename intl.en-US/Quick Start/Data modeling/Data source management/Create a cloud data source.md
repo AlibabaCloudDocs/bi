@@ -12,7 +12,7 @@ Data sources must be used as the basis to operate datasets, worksheets, dashboar
 2.   Click **MaxCompute**. 
 3.   Enter the required data source connection information, as shown in the following figure. 
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/1292_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/15338019591292_en-US.png)
 
     -   Name: The name of the data source configuration list.
     -   Database address: There is a default address here, which is generally not subject to modification; if you need to modify, please refer to maxcompute for access to domain names and datacenters.
@@ -41,20 +41,10 @@ Due to the limitation of the whitelist policy of ApsaraDB for RDS, you must manu
 
 To add and set up whiteable lists, see setting up whiteable access domains and data centers.
 
-You can connect to the following ApsaraDB for RDS data source for free.
-
-**Note:** The following information is an example only. Please enter the connection information for the data source based on your actual data source address.
-
--   Database endpoint: rm-bp180925lcrm7xtc6.mysql.rds.aliyuncs.com
--   Port: 3306
--   Database: bi\_demo
--   User name: bi\_demo
--   Password: bi\_demo
-
 1.   Click **MySQL**. 
 2.   Enter the required data source connection information, as shown in the following figure. 
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/1294_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/15338019591294_en-US.png)
 
     -   Display name: list of data sources display name
     -   Database Endpoint: Enter the host name or IP address.
@@ -77,7 +67,7 @@ The method for adding a data source from ApsaraDB for RDS \(SQL Server\) is simi
 1.   Click **SQL Server**. 
 2.   Enter the required data source connection information, as shown in the following figure. 
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/1296_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/15338019591296_en-US.png)
 
     -   Display name: list of data sources display name
     -   Database Endpoint: Enter the host name or IP address.
@@ -94,7 +84,7 @@ The method for adding a data source from ApsaraDB for RDS \(SQL Server\) is simi
 1.   Click **Analytic DB**. 
 2.   Enter the required data source connection information, as shown in the following figure. 
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/1297_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/15338019591297_en-US.png)
 
     -   Display name: list of data sources display name
     -   Database Endpoint: Enter the host name or IP address.
@@ -112,7 +102,7 @@ The method for adding a data source from Hybrid DB for MySQL is similar to that 
 1.   Click **Hybrid DB for MySQL**. 
 2.   Enter the required data source connection information, as shown in the following figure. 
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/1298_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/15338019591298_en-US.png)
 
     -   Display name: list of data sources display name
     -   Database address: Just fill in the host name or IP address.
@@ -130,7 +120,7 @@ The method for adding a data source from Hybrid DB for PostgreSQL is similar to 
 1.   Click **Hybrid DB for PostgreSQL**. 
 2.   Enter the required data source connection information, as shown in the following figure. 
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/1299_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/15338019591299_en-US.png)
 
     -   Display name: list of data sources display name
     -   Database Endpoint: Enter the host name or IP address.
@@ -147,7 +137,7 @@ The method for adding a data source from Hybrid DB for PostgreSQL is similar to 
 1.   Click **PostgreSQL**. 
 2.   Enter the required information for connecting to a data source. 
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/1300_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/15338019591300_en-US.png)
 
     -   Display name: list of data sources display name
     -   Database Endpoint: Enter the host name or IP address.
@@ -166,7 +156,7 @@ The method for adding a data source from PPAS is similar to that from PostgreSQL
 1.   Click **PPAS**. 
 2.   Enter the required information for connecting to a data source, as shown in the following figure. 
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/1301_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/15338019591301_en-US.png)
 
     -   Display name: list of data sources display name
     -   Database Endpoint: Enter the host name or IP address.
