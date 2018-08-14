@@ -1,6 +1,6 @@
 # Quick BI购买、升级与续费 {#concept_jd4_xpc_5db .concept}
 
-Quick BI提供了标准版和高级版两个版本供您购买。不同版本的购买价格和计费方式，请参阅[Quick BI计费方式](cn.zh-CN/产品定价/Quick BI计费方式.md#)
+Quick BI提供了标准版和高级版两个版本供您购买。不同版本的购买价格和计费方式，请参阅[Quick BI计费方式](intl.zh-CN/产品定价/Quick BI计费方式.md#)
 
 ## Quick BI标准版 {#section_wtl_drc_5db .section}
 
@@ -21,9 +21,9 @@ Quick BI高级版在标准版的功能上新增了电子表格、组织管理、
 
 在Quick BI产品首页，单击**配置面板**图标，进入组织权限管理页面，如下图所示。
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/1093_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/15342308001093_zh-CN.png)
 
-您可以在组织管理功能中创建组织，并且为该组织添加、编辑和删除组织成员。更多关于组织管理的内容，请参阅[组织管理的基本概念](../cn.zh-CN/用户指南/组织管理/组织管理的基本概念.md#)。
+您可以在组织管理功能中创建组织，并且为该组织添加、编辑和删除组织成员。更多关于组织管理的内容，请参阅[组织管理的基本概念](../../../../intl.zh-CN/用户指南/组织管理/组织管理的基本概念.md#)。
 
 您也可以在工作空间管理功能中，对数据对象（工作表/电子表格、仪表板、数据门户等）和行级权限进行操作。
 
@@ -41,7 +41,7 @@ Quick BI高级版在标准版的功能上新增了电子表格、组织管理、
 
 **操作步骤**
 
-1.  进入 [Quick BI](https://common-buy.aliyun.com/?spm=a2c0j.8190895.737583.btn1.RsKHI8&commodityCode=quickbi#/buy) 购买页面。
+1.  进入 [Quick BI](https://common-buy-intl.aliyun.com/?spm=a3c0i.176005.918367.1.62894206QgHuH5&commodityCode=quickbi_intl#/buy)购买页面。
 2.  选择需要购买的用户数和购买时长。
 3.  确认价格后，单击**立即购买**。
 4.  输入用户名和登录密码，单击**登录**，登录阿里云官网。
@@ -101,7 +101,7 @@ Quick BI高级版在标准版的功能上新增了电子表格、组织管理、
 
 产品过期后，建议您在七天之内尽快续费，否则系统会自动释放资源。
 
-资源的释放和保留，请参见[欠费说明](cn.zh-CN/产品定价/欠费说明.md#)。
+资源的释放和保留，请参见[欠费说明](intl.zh-CN/产品定价/欠费说明.md#)。
 
 **操作步骤**
 
