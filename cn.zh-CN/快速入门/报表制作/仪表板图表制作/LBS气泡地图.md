@@ -26,27 +26,29 @@ LBS气泡地图的地理区域最多只能取1个维度，并且维度类型必�
 
     在维度列表中，找到**省份**，并将其添加到地理区域中；在度量列表中，找到**订单金额**和**利润金额**，并将依次添加到LBS气泡大小区域中，如下图所示。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/1870_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15342423921870_zh-CN.png)
 
 6.  单击**更新**，更新图表。
 7.  在样式标签页可更改图表的标题，布局和某一个字段的显示格式，如下图所示。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/1871_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15342423921871_zh-CN.png)
 
     -   在**布局**中，您可以设置地图的底图样式、缩放地图的大小和调整地图的经纬度。例如将底图设置为**GeoQ**，更新后的图表如下图所示。
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/1872_zh-CN.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15342423921872_zh-CN.png)
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/1873_zh-CN.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15342423921873_zh-CN.png)
 
     -   在**系列设置**中，将订单金额的小数位数设置为2位，更新后的图表显示如下。
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/1874_zh-CN.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15342423921874_zh-CN.png)
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/1876_zh-CN.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15342423921876_zh-CN.png)
 
 8.  单击**保存**，保存该仪表板。
 
     在图表右上方，选择**更多操作** \> **删除**，可删除当前图表。
 
+
+有关各地区详细信息对照表请参见：[http://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/assets/attach/54802/cn\_zh/1534146495493/%E5%9C%B0%E5%8C%BA%E8%AF%A6%E6%83%85%E4%BF%A1%E6%81%AF%E8%A1%A8.xlsx](http://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/assets/attach/48322/cn_zh/1534241743586/%E5%90%84%E5%9C%B0%E5%8C%BA%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF%E5%AF%B9%E7%85%A7%E8%A1%A8.xls)。
 
