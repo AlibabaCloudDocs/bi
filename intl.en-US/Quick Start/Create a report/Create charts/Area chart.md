@@ -8,6 +8,8 @@ An Area chart consists of a category axis and a value axis. A category axis is h
 
 In the dashboard, the system automatically matches the category axis, value axis, and dimension field, and measure field of the line diagram. You only need to follow the system prompts and select the expected fields from the dimension and measurement lists.
 
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9125/15353582191677_en-US.png)
+
 ## Limitations on creating an Area chart {#section_esy_dc2_vdb .section}
 
 You must select at least one dimension for the category axis and at least one measurement for the value axis. If you want to use the color legend function, you must select one measurement for the color legend.
@@ -28,7 +30,7 @@ The following scenario uses the company\_sales\_record dataset as an example.
 
     **Note:** Make sure that the dimension type of the province field has been switched from string to geographical information. For more information about how to switch the dimension field type, see [Example: Create a dashboard](intl.en-US/Quick Start/Example: Create a dashboard.md#).
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9125/15332774451679_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9125/15353582191679_en-US.png)
 
 6.  Drag the **product\_type** field to the color legend and click **Update**.
 
@@ -38,7 +40,7 @@ The following scenario uses the company\_sales\_record dataset as an example.
 
     **Note:** For more information about Styles, see[Set chart data](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Set chart data.md#).
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9125/15332774451680_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9125/15353582191680_en-US.png)
 
     -   In the Common Settings, select a **Dark**color as the background color.
     -   On the Style tab, select **stack**.
@@ -47,7 +49,7 @@ The following scenario uses the company\_sales\_record dataset as an example.
     -   In the Settings, set the color of **order\_number** as orange.
     After updating, the chart is shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9125/15332774451682_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9125/15353582191682_en-US.png)
 
 8.  Click **Save** to save current dashboard.
 
