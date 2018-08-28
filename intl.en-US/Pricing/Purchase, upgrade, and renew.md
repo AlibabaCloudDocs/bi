@@ -1,17 +1,6 @@
 # Purchase, upgrade, and renew {#concept_jd4_xpc_5db .concept}
 
-You can buy Quick BI Basic or Quick BI Pro according to your requirements. For details about the prices and payment options of the editions, see[Charging](intl.en-US/Pricing/Charging.md#)
-
-## Quick BI Basic {#section_wtl_drc_5db .section}
-
-Quick BI Basic offers users the ability to:
-
--   Access the Alibaba Cloud public database.
--   Access their ECS instances.
--   Upload local files.
--   Create datamodels from tables.
--   Prepare a dashboard that supports multiple data charts.
--   View dashboards on different devices \(PC, mobile\).
+Quick BI offers Pro and Professional edition for purchase. For details about the prices and payment options of the editions, see[Charging](intl.en-US/Pricing/Charging.md#)
 
 ## Quick BI Pro {#section_ytl_drc_5db .section}
 
@@ -21,11 +10,19 @@ To access these advanced features, after purchasing Quick BI Pro, go to the Quic
 
 In the Quick BI product home page, click **Settings** icon, enter the organization  management page, as shown in the following figure.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/15342308021093_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/15354406591093_en-US.png)
 
 You can create an organization and add, edit, and delete members of the organization on the Organization Management page. For details about the organization management, see [Organization management overview](../../../../intl.en-US/User Guide/Organization management/Organization management overview.md#).
 
 Furthermore, you can operate data objects \(such as the workbooks, dashboards, and data portals\) and row-level permissions on the workspace management page.
+
+## Quick BI Professional {#section_hht_kd4_y2b .section}
+
+In addition to all the features detailed in Quick BI Pro, Quick BI Professional provides the following functions:
+
+-   Support cloud database Hive and external database Hive, Vertica, and IBM DB2 LUW.
+-   Minutes and seconds in time data are recognized, and the filtering of time data is accurate to seconds.
+-   Data Modeling supports cross-source database connections for MaxCompute, MySQL, and Oracle data sources.
 
 ## Considerations {#section_a5l_drc_5db .section}
 
@@ -72,7 +69,7 @@ After buying the enough number of users, you can add users within the quota.
 **Procedure**
 
 1.  Log on to the Quick BI console.
-2.  Click** User Management** \> **Add Users** .
+2.  Select** User Management** \> **Add Users** .
 3.  Add an Alibaba Cloud account or RAM sub-account, and click OK.
 4.  and click OK.
 
