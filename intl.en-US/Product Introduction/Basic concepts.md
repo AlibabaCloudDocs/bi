@@ -24,7 +24,7 @@ You can use data sources  to provide data to Quick BI.  Quick BI supports mult
 -   From external database
 -   Upload local files \(personal workspace only\)
 
-For more information, see [Create a cloud data source](../../../../reseller.en-US/Quick Start/Data modeling/Data source management/Create a cloud data source.md#) and [Create a data source from external database](../../../../reseller.en-US/Quick Start/Data modeling/Data source management/Create a data source from external database.md#), and[Upload local files](../../../../reseller.en-US/Quick Start/Data modeling/Data source management/Upload local files.md#).
+For more information, see [Create a cloud data source](../../../../reseller.en-US/Quick Start/Data modeling/Data source management/Create a cloud data source.md#) and [Create a data source from external database](../../../../reseller.en-US/Quick Start/Data modeling/Data source management/Create a data source from external database.md#), and [Upload local files](../../../../reseller.en-US/Quick Start/Data modeling/Data source management/Upload local files.md#).
 
 ## Dataset {#section_l5h_rwv_tdb .section}
 
@@ -43,7 +43,7 @@ Dashboard supports two kinds of display mode.
 
 In standard mode, the dashboard includes 17 kinds of charts and 5 widgets.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15382950456896_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15382956896896_en-US.png)
 
 In full-screen mode, the dashboard includes 17 kinds of charts and 3 widgets.
 
