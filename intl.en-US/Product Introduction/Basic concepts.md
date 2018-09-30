@@ -12,9 +12,9 @@
 -   Data Source
 -   Datasets
 -   Worksheet \(Quick BI Basic\)
--   Workbook \(Quick BI Pro and Professional edition\)
+-   Workbook \(Quick BI Pro\)
 -   Dashboards
--   Portal \(Quick BI Pro and Professional edition\)
+-   Portal \(Quick BI Pro\)
 
 ## Data Source {#section_cgt_vvv_tdb .section}
 
@@ -24,21 +24,13 @@ You can use data sources  to provide data to Quick BI.  Quick BI supports mult
 -   From external database
 -   Upload local files \(personal workspace only\)
 
-For more information, see [Create a cloud data source](../../../../intl.en-US/Quick Start/Data modeling/Data source management/Create a cloud data source.md#)、[Create a data source from external database](../../../../intl.en-US/Quick Start/Data modeling/Data source management/Create a data source from external database.md#), and[Upload local files](../../../../intl.en-US/Quick Start/Data modeling/Data source management/Upload local files.md#).
+For more information, see [Create a cloud data source](../../../../reseller.en-US/Quick Start/Data modeling/Data source management/Create a cloud data source.md#) and [Create a data source from external database](../../../../reseller.en-US/Quick Start/Data modeling/Data source management/Create a data source from external database.md#), and[Upload local files](../../../../reseller.en-US/Quick Start/Data modeling/Data source management/Upload local files.md#).
 
 ## Dataset {#section_l5h_rwv_tdb .section}
 
 You can create tables of different data sources as data sets. then edit, move, or delete a dataset.
 
-For more information about how to create a dataset, see [Create a dataset](../../../../intl.en-US/Quick Start/Data modeling/Dataset management/Create a dataset.md#).
-
-## Workbook {#section_qvj_b5p_b2b .section}
-
-The workbook is only available for a workspace. Workbook provides a spreadsheet environment.  You can use it to reference individual cells, leverage a rich range of functions, and create sophisticated business reports.
-
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15382943161005_en-US.png)
-
-For more information, see [Workbook overview](../../../../intl.en-US/Quick Start/Create a report/Workbook overview.md#)、[Create a workbook](../../../../intl.en-US/Quick Start/Create a report/Create a workbook.md#).
+For more information about how to create a dataset, see [Create a dataset](../../../../reseller.en-US/Quick Start/Data modeling/Dataset management/Create a dataset.md#).
 
 ## Dashboards {#section_uf2_1yv_tdb .section}
 
@@ -51,11 +43,11 @@ Dashboard supports two kinds of display mode.
 
 In standard mode, the dashboard includes 17 kinds of charts and 5 widgets.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15382943166896_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15382950456896_en-US.png)
 
 In full-screen mode, the dashboard includes 17 kinds of charts and 3 widgets.
 
-For more information, see [Charts overview](../../../../intl.en-US/Quick Start/Create a report/Create charts/Charts overview.md#).
+For more information, see [Charts overview](../../../../reseller.en-US/Quick Start/Create a report/Create charts/Charts overview.md#).
 
 ## Portal {#section_e51_jyv_tdb .section}
 
@@ -65,5 +57,5 @@ The portal function is only available for Quick BI Pro and Quick BI Professional
 
  
 
-For more information, see [Create a portal](../../../../intl.en-US/Quick Start/Create a portal.md#).
+For more information, see [Create a portal](../../../../reseller.en-US/Quick Start/Create a portal.md#).
 
