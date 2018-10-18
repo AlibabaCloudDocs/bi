@@ -14,12 +14,12 @@ Before you create a cloud data source, you need to go to the data source creatio
 1.  Click **MaxCompute**.
 2.  Enter the required data source connection information, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/15398516281292_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/153985317713878_en-US.png)
 
     -   Name: The name of the data source configuration list.
-    -   Database address: There is a default address here, which is generally not subject to modification; if you need to modify, please refer to .
+    -   Database address: There is a default address here, which is generally not subject to modification; if you need to modify, please refer to [Access domains and data centers](https://www.alibabacloud.com/help/doc-detail/34951.htm).
 
-        **Note:** Database addresses change by region. For example, in the classic network, the database address in HongKong region is http://service.cn-hongkong.maxcompute.aliyun-inc.com/api, the database address in Singapore region is http://service.ap-southeast-1.maxcompute.aliyun-inc.com/api. For more information, refer to: .
+        **Note:** Database addresses change by region. For example, in the classic network, the database address in HongKong region is http://service.cn-hongkong.maxcompute.aliyun-inc.com/api, the database address in Singapore region is http://service.ap-southeast-1.maxcompute.aliyun-inc.com/api. For more information, refer to: [Access domains and data centers](https://www.alibabacloud.com/help/doc-detail/34951.htm).
 
     -   Project: The name of the project.
     -   Access Id: Access Key ID of the Alibaba Cloud console.
@@ -41,12 +41,12 @@ Before you create a cloud data source, you need to go to the data source creatio
 
 Due to the limitation of the whitelist policy of ApsaraDB for RDS, you must manually add the whitelists on the ApsaraDB for RDS console before adding an ApsaraDB for RDS data source.
 
-To add and set up whiteable lists, see .
+To add and set up whiteable lists, see [Access domains and data centers](https://www.alibabacloud.com/help/doc-detail/26198.htm?spm=a2c63.p38356.a3.1.4a0c1ce4v8Eznb).
 
 1.  Click **MySQL**.
 2.  Enter the required data source connection information, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/15398516281294_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/153985317813887_en-US.png)
 
     -   Display name: Display name in the data source list
     -   Database Endpoint: Enter the host name or IP address.
@@ -69,7 +69,7 @@ The method for adding a data source from ApsaraDB for RDS \(SQL Server\) is simi
 1.  Click **SQL Server**.
 2.  Enter the required data source connection information, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/15398516281296_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/153985317813888_en-US.png)
 
     -   Name: Display name in the data source list
     -   Database Endpoint: Enter the host name or IP address.
@@ -86,7 +86,7 @@ The method for adding a data source from ApsaraDB for RDS \(SQL Server\) is simi
 1.  Click **Analytic DB**.
 2.  Enter the required data source connection information, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/15398516281297_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/153985319113889_en-US.png)
 
     -   Name: Display name in the data source list
     -   Database Endpoint: Enter the host name or IP address.
@@ -104,9 +104,7 @@ The method for adding a data source from Hybrid DB for MySQL is similar to that 
 1.  Click **Hybrid DB for MySQL**.
 2.  Enter the required data source connection information, as shown in the following figure.
 
-    **Note:** If the data source is VPC connection, check the VPC data source option and enter the relevant parameters.
-
-    ![](images/12903_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/153985319113890_en-US.png)
 
     -   Name: Display name in the data source list
     -   Database address: Just fill in the host name or IP address.
@@ -114,11 +112,7 @@ The method for adding a data source from Hybrid DB for MySQL is similar to that 
     -   Database: Connection database name
     -   User name: Corresponding user name
     -   Password: The password of the database.
-    -   Buyer accessId: Purchase the accessId for this instance
-    -   Buyer accesskey: Buy the accesskey for this instance
-    -   Instance id: The ID of the instance to purchase
-    -   Region: The region in which this instance is located
-3.  Click **Test Connection连接测试** to perform the data source connectivity test.
+3.  Click **Test Connection** to perform the data source connectivity test.
 4.  Click **Add** to complete the data source add.
 
 ## HybirdDB for PostgreSQL {#section_xjg_nr5_mfb .section}
@@ -128,9 +122,7 @@ The method for adding a data source from Hybrid DB for PostgreSQL is similar to 
 1.  Click **Hybrid DB for PostgreSQL**.
 2.  Enter the required data source connection information, as shown in the following figure.
 
-    **Note:** If the data source is VPC connection, check the VPC data source option and enter the relevant parameters.
-
-    ![](images/13720_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/153985319113891_en-US.png)
 
     -   Name: Display name in the data source list
     -   Database Endpoint: Enter the host name or IP address.
@@ -139,10 +131,6 @@ The method for adding a data source from Hybrid DB for PostgreSQL is similar to 
     -   Schema: public
     -   User Name: The user name of the database.
     -   Password: The password of the database.
-    -   Buyer accessId: Purchase the accessId for this instance
-    -   Buyer accesskey: Buy the accesskey for this instance
-    -   Instance id: The ID of the instance to purchase
-    -   Region: The region in which this instance is located
 3.  Click **Test Connection** to perform the data source connectivity test.
 4.  Click **Add** to complete the data source add.
 
@@ -151,9 +139,9 @@ The method for adding a data source from Hybrid DB for PostgreSQL is similar to 
 1.  Click **PostgreSQL**.
 2.  Enter the required data source connection information, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/15398516281300_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/153985319113892_en-US.png)
 
-    -   Display name: list of data sources display name
+    -   Name: Display name in the data source list
     -   Database Endpoint: Enter the host name or IP address.
     -   Port: Enter the correct port number.
     -   Database: The name of the database to be connected to.
@@ -170,9 +158,9 @@ The method for adding a data source from PPAS is similar to that from PostgreSQL
 1.  Click **PPAS**.
 2.  Enter the required data source connection information, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9084/15398516281301_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/153985319213893_en-US.png)
 
-    -   Display name: list of data sources display name
+    -   Name: Display name in the data source list
     -   Database Endpoint: Enter the host name or IP address.
     -   Port: Enter the correct port number.
     -   Database: The name of the database to be connected to.
