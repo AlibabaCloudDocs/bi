@@ -4,9 +4,9 @@ Quick BI is a flexible and lightweight business analytics platform built on clou
 
 It provides a suite of intelligent tools to enable users to connect to multiple data sources. You can Create a cloud data source by using Alibaba Cloud services such as MaxCompute, ApsaraDB for RDS, Analytic DB, HybridDB, and your MySQL database on ECS. You can also Upload local files or Create a data source from external database to provide data to Quick BI.
 
-To connect a data source, see [Create a cloud data source](../../../../intl.en-US/Quick Start/Data modeling/Data source management/Create a cloud data source.md#)、[Create a data source from external database](../../../../intl.en-US/Quick Start/Data modeling/Data source management/Create a data source from external database.md#).
+To connect a data source, see [Create a cloud data source](../../../../reseller.en-US/Quick Start/Data modeling/Data source management/Create a cloud data source.md#)、[Create a data source from external database](../../../../reseller.en-US/Quick Start/Data modeling/Data source management/Create a data source from external database.md#).
 
-Get business insights with low costs.  Taking advantage of cloud computing, Quick BI provides a cost-efficient, fast, and stable way for you to analyze your data. For more information, see [Charging](../../../../intl.en-US/Pricing/Charging.md#).
+Get business insights with low costs.  Taking advantage of cloud computing, Quick BI provides a cost-efficient, fast, and stable way for you to analyze your data. For more information, see [Charging](../../../../reseller.en-US/Pricing/Charging.md#).
 
 Realize real-time analysis of massive data fast.  Quick BI’s query acceleration engine saves the time of data pre-processing, and helps you to get quick answers from your data.
 
