@@ -43,7 +43,7 @@ Dashboard supports two kinds of display mode.
 
 In standard mode, the dashboard includes 17 kinds of charts and 5 widgets.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15382956896896_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15401968596896_en-US.png)
 
 In full-screen mode, the dashboard includes 17 kinds of charts and 3 widgets.
 
@@ -53,7 +53,7 @@ For more information, see [Charts overview](../../../../reseller.en-US/Quick Sta
 
 The data portal is also known as the data product.  and reporting products that use a menu structure. You can use a portal as part of a management analysis system, for it supports to be referenced by external links.
 
-The portal function is only available for Quick BI Pro and Quick BI Professional edition.
+The portal function is only available for Quick BI Pro.
 
  
 
