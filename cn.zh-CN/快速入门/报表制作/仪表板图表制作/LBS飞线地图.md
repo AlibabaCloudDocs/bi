@@ -1,5 +1,7 @@
 # LBS飞线地图 {#concept_pgm_jpv_k2b .concept}
 
+**说明：** LBS飞线地图只可用于**Quick BI专业版**。
+
 如果您已经阅读过[仪表板概述](cn.zh-CN/快速入门/报表制作/仪表板概述.md#)和[仪表板基本操作](cn.zh-CN/快速入门/报表制作/仪表板基本操作.md#)，那么本章将为您介绍如何创建一个LBS飞线地图。如果您还需要对数据集做进一步的编辑，或者想重新创建一个数据集，请参阅[创建数据集](cn.zh-CN/快速入门/数据建模/管理数据集/编辑数据集.md#)。
 
 LBS飞线地图以一个地图轮廓为背景，用动态的飞线反映两地或者多地之间的数据关系。
@@ -17,8 +19,9 @@ LBS飞线地图的地理区域最多只能取2个维度，并且维度类型必�
 1.  登录Quick BI控制台。
 2.  单击**数据集**，进入数据集管理页面。
 3.  选择company\_sales\_record数据集，单击**新建仪表板**，进入仪表板编辑页面。
-    -   如果您使用的是**标准版**或者**高级版**，页面会自动跳转到常规仪表板编辑页面。
-    -   如果您使用的是**专业版**，需要您手动选择进入**常规模式**或者**全屏模式**。以下示例以**常规模式**为例。
+
+    **说明：** 如果您使用的是**专业版**，需要您手动选择进入**常规模式**或者**全屏模式**。以下示例以**常规模式**为例。
+
 4.  单击**LBS飞线地图**图标，LBS飞线地图的图例会自动显示在仪表板展示区。
 5.  在数据标签页，为LBS飞线地图选择需要的维度字段和度量字段。
 
@@ -26,18 +29,18 @@ LBS飞线地图的地理区域最多只能取2个维度，并且维度类型必�
 
     **说明：** 请确保区域字段和省份字段的维度类型已经从字符串切换为了地理信息。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15382144686992_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15403703056992_zh-CN.png)
 
 6.  单击**更新**，系统自动更新图表。
 7.  在样式标签页可更改图表的标题，布局和系列设置，如下图所示。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15382144686993_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15403703056993_zh-CN.png)
 
     在布局中，将地图底图设置为高德电子地图，并且将显示图例设置在图表下方，更新后的图表如下图所示。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15382144686994_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15403703056994_zh-CN.png)
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15382144686995_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15403703056995_zh-CN.png)
 
     **说明：** 由于图表中的飞线是动态的，您还可以通过飞线时间来调整飞线的运动速度。数值越大，飞线的速度就越慢。
 
