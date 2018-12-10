@@ -14,13 +14,13 @@ Quick BI操作便捷。通过智能化的数据建模工具，极大降低了数
 
 下图为某公司大盘示例，详情请登录Quick BI系统查看：
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9062/154400396210653_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9062/154443784810653_zh-CN.png)
 
 ## 如何进入Quick BI系统 {#section_gdw_k4v_tdb .section}
 
 在Quick BI产品详情页，单击**管理控制台**，就可以进入Quick BI控制台。
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9062/1544003962988_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9062/1544437848988_zh-CN.png)
 
 ## 学习课堂 {#Learning .section}
 
