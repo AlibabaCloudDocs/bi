@@ -14,7 +14,7 @@ Go to the data source creation page to create a cloud data source.
 1.  Click the **MaxCompute** icon.
 2.  Specify the parameters required for data source connection as follows:
 
-    ![](http://icms-static-translation.oss-cn-hangzhou.aliyuncs.com/SP_78/DNQBI11855835/images/13878_zh-CN.png?Expires=1541233986&OSSAccessKeyId=LTAIJfoPL6wmrirR&Signature=qPDr4PFHDAZfzQILpz3Dabe7KiQ%3D)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154461173813878_en-US.png)
 
     -   Name: The display name in the data source list.
     -   Database Endpoint: You do not need to modify the default address. If you want to modify it, see [Access domains and data centers](https://www.alibabacloud.com/help/doc-detail/34951.htm).
@@ -46,7 +46,7 @@ For more information about how to add and set a whitelist, see [Access domains a
 1.  Click the **MySQL** icon.
 2.  Specify the parameters required for data source connection as follows:
 
-    ![](http://icms-static-translation.oss-cn-hangzhou.aliyuncs.com/SP_78/DNQBI11855835/images/13887_zh-CN.png?Expires=1541233986&OSSAccessKeyId=LTAIJfoPL6wmrirR&Signature=vYAC%2B9uJnPT7tx0Yy8Ug%2BYNBulg%3D)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154461173813887_en-US.png)
 
     -   Name: The display name in the data source list.
     -   Database Endpoint: The host name or IP address.
@@ -69,7 +69,7 @@ You can add a data source from RDS for SQL Server in a similar way you add a dat
 1.  Click the **SQL Server** icon.
 2.  Specify the parameters required for data source connection as follows:
 
-    ![](http://icms-static-translation.oss-cn-hangzhou.aliyuncs.com/SP_78/DNQBI11855835/images/13888_zh-CN.png?Expires=1541233986&OSSAccessKeyId=LTAIJfoPL6wmrirR&Signature=hHjSGUmeYTdiGOSW2MYINZ1RCxA%3D)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154461173813888_en-US.png)
 
     -   Name: The display name in the data source list.
     -   Database Endpoint: The host name or IP address.
@@ -86,7 +86,7 @@ You can add a data source from RDS for SQL Server in a similar way you add a dat
 1.  Click the **Analytic DB** icon.
 2.  Specify the parameters required for data source connection as follows:
 
-    ![](http://icms-static-translation.oss-cn-hangzhou.aliyuncs.com/SP_78/DNQBI11855835/images/13889_zh-CN.png?Expires=1541233986&OSSAccessKeyId=LTAIJfoPL6wmrirR&Signature=5NFxdSc%2FHhrUOGQGCswvcplYcYE%3D)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154461173813889_en-US.png)
 
     -   Name: The display name in the data source list.
     -   Database Endpoint: The host name or IP address.
@@ -104,7 +104,7 @@ You can add a data source from HybridDB for MySQL in a similar way you add a dat
 1.  Click the **HybridDB for MySQL** icon.
 2.  Specify the parameters required for data source connection as follows:
 
-    ![](http://icms-static-translation.oss-cn-hangzhou.aliyuncs.com/SP_78/DNQBI11855835/images/13890_zh-CN.png?Expires=1541233986&OSSAccessKeyId=LTAIJfoPL6wmrirR&Signature=Lqcwl3FH4SjDgp7nBgc601yNFhE%3D)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154461173813890_en-US.png)
 
     -   Name: The display name in the data source list.
     -   Database Endpoint: The host name or IP address.
@@ -122,7 +122,7 @@ You can add a data source from HybridDB for PostgreSQL in a similar way you add 
 1.  Click the **HybridDB for PostgreSQL** icon.
 2.  Specify the parameters required for data source connection as follows:
 
-    ![](http://icms-static-translation.oss-cn-hangzhou.aliyuncs.com/SP_78/DNQBI11855835/images/13891_zh-CN.png?Expires=1541233986&OSSAccessKeyId=LTAIJfoPL6wmrirR&Signature=nT4VENDycTE1phIUKz9GVYgBpzk%3D)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154461173813891_en-US.png)
 
     -   Name: The display name in the data source list.
     -   Database Endpoint: The host name or IP address.
@@ -139,7 +139,7 @@ You can add a data source from HybridDB for PostgreSQL in a similar way you add 
 1.  Click the **PostgreSQL** icon.
 2.  Specify the parameters required for data source connection as follows:
 
-    ![](http://icms-static-translation.oss-cn-hangzhou.aliyuncs.com/SP_78/DNQBI11855835/images/13892_zh-CN.png?Expires=1541233986&OSSAccessKeyId=LTAIJfoPL6wmrirR&Signature=9AeCsnhEzHkFi%2FBa3KWFF%2FMVrZA%3D)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154461173813892_en-US.png)
 
     -   Name: The display name in the data source list.
     -   Database Endpoint: The host name or IP address.
@@ -158,7 +158,7 @@ You can add a data source from RDS for PPAS in a similar way you add a data sour
 1.  Click the **PPAS** icon.
 2.  Specify the parameters required for data source connection as follows:
 
-    ![](http://icms-static-translation.oss-cn-hangzhou.aliyuncs.com/SP_78/DNQBI11855835/images/13893_zh-CN.png?Expires=1541233986&OSSAccessKeyId=LTAIJfoPL6wmrirR&Signature=ntgMMuiTdFnZPWrw3iM9idpibOo%3D)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154461173813893_en-US.png)
 
     -   Name: The display name in the data source list.
     -   Database Endpoint: The host name or IP address.
@@ -177,7 +177,7 @@ If you have purchased **Quick BI Professional**, you can add a Hive data source.
 1.  Click the **Hive** icon.
 2.  Specify the parameters required for data source connection as follows:
 
-    ![](http://icms-static-translation.oss-cn-hangzhou.aliyuncs.com/SP_78/DNQBI11855835/images/13894_zh-CN.png?Expires=1541233986&OSSAccessKeyId=LTAIJfoPL6wmrirR&Signature=4pDhf%2FDJnAas92CKqnjnq%2F9tg4A%3D)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154461173913894_en-US.png)
 
     -   Name: The display name in the data source list.
     -   Database Endpoint: The host name or IP address.
