@@ -6,7 +6,7 @@ This section describes how to create a dashboard with a cross-chart reference. T
 
 ## Prepare sample datasets {#section_pyy_lgz_5db .section}
 
-Create a dataset by using a CSV file. For more information, see[Upload local files](../../../../intl.en-US/User Guide/Data modeling/Data source management/Upload local files.md#).
+Create a dataset by using a CSV file. For more information, see [Upload local files](../../../../intl.en-US/User Guide/Data modeling/Data source management/Upload local files.md#).
 
 Rename this dataset **demo sales dataset**.
 
@@ -22,7 +22,7 @@ Click the **Update** button.
 
 On the **Style** tab, set the title of the pie chart to Regional Data. The result is shown in the following figure.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907141716_en-US.jpg)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907841716_en-US.jpg)
 
 ## Create a table that contains sales and profit details of cities in each region {#section_vkw_ll2_vdb .section}
 
@@ -36,7 +36,7 @@ On the **Style** tab of the table, set the title of this table to **City data de
 
 Click the **Update** button. The result is shown as follows.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907141851_en-US.jpg)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907841851_en-US.jpg)
 
 ## Configure a cross-chart reference on the pie chart {#section_yvx_kmf_vdb .section}
 
@@ -48,15 +48,15 @@ Click the **Preview** button to view how the correlation works.
 
 Click the **East** region on the pie chart, the data is shown as follows.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907141862_en-US.jpg)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907841862_en-US.jpg)
 
-Click the **North** region on the pie chart, the data is shown as follows.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907141863_en-US.jpg)
+Click the **North** region on the pie chart, the data is shown as follows.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907841863_en-US.jpg)
 
 ## Save the dashboard {#section_nsz_qnf_vdb .section}
 
 Save this dashboard after you complete the previous steps.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907141864_en-US.jpg)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907841864_en-US.jpg)
 
 ## Publish the dashboard {#section_qmt_znf_vdb .section}
 
@@ -64,5 +64,5 @@ If no sensitive data exists in a dashboard, you can publish this dashboard on th
 
 You can publish the dashboard as shown in the following figure.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907141869_en-US.jpg)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907841869_en-US.jpg)
 
