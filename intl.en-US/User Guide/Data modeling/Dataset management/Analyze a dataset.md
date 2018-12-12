@@ -8,12 +8,12 @@ You can use workbooks to analyze datasets.
 2.  Select **Workspace**.
 3.  Click **Workbooks** to enter the Workbooks page as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9094/15445990141333_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9094/15445994131333_en-US.png)
 
 4.  Click **Create Workbook** to enter the Workbooks page as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9094/15445990141334_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9094/15445994131334_en-US.png)
 
 
-For more information about workbook operations, see [EN-US\_TP\_9078.md\#](intl.en-US/Quick Start/Example: Create a workbook.md#).
+For more information about workbook operations, see [Example: Create a workbook](../../../../intl.en-US/Quick Start/Example: Create a workbook.md).
 
