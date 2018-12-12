@@ -22,6 +22,8 @@ Click the **Update** button.
 
 On the **Style** tab, set the title of the pie chart to Regional Data. The result is shown in the following figure.
 
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907141716_en-US.jpg)
+
 ## Create a table that contains sales and profit details of cities in each region {#section_vkw_ll2_vdb .section}
 
 In the configuration area of this dashboard, click the table icon and then drag it to the lower half of the dashboard. You can configure data attributes of this table as follows.
@@ -34,9 +36,11 @@ On the **Style** tab of the table, set the title of this table to **City data de
 
 Click the **Update** button. The result is shown as follows.
 
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907141851_en-US.jpg)
+
 ## Configure a cross-chart reference on the pie chart {#section_yvx_kmf_vdb .section}
 
-On the **Advanced** tab of the pie chart, click the pencil icon next to **Correlate** to correlate the pie chart and the table. You can configure the correlation as follows.
+Click **Advanced** tab on pie chart. Join the pie chart with the table.
 
 ## Preview correlations {#section_utx_tmf_vdb .section}
 
@@ -44,13 +48,21 @@ Click the **Preview** button to view how the correlation works.
 
 Click the **East** region on the pie chart, the data is shown as follows.
 
-Click the **North** region on the pie chart, the data is shown as follows.
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907141862_en-US.jpg)
+
+Click the **North** region on the pie chart, the data is shown as follows.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907141863_en-US.jpg)
 
 ## Save the dashboard {#section_nsz_qnf_vdb .section}
 
 Save this dashboard after you complete the previous steps.
 
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907141864_en-US.jpg)
+
 ## Publish the dashboard {#section_qmt_znf_vdb .section}
 
 If no sensitive data exists in a dashboard, you can publish this dashboard on the Internet.
+
+You can publish the dashboard as shown in the following figure.
+
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9188/15445907141869_en-US.jpg)
 
