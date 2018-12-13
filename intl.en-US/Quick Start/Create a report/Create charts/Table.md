@@ -1,37 +1,37 @@
 # Table {#concept_wc5_zl2_vdb .concept}
 
-If you have read [Dashboard overview](intl.en-US/Quick Start/Create a report/Dashboard overview.md#) and [Dashboard basic operations](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Dashboard basic operations.md#), read this section to learn about how to create a table.  If you need to edit the dataset or create a new dataset, see [Create a dataset](intl.en-US/Quick Start/Data modeling/Dataset management/Create a dataset.md#).
+This section describes how to create a table. For more information, see [Dashboard overview](intl.en-US/Quick Start/Create a report/Dashboard overview.md#) and [Basic dashboard operations](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Basic dashboard operations.md#). If you need to edit or create datasets, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
-A table is used to show the values of a table field and divide the values into two groups. One group is listed on the left of the data table, and the other is listed on the top of the data table. Multiple calculations can be performed in the intersection between a column and a row, for example, sum, average, count, maximum, or minimum.
+A table can be used to display the distribution and total of specific variables. One variable defines the values in the header row and the other variable defines the values in the header column. The intersections of rows and columns contain the results of calculations on the data, such as the sum, average, maximum, minimum, or count of the data.
 
-A table consists of rows and columns. The horizontal rows are determined by the data dimension, such as a province or a product type. The vertical columns are determined by the data measurement, such as an order quantity or a profit amount.
+A table consists of rows and columns. Rows are determined by data dimensions, such as province and product type. Columns are determined by data measures, such as order quantity and profit amount.
 
-## Notice on creating a table {#section_fxs_bm2_vdb .section}
+## Note {#section_fxs_bm2_vdb .section}
 
-No restrictions are imposed on the values of the dimension and measurement to define the rows and columns of a table.
+For each table, the numbers of dimensions and measures are unlimited.
 
-The following uses the company\_sales\_record dataset as an example.
+The following scenario uses the company\_sales\_record dataset as an example.
 
-**Scenario: Compare the packages, transportation costs, order quantities, and average profits of different types of products in multiple provinces.**
+**Scenario: Compare multiple types of products with different package designs, transportation costs, order quantities, and profit amounts across multiple provinces**
 
 1.  Log on to the Quick BI console.
-2.  Click **Datasets** to enter the dataset management page.
-3.  Select company\_sales\_record dataset, and click **Create Dashboard**.
-4.  Click table icon.
-5.  On the Data tab, select a required dimension field and measurement field.
+2.  Click **Datasets** to open the dataset management page.
+3.  Select the company\_sales\_record dataset and click **Create Dashboard**.
+4.  Click the table icon and the corresponding legend is displayed.
+5.  Click the Data tab to select data dimensions and data measures.
 
-    In the dimension list, locate the **province**, **product\_type**, and **product\_box** options and add them to the row area in sequence. In the measurement list, locate the **order\_amt**, **shipping\_cost**, and **average\_profit** options and add them to the column area in sequence, as shown in the following figure.
+    In the Dimensions list, select **province**, **Product\_type**, and **Product\_box**, and add them sequentially to Row. In the Measures list, select **order\_amt**, **shipping\_cost**, and **average\_profit**, and add them sequentially to Column, as shown in the following figure:
 
-    **Note:** Make sure that the dimension type of the region and province fields have been switched from string to geological information.
+    **Note:** Make sure you have changed the data type of Province from String to Location.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9131/15332639281722_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9131/15447021191722_en-US.png)
 
-6.  Click **Update**. The system automatically updates the chart.
-7.  On the Style tab, you can edit the title and layout.
+6.  Click **Update** to generate the table.
+7.  In the Style tab, you can change the title, layout, style, and rules of the table.
 
-    In the **Rule** menu, you can edit the data display effect for the table, for example, you can change the font color, add a data identifier, or highlight a data area, to help readers efficiently locate their expected data.
+    In the **Rules** section, you can change the style of the data so that viewers can quickly find important data. For example, change the font color, add marks to specific data, or highlight cells based on custom rules.
 
 8.  Click the **Save** icon to save the dashboard.
 
-To delete the current chart, point to the upper-right corner of the chart, and choose **Delete** from the shortcut menu.
+To delete the table, move the mouse to the upper-right corner and click **Delete** in the toolbar that appears.
 
