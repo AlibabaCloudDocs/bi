@@ -1,34 +1,34 @@
 # Word cloud {#concept_lnr_m3f_vdb .concept}
 
-If you have read [Dashboard overview](intl.en-US/Quick Start/Create a report/Dashboard overview.md#) and [Dashboard basic operations](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Dashboard basic operations.md#), read this section to learn about how to create a word cloud. If you need to edit the dataset or create a new dataset, see [Create a dataset](intl.en-US/Quick Start/Data modeling/Dataset management/Create a dataset.md#).
+This section describes how to create a word cloud. For more information, see [Dashboard overview](intl.en-US/Quick Start/Create a report/Dashboard overview.md#) and [Basic dashboard operations](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Basic dashboard operations.md#). If you need to edit or create datasets, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
-A word cloud intuitively shows the word frequency. It can be used to prepare user persona and user labels.
+A word cloud displays the frequency of words clearly. It is suitable for creating user personas and user tags.
 
-A word cloud consists of word labels and the word size. The word is determined by the data dimension, such as the customer name or product type. The word size is determined by the data measurement, such as the profit or unit price.
+A word cloud consists of words of varying sizes. Labels are determined by data dimensions, such as customer name and product name. Metrics are determined by data measures, such as profit amount and unit price.
 
-## Notice on creating a word cloud {#section_p14_43f_vdb .section}
+## Note {#section_p14_43f_vdb .section}
 
-Word of a word cloud can have only one dimension, and the word size can have only one measurement.
+For each word cloud, one and only one dimension must be specified to determine labels. One and only one measure must be specified to determine metrics.
 
-The following uses the company\_sales\_record dataset as an example.
+The following scenario uses the company\_sales\_record dataset as an example.
 
-**Scenario: Compare the order quantity of different provinces.**
+**Scenario: Compare the order quantities across different provinces**
 
 1.  Log on to the Quick BI console.
-2.  Click **Datasets** to enter the dataset management page.
-3.  Select company\_sales\_record dataset, and click **Create Dashboard**.
-4.  Click word cloud icon.
-5.  On the Data tab, select a required dimension field and measurement fields.
+2.  Click **Datasets** to open the dataset management page.
+3.  Select the company\_sales\_record dataset and click **Create Dashboard**.
+4.  Click the Word Cloud icon and the corresponding legend is displayed.
+5.  Click the Data tab to select the data dimension and data measure.
 
-    In the dimension list, locate the province option and add it to the word area. In the measurement list, locate the **order\_number** option and add it to the word size area, as shown in the following figure.
+    In the Dimensions list, select **province** and add it to Word. In the Measures list, select **order\_number** and add it to Word Size, as shown in the following figure:
 
-    **Note:** Make sure that the dimension type of the region and province fields have been switched from string to geological information.
+    **Note:** Make sure you have changed the data type of Province from String to Location.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9140/15332648311819_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9140/15447048001819_en-US.png)
 
-6.  Click **Update**. The system automatically updates the chart.
-7.  On the Style tab, you can set the title and legends of the chart.
+6.  Click **Update** to generate the chart.
+7.  In the Style tab, you can change the title of the chart.
 8.  Click the **Save** icon to save the dashboard.
 
-To delete the current chart, point to the upper-right corner of the chart, and choose **Delete** from the shortcut menu.
+To delete the chart, move the mouse to the upper-right corner and click **Delete** in the toolbar that appears.
 
