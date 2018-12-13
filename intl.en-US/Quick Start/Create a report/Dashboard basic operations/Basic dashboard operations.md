@@ -11,16 +11,16 @@ To learn how to create charts, see [Charts overview](intl.en-US/Quick Start/Crea
 **Quick BI Quick BI Pro**
 
 1.  Log on to the Quick BI console.
-2.  Click**Workspace** \> **Dashboards**to go to the Dashboards page.
-3.  Click**Create Dashboard** \> **Standard**to go to the dashboard editing page.
+2.  Click **Workspace** \> **Dashboards** to go to the Dashboards page.
+3.  Click **Create Dashboard** \> **Standard** to go to the dashboard editing page.
 
 **Quick BI Professional edition**
 
 1.  Log on to the Quick BI console.
-2.  Click**Workspace** \> **Dashboards**to go to the Dashboards page.
+2.  Click **Workspace** \> **Dashboards** to go to the Dashboards page.
 3.  Hover your mouse cursor over **Create Dashboard** button and select a display mode. Click the display mode, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9111/15446730001432_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9111/15446732691432_en-US.png)
 
     For more information about how to **create standard dashboards**, see [Standard dashboards](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Standard mode.md#).
 
