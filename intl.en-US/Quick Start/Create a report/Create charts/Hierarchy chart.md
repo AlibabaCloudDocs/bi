@@ -1,36 +1,36 @@
 # Hierarchy chart {#concept_esg_blf_vdb .concept}
 
-If you have read [Dashboard overview](intl.en-US/Quick Start/Create a report/Dashboard overview.md#) and [Dashboard basic operations](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Dashboard basic operations.md#), read this section to learn about how to create a hierarchy chart. If you need to edit the dataset or create a new dataset, see [Create a dataset](intl.en-US/Quick Start/Data modeling/Dataset management/Create a dataset.md#).
+This section describes how to create a hierarchy. For more information, see [Dashboard overview](intl.en-US/Quick Start/Create a report/Dashboard overview.md#) and [Basic dashboard operations](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Basic dashboard operations.md#). If you need to edit or create datasets, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
-A hierarchy chart displays the organizational relationship of hierarchical data using a tree structure and organizes objects using a parent-child structure. It can be used for enumeration. For example, if you want to view the income of each prefecture-level city in a province, you can use a hierarchychart to show the parent-child relationship of the province and its prefecture-level cities. Hierarchy charts apply to analysis related to organizational structures, for example, staff structure of a company or department structure of a hospital.
+A hierarchy uses the tree structure to display and organize hierarchical data. It is an implementation of the enumeration method. For example, when reviewing the revenues of the prefecture-level cities in one province, the relationships between the province and prefecture-level cities can be displayed as parent-child structures. Hierarchys are used for analyzing hierarchical data and creating staff organization charts and department organization charts.
 
-A hierarchy chart consists of node metrics and node labels. The node label is determined by the data dimension, such as the region or product type. The node metrics is determined by the data measurement, such as the order quantity or order amount.
+A hierarchy contains a sequence of nodes with different labels and metrics. Each node label is determined by data dimensions, such as area and product type. Each node metric is determined by data measures, such as order quantity and order amount.
 
-## Notice on creating a hierarchy chart {#section_jg5_2lf_vdb .section}
+## Note {#section_jg5_2lf_vdb .section}
 
-The node labels must have at least two dimensions, and the dimension fields have parent-child relationship. The node metrics must have at least one measurement.
+For each hierarchy, at least two dimensions must be specified to determine node labels. These two dimensions should have a parent-child relationship. At least one measure must be specified to determine the node metric.
 
-The following uses the company\_sales\_record dataset as an example.
+The following scenario uses the company\_sales\_record dataset as an example.
 
-**Scenario: Compare the order quantity of different products in provinces in different regions.**
+**Scenario: Compare the order quantities of different products across provinces and areas**
 
 1.  Log on to the Quick BI console.
-2.  Click **Datasets** to enter the dataset management page.
-3.  Select company\_sales\_record dataset, and click **Create Dashboard**. The dashboard editing page is displayed.
-4.  Click hierarchy chart icon
-5.  On the Data tab, select a required dimension field and measurement fields.
+2.  Click **Datasets** to open the dataset management page.
+3.  Select the company\_sales\_record dataset and click **Create Dashboard**.
+4.  Click the hierarchy icon and the corresponding information is displayed.
+5.  Click the Data tab to select data dimensions and data measure.
 
-    In the dimension list, locate the **area**, **province**, and **product\_type** options and add them to the node label area in sequence. The sequence of these options is the parent-child relationship displayed on the chart. In the measurement list, locate the **order\_number** option and add it to the node metrics area, as shown in the following figure.
+    In the Dimensions list, select **Area**, **Province**, and **Product Type**, and add them sequentially to Node Label. This order determines their hierarchical relationships in the diagram. In the Measures list, select **Order Quantity** and add it to Node Metric, as shown in the following figure:
 
-    **Note:** Make sure that the dimension type of the region and province fields have been switched from string to geological information.
+    **Note:** Make sure you have changed the data type of Area and Province from String to Location.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9142/15332650361844_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9142/15447067351844_en-US.png)
 
-6.  Click **Update**. The system automatically updates the chart.
-7.  On the Style tab, you can set the title, layout, and design of the chart.
-    -   A hierarchy chart supports three layouts. You can select the expansion mode \(root nodes are merged by default\) and display mode of parent and child nodes based on your needs.
-    -   You can edit the display hierarchy of the chart in the design menu and manually enter the number of hierarchy levels. You can select a main path through the corresponding field. The main path is displayed in a different color from other paths. You can load the toolbar to the chart so that you can edit the chart in preview mode or on the dashboard.
+6.  Click **Update** to generate the diagram.
+7.  In the Style tab, you can change the title, layout, and design of the diagram.
+    -   Hierarchys support three types of layouts. You can also change the style of tree nodes based on your habits. The root nodes are merged together by default.
+    -   You can edit the levels of hierarchy in the menu bar and manually enter the number of levels. You can specify a primary path based on the field information so that the primary path has a different color to other paths. You can also add a toolbar to the diagram so that you can easily edit the diagram in preview or through the dashboard.
 8.  Click the **Save** icon to save the dashboard.
 
-To delete the current chart, point to the upper-right corner of the chart, and choose **Delete** from the shortcut menu.
+To delete the diagram, move the mouse to the upper-right corner and click **Delete** in the toolbar that appears.
 
