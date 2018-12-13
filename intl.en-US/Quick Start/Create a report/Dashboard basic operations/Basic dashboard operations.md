@@ -20,11 +20,11 @@ To learn how to create charts, see [Charts overview](intl.en-US/Quick Start/Crea
 2.  Click**Workspace** \> **Dashboards**to go to the Dashboards page.
 3.  Hover your mouse cursor over **Create Dashboard** button and select a display mode. Click the display mode, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9111/15446728451432_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9111/15446730001432_en-US.png)
 
     For more information about how to **create standard dashboards**, see [Standard dashboards](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Standard mode.md#).
 
-    For more information about how to **create full-screen dashboards**, see[Full-screen dashboards](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Fullscreen mode.md#).
+    For more information about how to **create full-screen dashboards**, see [Full-screen dashboards](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Fullscreen mode.md#).
 
 
 ## Areas of a dashboard {#section_o4g_gcy_5db .section}
