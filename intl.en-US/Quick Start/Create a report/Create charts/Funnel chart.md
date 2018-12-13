@@ -1,36 +1,36 @@
 # Funnel chart {#concept_u3s_1q2_vdb .concept}
 
-If you have read [Dashboard overview](intl.en-US/Quick Start/Create a report/Dashboard overview.md#) and [Dashboard basic operations](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Dashboard basic operations.md#), read this section to learn about how to create a funnel chart. If you need to edit the dataset or create a new dataset, see [Create a dataset](intl.en-US/Quick Start/Data modeling/Dataset management/Create a dataset.md#).
+This section describes how to create a funnel chart. For more information, see [Dashboard overview](intl.en-US/Quick Start/Create a report/Dashboard overview.md#) and [Basic dashboard operations](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Basic dashboard operations.md#). If you need to edit or create datasets, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
-The funnel chart can be used to analyze business procedure that is relatively standard and has a long cycle and many phases. By comparing business data at each phase using a funnel chart, you can intuitively locate the problem and find the cause. The funnel chart can also be used to show the conversion rate between each phase. It can apply to analysis of complex business procedures. For example, a funnel chart can intuitively show the rate of visitors that finally buy any product after accessing the website.
+Funnel charts are suitable for analyzing business processes that involve a sequence of activities and span a long period of time. By comparing the business data between different stages, you can easily identify potential problems in the business process. Funnel charts can be used to show the conversion rates between stages of the business process. For example, you can see the percentage of visitors who became paying customers in a funnel chart easily.
 
-A funnel chart consists of funnel layer labels and the funnel layer width. A funnel layer label is determined by the data dimension, such as the region. A funnel layer width is determined by the data measurement, such as the order amount.
+A funnel chart consists of a number of tiers with varying labels and widths. The labels of tiers are determined by data dimensions, such as area. The widths of tiers are determined by data measures, such as order amount.
 
-## Notice on creating a funnel chart {#section_vtk_cq2_vdb .section}
+## Note {#section_vtk_cq2_vdb .section}
 
-Both the tier label and the tier area can have only one measurement.
+For each funnel chart, one and only one dimension must be specified to determine the labels of tiers. One and only one measure must be specified to determine the widths of tiers.
 
-The following uses the company\_sales\_record dataset as an example.
+The following scenario uses the company\_sales\_record dataset as an example.
 
-**Scenario: Compare the order amount of different regions.**
+**Scenario: Compare the order amounts across multiple areas**
 
 1.  Log on to the Quick BI console.
-2.  Click **Datasets** to enter the dataset management page. 
-3.  Select the company\_sales\_record dataset, and click **Create Dashboard**.
-4.  Click funnel chart icon.
-5.  On the Data tab, select a required dimension field and measurement fields.
+2.  Click **Datasets** to open the dataset management page.
+3.  Select the company\_sales\_record dataset and click **Create Dashboard**.
+4.  Click the Funnel Chart icon and the corresponding legend is displayed.
+5.  Click the Data tab to select the data dimension and data measure.
 
-    In the dimension list, locate the **area** option and add it to the tier label area. In the measurement list, locate the **order\_amt** option and add it to the tier area, as shown in the following figure.
+    In the Dimensions list, select **area** and add it to Tier Labels. In the Measures list, select **order\_amt** and add it to Tier Area, as shown in the following figure:
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9135/15332644761752_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9135/15447040851752_en-US.png)
 
-6.  Click **Update**. The system automatically updates the chart.
-7.  On the Style tab, you can edit the title, layout, and legends of the funnel chart.
-    -   General config: Configure the title of the chart, the color of the font, and the background color.
-    -   Layout: Configure where the legend is displayed in the chart.
-    -   Measure: Format the related measure and set the number of digits displayed for the decimal.
-    -   Block: Set the display color of the block.
+6.  Click **Update** to generate the chart.
+7.  In the Style tab, you can change the title, layout, and legend of the chart.
+    -   General Configuration: Specify the main title of the chart, the font color, and the background color.
+    -   Layout: Change the position of the legend.
+    -   Measure: Change the style of the measure and specify the number of decimal places to keep for the value.
+    -   Tier: Specify the color of tiers.
 8.  Click the **Save** icon to save the dashboard.
 
-To delete the current chart, point to the upper-right corner of the chart, and choose **Delete** from the shortcut menu.
+To delete the chart, move the mouse to the upper-right corner and click **Delete** in the toolbar that appears.
 
