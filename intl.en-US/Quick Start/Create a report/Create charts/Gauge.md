@@ -22,9 +22,9 @@ The following scenario uses the company\_sales\_record dataset as an example.
 
     **Note:** The system automatically adjusts the angle of the pointer and the text displayed in the tooltip.
 
-    In the Measures list, select **Order Amount** and add it to pointer angle area or tooltip area, as shown in the following figure:
+    In the Measures list, select **order\_amt** and add it to indicator angle area or tooltip area, as shown in the following figure:
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9132/15447025251734_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9132/15447031691734_en-US.png)
 
 6.  Click **Update** to generate the diagram.
 7.  In the Style tab, you can change the title, layout, and tooltip of the diagram and hide the scale.
