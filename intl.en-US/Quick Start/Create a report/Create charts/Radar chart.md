@@ -1,34 +1,34 @@
 # Radar chart {#concept_xkk_b42_vdb .concept}
 
-If you have read [Dashboard overview](intl.en-US/Quick Start/Create a report/Dashboard overview.md#) and [Dashboard basic operations](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Dashboard basic operations.md#), read this section to learn about how to create a radar chart. If you need to edit the dataset or create a new dataset, see [Create a dataset](intl.en-US/Quick Start/Data modeling/Dataset management/Create a dataset.md#).
+This section describes how to create a radar chart. For more information, see [Dashboard overview](intl.en-US/Quick Start/Create a report/Dashboard overview.md#) and [Basic dashboard operations](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Basic dashboard operations.md#). If you need to edit or create datasets, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
-A radar chart can be used to show analyzed numbers or ratios. People can intuitively know the changes and trend of each indicator. For example, you can use a radar chart to show the sales of each region.
+Radar charts can be used to compare multiple variables under different metrics. You can easily understand the distribution of metrics across different variables. For example, you can use a radar chart to compare sales across multiple areas.
 
-A radar chart consists of branch labels and the branch length. Radius labels are determined by the data dimension, such as the product type. The radius is determined by the data measurement, such as the shipping costs.
+A radar chart consists of a sequence of radius labels with varying radius. Radius labels are determined by data dimensions, such as product type. Radius are determined by data measures, such as transportation cost.
 
-## Notice on creating a radar chart {#section_xbs_d42_vdb .section}
+## Note {#section_xbs_d42_vdb .section}
 
-Branch labels of a radar chart have one to two dimensions, and a dimension value must be greater than three and smaller than or equal to 12. The branch length must have at least one measurement.
+For each radar chart, one or two dimensions can be specified to determine radius labels. The specified dimensions must contain 3 to 12 variables. At least one measure must be specified to determine Radius.
 
-The following uses the company\_sales\_record dataset as an example.
+The following scenario uses the company\_sales\_record dataset as an example.
 
-**Scenario: Compare the order quantity and order amount of different regions.**
+**Scenario: Compare the order quantities and order amounts across areas**
 
 1.  Log on to the Quick BI console.
-2.  Click **Datasets** to enter the dataset management page.
-3.  Select company\_sales\_record dataset, and click **Create Dashboard**.
-4.  Click radar chart icon.
-5.  On the Data tab, select a required dimension field and measurement fields.
+2.  Click **Datasets** to open the dataset management page.
+3.  Select the company\_sales\_record dataset and click **Create Dashboard**.
+4.  Click the Radar icon and the corresponding legend is displayed.
+5.  Click the Data tab to select data dimensions and data measures.
 
-    In the dimension list, locate the **area** option and add it to the radius label area. In the measurement list, locate the **order\_amt** and **order\_number** options, and add them to the radius area in sequence, as shown in the following figure.
+    In the Dimensions list, select **area** and add it to radius label. In the Measures list, select **order\_number** and **order\_amt**, and add them sequentially to radius, as shown in the following figure:
 
-    **Note:** Make sure that the dimension type of the region field has been switched from string to geological information.
+    **Note:** Make sure you have changed the data type of Area from String to Location.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9133/15332643311744_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9133/15447036551744_en-US.png)
 
-6.  Click **Update**. The system automatically updates the chart.
-7.  On the **Style** tab, you can edit the title, layout, and legends of the radar chart.
+6.  Click **Update** to generate the chart.
+7.  In the **Style** tab, you can change the title, layout, and legend of the chart as follows:
 8.  Click the **Save** icon to save the dashboard.
 
-To delete the current chart, point to the upper-right corner of the chart, and choose **Delete** from the shortcut menu.
+To delete the chart, move the mouse to the upper-right corner and click **Delete** in the toolbar that appears.
 
