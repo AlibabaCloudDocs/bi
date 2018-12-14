@@ -26,9 +26,9 @@ The following scenario is based on the company\_sales\_record dataset.
 
     On the Dimension list, drag **product\_type** to the Category Axis \(Dimensions\) area. On the Measures list, drag **order\_amt** and **price** to the Value Axis \(Measures\) area in turn as shown in the following figure.
 
-    **Note:** You must ensure that you have changed the province field from the string type to the location type. For more information about how to change data types of a dimension, see[Example: Create a dashboard](intl.en-US/Quick Start/Example: Create a dashboard.md#).
+    **Note:** You must ensure that you have changed the province field from the string type to the location type. For more information about how to change data types of a dimension, see [Example: Create a dashboard](intl.en-US/Quick Start/Example: Create a dashboard.md#).
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9124/15447743761589_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9124/15447745411589_en-US.png)
 
 6.  On the Style tab, you can change some items such as the title, layout, legend, and axis format of a chart.
 
