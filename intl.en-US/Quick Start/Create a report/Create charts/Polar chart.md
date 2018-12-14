@@ -1,34 +1,34 @@
 # Polar chart {#concept_wby_whf_vdb .concept}
 
-If you have read [Dashboard overview](intl.en-US/Quick Start/Create a report/Dashboard overview.md#) and [Dashboard basic operations](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Dashboard basic operations.md#), read this section to learn about how to create a polar chart. If you need to edit the dataset or create a new dataset, see [Create a dataset](intl.en-US/Quick Start/Data modeling/Dataset management/Create a dataset.md#).
+This section describes how to create a polar chart. For more information, see [Dashboard overview](intl.en-US/Quick Start/Create a report/Dashboard overview.md#) and [Basic dashboard operations](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Basic dashboard operations.md#). If you need to edit or create datasets, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
-A polar chart can be used to show data changes in a period of time or comparison between multiple items. Polar charts apply to enumerated values, for example, comparison between data of different regions.
+A polar chart can be used to display data changes over time or compare metric values. It is suitable for enumeration. For example, compare data across different regions.
 
-Similar to a Pie chart, a polar chart consists of multiple slices. The label of each slice is determined by the data dimension, such as the region or product type. The length of each slice is determined by the data measurement, such as the order quantity or order amount.
+Similar to [Pie chart](intl.en-US/Quick Start/Create a report/Create charts/Pie chart.md#), a polar chart consists of sectors of varying slice labels and arc radiuses. Slice labels are determined by data dimensions, such as area and product type. Arc radiuses are determined by data measures, such as order quantity and order amount.
 
-## Notice on creating a polar chart {#section_p5q_yhf_vdb .section}
+## Note {#section_p5q_yhf_vdb .section}
 
-Slice labels of a polar chart can have only one dimension, and the number of dimension members must be greater than 3 and smaller than or equal to 12. The slice length can have only one measurement.
+For each polar chart, one and only one dimension must be specified to determine slice labels. This dimension must contain 3 to 12 variables. One and only one measure must be specified to determine arc radiuses.
 
-The following uses the company\_sales\_record dataset as an example.
+The following scenario uses the company\_sales\_record dataset as an example.
 
-**Scenario: Compare the order quantity of different regions. \(The number of regions must be greater than three and smaller than or equal to 12.\)**
+**Scenario: Compare the order quantities across multiple areas**
 
 1.  Log on to the Quick BI console.
-2.  Click **Datasets** to enter the dataset management page.
-3.  Select company\_sales\_record dataset, and click **Create Dashboard**.
-4.  Click polar chart icon.
-5.  On the Data tab, select a required dimension field and measurement fields.
+2.  Click **Datasets** to open the dataset management page.
+3.  Select the company\_sales\_record dataset and click **Create Dashboard**.
+4.  Click the Polar Chart icon and the corresponding legend is displayed.
+5.  Click the Data tab to select the data dimension and data measure.
 
-    In the dimension list, locate the **area** option and add it to the slice label area. In the measurement list, locate the **order\_number** option, and add it to the arc radius area, as shown in the following figure.
+    In the Dimensions list, select **area** and add it to Slice Label. In the Measures list, select **order\_number** and add it to Arc Radius, as shown in the following figure:
 
-    **Note:** Make sure that the dimension type of the region field has been switched from string to geological information.
+    **Note:** Make sure you have changed the data type of area from String to Location.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9139/15332647451816_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9139/15447615751816_en-US.png)
 
-6.  Click **Update**. The system automatically updates the chart.
-7.  On the Style tab, you can change the title and legends of the chart.
+6.  Click **Update** to generate the chart.
+7.  In the Style tab, you can change the title and legend of the chart, the style of the metric values.
 8.  Click the **Save** icon to save the dashboard.
 
-To delete the current chart, point to the upper-right corner of the chart, and choose **Delete** from the shortcut menu.
+To delete the chart, move the mouse to the upper-right corner and click **Delete** in the toolbar that appears.
 
