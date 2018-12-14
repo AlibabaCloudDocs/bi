@@ -1,6 +1,6 @@
 # LBS flying line map {#concept_pgm_jpv_k2b .concept}
 
-**Note:** LBS flying line maps are only available to **Quick BI Pro** users.
+**Note:** LBS flying line map is only applied to **Quick BI Professional Edition**.
 
 This section describes how to create an LBS flying line map. For more information, see [Dashboard overview](intl.en-US/Quick Start/Create a report/Dashboard overview.md#) and [Dashboard basic operations](intl.en-US/Quick Start/Create a report/Dashboard basic operations.md#). If you need to edit or create datasets, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Edit a dataset.md#).
 
@@ -29,16 +29,16 @@ The following scenario uses the company\_sales\_record dataset as an example.
 
     **Note:** Make sure you have changed the data type of Area and Province from String to Location.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15447551046992_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15447552536992_en-US.png)
 
 6.  Click **Update** to generate the diagram.
 7.  In the Style tab, you can change the title and layout of the diagram, and change series settings as follows:
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15447551046993_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15447552536993_en-US.png)
 
     In the Layout section, you can set the basemap to AMAP and move the Legend to the bottom of the map. The updated diagram is as follows:
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15447551046994_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15447552536994_en-US.png)
 
     **Note:** A dot is moving along each LBS flying line metric to indicate the direction of traffic. You can set Time to adjust its speed. A greater value indicates a lower speed.
 
