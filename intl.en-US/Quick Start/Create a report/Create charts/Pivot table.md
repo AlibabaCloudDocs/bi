@@ -1,6 +1,6 @@
 # Pivot table {#concept_kcw_cqf_vdb .concept}
 
-**Note:** Pivot tables are only applied to **Quick BI Professional Edition**
+**Note:** Pivot tables are only applied to **Quick BI Professional Edition**.
 
 This section describes how to create a pivot table. For more information, see [Dashboard overview](intl.en-US/Quick Start/Create a report/Dashboard overview.md#) and [Basic dashboard operations](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Basic dashboard operations.md#). If you need to edit or create datasets, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
@@ -27,28 +27,28 @@ The following scenario uses the company\_sales\_record dataset as an example.
 
     **Note:** Make sure you have changed the data type of Province from String to Location.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9146/15447929781878_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9146/15447930331878_en-US.png)
 
 6.  Click **Update** to generate the table.
 7.  In the Style tab, you can change the title, layout, and style of the table as follows:
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9146/15447929781880_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9146/15447930331880_en-US.png)
 
     -   In the **Layout** section, select Show Row Numbers and Add Summary Statistics. The updated table is as follows:
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9146/15447929781881_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9146/15447930331881_en-US.png)
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9146/15447929781882_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9146/15447930331882_en-US.png)
 
     -   In the **Set Format** section, set the number of decimal places of order\_amt to 1. The updated table is as follows:
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9146/15447929781884_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9146/15447930331884_en-US.png)
 
 8.  Click the **Plus** sign ahead of a value to drill into the data in a tree structure.
 
     For example, when you click the plus sign ahead of **Shanghai**, data about product types and packet designs are displayed in a tree structure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9146/15447929781886_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9146/15447930331886_en-US.png)
 
 9.  Click the **Save** icon to save the dashboard.
 
