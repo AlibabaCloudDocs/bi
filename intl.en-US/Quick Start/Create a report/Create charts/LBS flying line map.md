@@ -1,46 +1,49 @@
 # LBS flying line map {#concept_pgm_jpv_k2b .concept}
 
-If you have read [Dashboard overview](intl.en-US/Quick Start/Create a report/Dashboard overview.md#) and [Dashboard basic operations](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Dashboard basic operations.md#), read this section to learn about how to create a LBS bubble map. If you need to edit a dataset or create a new dataset, see [Create a dataset](intl.en-US/Quick Start/Data modeling/Dataset management/Create a dataset.md#).
+**Note:** LBS flying line maps are only available to **Quick BI Pro** users.
 
-An LBS flying line map uses a map profile as its background. Dynamic flying lines reflect data values between two or more regions.
+This section describes how to create an LBS flying line map. For more information, see [Dashboard overview](intl.en-US/Quick Start/Create a report/Dashboard overview.md#) and [Dashboard basic operations](intl.en-US/Quick Start/Create a report/Dashboard basic operations.md#). If you need to edit or create datasets, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Edit a dataset.md#).
 
-An LBS flying line consists of two geographical regions and LBS flying line measures. Geographical regions are determined by data dimension, such as province or city. The LBS flying line size is determined by a data metric, such as transportation cost or order amount.
+An LBS flying line map is a map that uses LBS flying line metrics to display the relations between data across two or more geographic regions.
 
-## Limitations on creating an LBS flying line map {#section_pdr_xpv_k2b .section}
+An LBS flying line map consists of geographic regions connected with LBS flying line metrics. Regions are determined by data dimensions, such as province and city. LBS flying line metrics are determined by data measures, such as transportation cost and order quantity.
 
-You can set up to two dimensions for the geographical region of an LBS flying line map, and the dimension type must be of geographical information \(such as province and city\). You can create only one LBS flying line metric.
+## Note {#section_pdr_xpv_k2b .section}
 
-The following uses the company\_sales\_record dataset as an example.
+For each LBS flying line map, two dimensions must be specified to determine regions. This dimension must be about geographic information, such as area, province, and city. One and only one measure must be specified to determine LBS flying line metrics.
 
-**Scenario: Create an LBS flying line map to show the transportation cost between regions. **
+The following scenario uses the company\_sales\_record dataset as an example.
+
+**Scenario: Display the costs of transportation from areas to provinces**
 
 1.  Log on to the Quick BI console.
-2.  Click **Datasets** to enter the dataset management page.
-3.  Select company\_sales\_record dataset, and click **Create Dashboard**. The dashboard editing page is displayed.
-    -   If you are using **Standard** or **Advanced** edition, the page automatically jumps to the Standard edit page.
-    -   If you are using **Professional Edition**, you need to manually select either **Standard** or **Fullscreen** mode. The following takes the **Standard** as an example.
-4.  Click the **LBS fly line map** icon, and the legend of the LBS fly line map is automatically displayed in the dashboard display area.
-5.  On the Data tab, select a required dimension field and measurement field.
+2.  Click **Datasets** to open the dataset management page.
+3.  Select the company\_sales\_record dataset and click **Create Dashboard**.
 
-    In the dimension list, locate the **area** and add it to the Geographic area/Latitude and longitude \(from\) field in the region. Locate the **province** and add it to the Geographic are/Latitude and longitude \(to\) field. In the metric list, locate the shipping cost and add it to the LBS line metric area, as shown in the following illustration.
+    **Note:** If you are using the **Pro** edition, you need to select between the **Standand Mode** and **Full Screen Mode**. The following example uses the **Standard Mode**.
 
-    **Note:** Make sure that the dimension type of the region and province fields have been switched from string to geological information.
+4.  Click the **LBS flying line map** icon and the corresponding legend is displayed.
+5.  Click the Data tab to select data dimensions and data measure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15382146106992_en-US.png)
+    In the Dimensions list, select **area** and add it to Geographic area/Latitude and longitude \(from\). Select **province** and add it to Geographical area/Latitude and longitude \(to\). In the Measures list, select **shipping\_cost** and add it to LBS flying line metric, as shown in the following figure:
 
-6.  Click **Update**. The system automatically updates the chart.
-7.  On the Style tab,  you can edit the title, layout, and series settings, as shown in the following figure \(optional\).
+    **Note:** Make sure you have changed the data type of Area and Province from String to Location.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15382146106993_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15447551046992_en-US.png)
 
-    In the Layout configuration,  set the Basemap to GeoQ and set the Show legend to Bottom, as shown in the following figure.
+6.  Click **Update** to generate the diagram.
+7.  In the Style tab, you can change the title and layout of the diagram, and change series settings as follows:
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15382146106994_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15447551046993_en-US.png)
 
-    **Note:** You can adjust the speed of LBS flying lines by setting the LBS flying line time.  The higher the value, the slower the flying line will be.
+    In the Layout section, you can set the basemap to AMAP and move the Legend to the bottom of the map. The updated diagram is as follows:
+
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15447551046994_en-US.png)
+
+    **Note:** A dot is moving along each LBS flying line metric to indicate the direction of traffic. You can set Time to adjust its speed. A greater value indicates a lower speed.
 
 8.  Click the **Save** icon to save the dashboard.
 
-    In the upper right corner, select **More** \> **Delete **To delete the current chart.
+    To delete the diagram, move the mouse to the upper-right corner and click **More** \> **Delete** in the toolbar that appears.
 
 
