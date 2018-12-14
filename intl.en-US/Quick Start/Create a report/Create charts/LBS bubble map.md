@@ -27,24 +27,20 @@ The following scenario uses the company\_sales\_record dataset as an example.
 
     In the Dimensions list, select **province** and add it to Location. In the Measures list, select **order\_number** and **profit\_amt**, and add them to LBS bubble size, as shown in the following figure:
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15447539951870_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15447543761870_en-US.png)
 
 6.  Click **Update** to generate the diagram.
 7.  In the Style tab, you can change the title and layout of the diagram and the style of specific fields.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15447539951871_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15447543761871_en-US.png)
 
     -   In the **Layout** section, you can change the basemap, resize the map, and adjust the coordinates of the longitude and latitude. For example, when the basemap is set to **GeoQ**, the updated diagram is as follows:
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15447539951872_en-US.png)
-
-        ![](images/1873_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15447543761872_en-US.png)
 
     -   In the **Series Settings** section, you can change the number of decimal places of order amounts to 2. The updated diagram is as follows:
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15447539961874_en-US.png)
-
-        ![](images/1876_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15447543771874_en-US.png)
 
 8.  Click the **Save** icon to save the dashboard.
 
