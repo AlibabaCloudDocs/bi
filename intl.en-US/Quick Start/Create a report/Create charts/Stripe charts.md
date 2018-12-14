@@ -24,12 +24,12 @@ The following scenario uses the company\_sales\_record dataset.
 
     You can search for municipalities from cities by using filters as the following figure shows.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9127/15447922651691_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9127/15447924301691_en-US.png)
 
 6.  Click the **Filter** icon and select **Filter by Enumeration** in the dialog box that appears.
 7.  Select four municipalities from the list or enter the names of them manually, and click **OK** as the following figure shows.
 
-    ![](images/11402_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9127/15447924301692_en-US.png)
 
 8.  Drag the **city** and **product\_type** fields to the Category Axis \(Dimensions\) area in turn.
 
@@ -45,7 +45,7 @@ The following scenario uses the company\_sales\_record dataset.
 
     **Note:** For more information about the Style tab, see [Configure a chart](intl.en-US/Quick Start/Create a report/Dashboard basic operations/Configure a chart.md#).
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9127/15447922651693_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9127/15447924311693_en-US.png)
 
     -   In General config, select **Dark** as the background color.
     -   In Style, select **Stacked**.
@@ -53,7 +53,7 @@ The following scenario uses the company\_sales\_record dataset.
     -   In Axis, select **Display scale** on the X-Axis tab.
     After you complete the configuration, the chart is shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9127/15447922651695_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9127/15447924311695_en-US.png)
 
 13. Click **Save** to save the dashboard.
 
