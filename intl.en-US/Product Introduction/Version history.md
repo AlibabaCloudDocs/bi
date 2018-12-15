@@ -26,15 +26,15 @@ The Quick BI interaction is updated to support all features. The Quick BI naviga
 
 -   Home: Visitors can find related reports from shared with me and favorites. New users can quickly view resources in workspaces by installing cases and applying for workspaces.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15448454911054_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15448456071054_en-US.png)
 
 -   Workspace: Supports data sources, datasets, dashboards, and workbooks. Provides optimized visual styles of dashboard components and enhanced features of filter bars.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15448454911055_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15448456071055_en-US.png)
 
 -   Guide: A workflow that provides you with an overview of the production process and a quickstart guide.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15448454911056_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15448456071056_en-US.png)
 
 -   Subscriptions: Create, manage, and monitor related mail tasks.
 
@@ -49,7 +49,7 @@ Updates for the Quick BI Pro
 
     Added new data analysis methods for workbooks. Supports retrieving data from workbook cells, and displaying and processing data from different data sources. Supports more than 200 data processing functions that are similar to those in Excel.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15448454911057_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15448456071057_en-US.png)
 
 -   Subscriptions
 
@@ -73,7 +73,7 @@ Quick BI Pro supports a limit of 20 reports to be embedded. Quick BI Basic has d
 Feature updates are as follows:
 
 -   Data source now supports HybridDB for MySQL.
--   An administration page that can be embedded in a third-party system report is added to the personal workspace. You can embed new third-party reports to make the system easier to use. For more information, see [Grant third-party report permissions to group workspaces](https://help.aliyun.com/knowledge_detail/55768.html).
+-   An administration page that can be embedded in a third-party system report is added to the personal workspace. You can embed new third-party reports to make the system easier to use.
 -   The view is now available under the SQL server data source.
 -   You can now add notes to the calculated fields.
 
