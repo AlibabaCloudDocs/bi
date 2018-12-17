@@ -4,7 +4,7 @@ For example, if a sales team serves customers across the country, they must be a
 
 Row-level permissions of Quick BI make different data of a report be available to different people. This section describes the feature by taking the company\_sales\_record dataset as an example. For more information about how to create a dataset, see [Create a dataset](../../../../intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
-**Note:** Currently, row-level permissions are only available in Quick BI Pro and Quick BI Enterprise. If you want to activate Quick BI Pro or Quick BI Enterprise, see [Quick BI purchase, upgrade, and renew](../../../../intl.en-US/Pricing/Purchase, upgrade, and renew Quick BI services.md#).
+**Note:** Currently, row-level permissions are only available in Quick BI Pro and Quick BI Professional. If you want to activate Quick BI Pro or Quick BI Professional, see [Quick BI purchase, upgrade, and renew](../../../../intl.en-US/Pricing/Purchase, upgrade, and renew Quick BI services.md#).
 
 ## Configure row-level permissions {#section_kjm_2bg_vdb .section}
 
@@ -17,18 +17,18 @@ You must configure the row-level permissions of a dataset when it is used to cre
 3.  Click **Dataset** to enter the dataset management page of this workspace.
 4.  Select the required dataset. Click the ellipsis icon or right-click this dataset, and select **Row-Level Permissions** as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9191/15450318711956_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9191/15450326271956_en-US.png)
 
 5.  Select the **Enable Row-Level Access Control** check box, and select **User / User Group Authorization**.
 6.  Click the drop-down arrow and select a field such as area, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9191/15450318711958_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9191/15450326271958_en-US.png)
 
 7.  Select a member in the list.
 
     After you select a member, the field automatically appears in the **Permissions** area as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9191/15450318711961_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9191/15450326271961_en-US.png)
 
 8.  Click **area** to expand all information contained in the field.
 9.  Select an area such as the selected region, and then click **Add**.
