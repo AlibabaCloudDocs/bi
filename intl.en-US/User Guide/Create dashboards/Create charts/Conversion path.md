@@ -1,6 +1,6 @@
 # Conversion path {#concept_u4r_lmf_vdb .concept}
 
-This section describes how to create a conversion path. For more information, see [EN-US\_TP\_9109.md\#](intl.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [EN-US\_TP\_9111.md\#](intl.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#). If you need to edit or create datasets, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
+This section describes how to create a conversion path. For more information, see [Dashboard overview](intl.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [EN-US\_TP\_9111.md\#](intl.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#). If you need to edit or create datasets, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
 A conversion path uses metrics such as page visits, page views \(PVs\) and unique visitors \(UVs\) to calculate the conversion rates on your website. This helps you understand the overall performance of marketing campaigns and measure the sales volume of certain products. Conversion paths are suitable for analyzing digital marketing campaigns and e-commerce websites. For example, you can use conversion paths to find out which products are in great demand and what are the peak hours of your business.
 
