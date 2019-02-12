@@ -15,17 +15,14 @@ You can use a **filter bar** to search data in one or more charts.
 1.  Click a **filter bar**.
 2.  Select a dataset, and select the fields to be added to the filter bar, as shown in the following figure.
 
-    ![](images/11395_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995591438735_en-US.png)
 
 
 Currently, a filter bar supports filter interactions between charts of the current dataset or charts of different datasets.
 
 **Filter interaction example for the current dataset**
 
-1.  Select **Current Dataset**. In the current dataset field list, select the charts by the field type, as shown in the following figure.
-
-    ![](images/11396_en-US.png)
-
+1.  Select **Current Dataset**. In the current dataset field list, select the charts by the field type.
 2.  Click **Style** to edit the display name of the filter bar.
 3.  Click **Search** to filter the associated charts.
 
@@ -49,47 +46,30 @@ Filter bars can also filter data from different datasets. However, in the associ
 
 The filter bar supports cascade filter, which simplifies the steps of setting multiple filters.
 
-1.  Create line charts on the dashboard editing page, as shown in the following figure.
-
-    ![](images/11218_en-US.png)
-
-2.  Click the **filter bar** widget and then select the dataset and the fields to be filtered. In this example, we select the **province** field as the filter, as shown in the following figure.
-
-    ![](images/11224_en-US.png)
-
+1.  Create line charts on the dashboard editing page.
+2.  Click the **filter bar** widget and then select the dataset and the fields to be filtered. In this example, we select the **province** field as the filter.
 3.  Click the cascade icon. On the **Configure Field Cascade** page, click **+ Add cascading relationship** to add the fields to be cascaded, and then click **OK**. In this example, we select the **city** field and the **product type** field.
 
     **Note:** 
 
     -   The cascade filter supports three-level cascades, with lines connected between the parent nodes and child nodes.
     -   The cascade filter supports renaming the cascade fields.
-    ![](images/13688_en-US.png)
-
-4.  Click **Set Filter** to set the filters and then click **OK**. In this example, we select Tile cascade display and Multiple Select, as shown in the following figure.
-
-    ![](images/13684_en-US.png)
+4.  Click **Set Filter** to set the filters and then click **OK**. In this example, we select Tile cascade display and Multiple Select.
 
     **Note:** The cascade display supports Tree cascade display and Tile cascade display. You can select Cognate inheritance and Manually set default values.
 
-5.  In the search widget, click **Search**. The result is shown in the following figure.
-
-    ![](images/13685_en-US.png)
+5.  In the search widget, click **Search**. The result is shown .
 
     **Note:** To view the detailed information of the cascade, you can hover over the cascade icon in the upper-right corner.
 
 
 **Filter data in a date range**
 
-When you filter data in date type, you can select the date range of the filter, manually set default values, and customize shortcuts, as shown in the following figure.
-
-![](images/13681_en-US.png)
+When you filter data in date type, you can select the date range of the filter, manually set default values, and customize shortcuts.
 
 1.  In the Data tab, select the dataset and the fields to be filtered, such as order date \(month\).
 2.  Select a chart that needs to be filtered, and then click **Set Time Range**.
-3.  In the **Set Time Range** dialog box, enable Set Time Range, specify the time range, and then click **OK**, as shown in the following figure.
-
-    ![](images/13682_en-US.png)
-
+3.  In the **Set Time Range** dialog box, enable Set Time Range, specify the time range, and then click **OK**.
 4.  Select **Manually set default values** or **Customize shortcuts** to select a date range, and then click **OK**.
 
     **Note:** The date currently supports types of month and day for you to customize the date range.
@@ -98,19 +78,14 @@ When you filter data in date type, you can select the date range of the filter, 
 
 **Filter text data**
 
-When you filter data in text type, you can set the enumeration range. The details are shown in the following figure.
-
-![](images/13729_en-US.png)
+When you filter data in text type, you can set the enumeration range.
 
 1.  In the Data tab, select the dataset and fields to be filtered, such as product package.
 2.  Select a chart that needs to be used, and then click **Set Enumeration Range**.
-3.  In the **Enumeration Range** dialog box, enable Set Enumeration Range, click Manually set values or add available values such as **middle box**, **large box**, **small package**, and **small box**, and then click **OK**, as shown in the following figure.
-
-    ![](images/13730_en-US.png)
-
+3.  In the **Enumeration Range** dialog box, enable Set Enumeration Range, click Manually set values or add available values such as **Small Box**, **Large Box**, and **Medium Box**, and then click **OK**.
 4.  Select **Filter by Enumeration** and **Multiple Select**, and then click the drop-down menu. The system automatically adds the available values of this field to the filter bar, as shown in the following figure.
 
-    ![](images/13731_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995591438736_en-US.png)
 
 5.  Manually specify the value or select the available values for the field to be filtered, and then click **OK** \> **OK**.
 6.  Click **Search**. The charts that are filtered by the filter bar are updated.
@@ -121,6 +96,9 @@ You can use a text area to enter text. For example, you can use this to create t
 
 1.  Click the **Text Area** icon, and a text area appears in the dashboard display area.
 2.  Enter text, as shown in the following figure.
+
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995591438737_en-US.png)
+
 
 ## IFrame {#section_q5h_hmy_5db .section}
 
@@ -139,14 +117,14 @@ You can use TAB to present charts in the form of multiple tabs.
 1.  Click the TAB icon, and a TAB appears in the dashboard display area.
 2.  In the TAB editing menu, you can add, move, hide, or delete tabs, as shown in the following figure.
 
-    ![](images/11235_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995591438741_en-US.png)
 
 3.  Select a TAB to insert charts. For example, click TAB1, and TAB1 is highlighted with a blue line.
 4.  Click a chart icon to add a chart, and the selected chart is added to TAB1. Alternatively, you can choose **More** \> **Move to** in the upper-right corner to move the existing chart to TAB1, as shown in the following figure.
 
-    ![](images/11238_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995591538742_en-US.png)
 
-    ![](images/11239_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995591538743_en-US.png)
 
 5.  Follow the procedure to create a chart.
 
@@ -156,6 +134,6 @@ You can use TAB to present charts in the form of multiple tabs.
 2.  Enter the URL of the image.
 3.  Configure the style of the image, as shown in the following figure.
 
-    ![](images/6952_en-US.png)
+    ![](images/38744_en-US.png)
 
 
