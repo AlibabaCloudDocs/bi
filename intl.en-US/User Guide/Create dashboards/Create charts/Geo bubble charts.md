@@ -1,6 +1,6 @@
 # Geo bubble charts {#concept_zrl_kk2_vdb .concept}
 
-Assume that you have read [EN-US\_TP\_9109.md\#](intl.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [EN-US\_TP\_9111.md\#](intl.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#). This section describes how to create a line chart. If you want to edit a dataset or create a dataset, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
+Assume that you have read [Dashboard overview](intl.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [EN-US\_TP\_9111.md\#](intl.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#). This section describes how to create a line chart. If you want to edit a dataset or create a dataset, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
 A geo bubble chart is a map of a country or an area that is attached with bubbles to represent the amount of data. You can use a geo bubble chart to graphically display metrics for each country or area and the distribution of these countries or areas. For example, you can show the traffic flow of tourists for each tourist attraction or show the per capita income for each area.
 
@@ -24,7 +24,7 @@ The following scenario uses the company\_sales\_record dataset.
 
     **Note:** Ensure that you have changed the province field from the string type to the location type.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9129/15469401141713_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9129/15499437321713_en-US.png)
 
 6.  Click **Update** to update the chart.
 7.  On the Style tab, you can change some items such as the title, layout, and legend of a chart.
