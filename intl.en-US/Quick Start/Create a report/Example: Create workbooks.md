@@ -1,6 +1,6 @@
 # Example: Create workbooks {#task_p4j_qqp_5db .task}
 
-You can only create workbooks in the Workspace of Quick BI Enterprise or Quick BI Pro. The workbook feature is unavailable in Personal Space. This example uses a dataset named company\_sales\_record to create a commodity sales and trading table. For more information about basic dataset operations, see [Example: Create datasets](intl.en-US/Quick Start/Preparations/Example: Create datasets.md#).
+You can only create workbooks in the Workspace of Quick BI Enterprise or Quick BI Pro. The workbook feature is unavailable in Personal Space. This example uses a dataset named company\_sales\_record to create a commodity sales and trading table.
 
 ## Create workbooks {#task_vcl_djq_5db}
 
@@ -11,9 +11,9 @@ Quick BI categorizes data in a dataset into dimensions and measures based on cer
 3.   Click **Create Workbook** to go to the workbook editing page. 
 4.   Click the **All** icon, or the data cannot be displayed normally. 
 
-    You can also specify the scope of data to be displayed on the workbook. The data can be displayed in partitions. For more information about data partitioning, see [Highlight pivot tables](intl.en-US//Highlight pivot tables.md#).
+    You can also specify the scope of data to be displayed on the workbook. The data can be displayed in partitions.
 
-5.  Locate the company\_sales\_record dataset. Double-click the **product\_type** field and the **order\_amt** field, as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9078/15499415846296_en-US.png)
+5.  Locate the company\_sales\_record dataset. Double-click the **product\_type** field and the **order\_amt** field, as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9078/15499418176296_en-US.png)
 
  
 6.   Click **Update** to update the data. 
@@ -38,15 +38,8 @@ Workbook supports eight charts and one filter bar. You can insert charts and wid
 2.  Click **+Add Correlated Datasets** to add a filter. 
 3.   Click the drop-down arrow and select a data source from the drop-down list. 
 4.  Select a field to be queried, for example, the **shipping-cost** field. Double-click or drag and drop the field to Filter Fields. 
-5.   Click the **Set Filter** icon, select the query scope and the target chart, and click**OK**, as shown in the following figure.![](images/11445_en-US.png)
-
- The filter bar supports the association of datasets from different sources or from the same source. This example uses the **Current Dataset** association.
+5.   Click the **Set Filter** icon, select the query scope and the target chart, and click**OK**. The filter bar supports the association of datasets from different sources or from the same source. This example uses the **Current Dataset** association.
 6.   Click **Filter**, and the data in the table with shipping costs above 1,000 will be automatically filtered. 
-7.  Click the **Delete** icon to delete the current field, as shown in the following figure.![](images/11452_en-US.png)
-
- 
-8.  Click the close button to delete the current filter bar, as shown in the following figure. 
-
-    For more information about workbook operations, see [Highlight pivot tables](intl.en-US//Highlight pivot tables.md#) and [Add filter bars](intl.en-US//Add filter bars.md#).
-
+7.  Click the **Delete** icon to delete the current field. 
+8.  Click the close button to delete the current filter bar. 
 
