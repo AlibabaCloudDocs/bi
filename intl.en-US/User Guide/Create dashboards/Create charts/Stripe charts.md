@@ -1,6 +1,6 @@
 # Stripe charts {#concept_zm3_422_vdb .concept}
 
-Assume that you have read [EN-US\_TP\_9109.md\#](intl.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [EN-US\_TP\_9111.md\#](intl.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#). This section describes how to create a stripe chart. If you want to edit a dataset or create a dataset, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
+Assume that you have read [Dashboard overview](intl.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [EN-US\_TP\_9111.md\#](intl.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#). This section describes how to create a stripe chart. If you want to edit a dataset or create a dataset, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
 A stripe chart shows comparisons between categories. You can use a stripe chart to visualize data changes over a period of time or comparisons between categories. For example, you can show the working progress of employees in a project group.
 
@@ -24,12 +24,12 @@ The following scenario uses the company\_sales\_record dataset.
 
     You can search for municipalities from cities by using filters as the following figure shows.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9127/15469408241691_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9127/15499436281691_en-US.png)
 
 6.  Click the **Filter** icon and select **Filter by Enumeration** in the dialog box that appears.
 7.  Select four municipalities from the list or enter the names of them manually, and click **OK** as the following figure shows.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9127/15469408241692_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9127/15499436281692_en-US.png)
 
 8.  Drag the **city** and **product\_type** fields to the Category Axis \(Dimensions\) area in turn.
 
@@ -45,7 +45,7 @@ The following scenario uses the company\_sales\_record dataset.
 
     **Note:** For more information about the Style tab, see [EN-US\_TP\_9114.md\#](intl.en-US/User Guide/Create dashboards/Dashboard basic operations/Configure a chart.md#).
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9127/15469408251693_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9127/15499436281693_en-US.png)
 
     -   In General config, select **Dark** as the background color.
     -   In Style, select **Stacked**.
@@ -53,7 +53,7 @@ The following scenario uses the company\_sales\_record dataset.
     -   In Axis, select **Display scale** on the X-Axis tab.
     After you complete the configuration, the chart is shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9127/15469408251695_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9127/15499436281695_en-US.png)
 
 13. Click **Save** to save the dashboard.
 
