@@ -1,18 +1,14 @@
 # What is Quick BI {#concept_qrd_dlv_tdb .concept}
 
-Quick BI is a flexible and lightweight business analytics platform built on cloud.
+Quick BI is a flexible, cloud-powered, self-service BI platform.
 
-It provides a suite of intelligent tools to enable users to connect to multiple data sources. You can Create a cloud data source by using Alibaba Cloud services such as MaxCompute, ApsaraDB for RDS, Analytic DB, HybridDB, and your MySQL database on ECS. You can also Upload local files or Create a data source from external database to provide data to Quick BI.
+Quick BI supports multiple cloud data sources, including MaxCompute \(ODPS\), RDS, Analytic DB, HybridDB \(Greenplum\), and user-created MySQL databases deployed on your ECS instances. You can also perform data analysis in [Create a cloud data source](../../../../../intl.en-US/User Guide/Data modeling/Data source management/Create cloud data sources.md#)Quick BI built-in **Explore Space**.
 
-To connect a data source, see [Create a cloud data source](../../../../reseller.en-US/Quick Start/Data modeling/Data source management/Create a cloud data source.md#)、[Create a data source from external database](../../../../reseller.en-US/Quick Start/Data modeling/Data source management/Create a data source from external database.md#).
+For more information about how to connect data sources, see [Create a cloud data source](../../../../../intl.en-US/User Guide/Data modeling/Data source management/Create cloud data sources.md#) and [Create a data source from external database](../../../../../intl.en-US/User Guide/Data modeling/Data source management/Create a data source on a self-built database.md#).
 
-Get business insights with low costs.  Taking advantage of cloud computing, Quick BI provides a cost-efficient, fast, and stable way for you to analyze your data. For more information, see [Charging](../../../../reseller.en-US/Pricing/Charging.md#).
+Get business insights with low costs. Taking advantage of cloud computing, Quick BI provides a cost-efficient, high-performance, and stable business platform for you to analyze your data. For more information about Quick BI pricing, see[Quick BI billing methods](../../../../../intl.en-US/Pricing/Quick BI billing methods.md#).
 
-Realize real-time analysis of massive data fast.  Quick BI’s query acceleration engine saves the time of data pre-processing, and helps you to get quick answers from your data.
+Go from data to insights in minutes. The built-in query acceleration engine performs real-time analysis on large amounts of data without pre-processing. This helps to develop visual analytics more efficiently.
 
-Get started quickly. With Quick BI’s intelligent analytic tools and visualization components,  you can drag-and-drop to get data sources, create datasets, add filters and analytic dimensions and measures for Quick BI,  then let Quick BI deep dive into your data, create reports, and build portals for you. The intuitive design of Quick BI enables everyone to become a data analyst, and helps enterprises to achieve the data-driven operation.
-
-## Where can I access Quick BI services {#section_gdw_k4v_tdb .section}
-
-On the Quick BI homepage, click **Buy Now**.
+Model your data with ease. Based on smart modeling tools, Quick BI enables non-technical users to perform analytics and access data at lower costs. In Quick BI, you can author dashboards with widgets and rich visuals. You can quickly obtain data insights, self-service access, and business analytics. You can create reports and build data portals with ease. The self-service Quick BI provides visualized data and empowers non-technical users to become analysts. Quick BI helps to achieve data-driven business operation.
 
