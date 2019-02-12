@@ -6,19 +6,19 @@ The workbook applies to workspaces under Quick BI Pro and Quick BI Standard. The
 
 In the workbook editing page, you can **undo**, **restore**, **cut**, **copy**, and **paste** data, as shown in the following figure.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9105/15499561461384_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9105/15499564791384_en-US.png)
 
 ## Conditional formatting {#section_hsk_sbx_5db .section}
 
 Click the **Set Conditional Formatting** icon in the toolbar to add conditions to data results. For example, you can highlight certain data, as shown in the following figure.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9105/15499561461385_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9105/15499564791385_en-US.png)
 
 ## Add images and hyperlinks {#section_jsk_sbx_5db .section}
 
 The workbook provides you with the **Images** and **Hyperlinks** features so that you can create expressive charts, as shown in the following figure.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9105/15499561471386_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9105/15499564791386_en-US.png)
 
 ## Add drop-down lists {#section_lsk_sbx_5db .section}
 
@@ -26,7 +26,7 @@ Click the **Drop Down** icon to add labels to the data records.
 
 **Note:** Separate multiple labels with commas \(,\).
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9105/15499561471387_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9105/15499564791387_en-US.png)
 
 ## Text format {#section_osk_sbx_5db .section}
 
@@ -51,11 +51,5 @@ You can use the table properties feature to adjust table properties.
 You can set global parameters in the workbook. Global parameters can be used in the parameter links of tables.
 
 1.  In the workbook editing page, click the **Global Parameters** icon.
-
-    ![](images/11251_en-US.png)
-
-2.  In the **Parameters** page, enter the required parameters and then click **OK** to finish setting global parameters, as shown in the following figure.
-
-    ![](images/11252_en-US.png)
-
+2.  In the **Parameters** page, enter the required parameters and then click **OK** to finish setting global parameters.
 
