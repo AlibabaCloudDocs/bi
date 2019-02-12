@@ -15,7 +15,7 @@ You can use a **filter bar** to search data in one or more charts.
 1.  Click a **filter bar**.
 2.  Select a dataset, and select the fields to be added to the filter bar, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995591438735_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995604338735_en-US.png)
 
 
 Currently, a filter bar supports filter interactions between charts of the current dataset or charts of different datasets.
@@ -85,7 +85,7 @@ When you filter data in text type, you can set the enumeration range.
 3.  In the **Enumeration Range** dialog box, enable Set Enumeration Range, click Manually set values or add available values such as **Small Box**, **Large Box**, and **Medium Box**, and then click **OK**.
 4.  Select **Filter by Enumeration** and **Multiple Select**, and then click the drop-down menu. The system automatically adds the available values of this field to the filter bar, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995591438736_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995604338736_en-US.png)
 
 5.  Manually specify the value or select the available values for the field to be filtered, and then click **OK** \> **OK**.
 6.  Click **Search**. The charts that are filtered by the filter bar are updated.
@@ -97,7 +97,7 @@ You can use a text area to enter text. For example, you can use this to create t
 1.  Click the **Text Area** icon, and a text area appears in the dashboard display area.
 2.  Enter text, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995591438737_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995604438737_en-US.png)
 
 
 ## IFrame {#section_q5h_hmy_5db .section}
@@ -117,14 +117,14 @@ You can use TAB to present charts in the form of multiple tabs.
 1.  Click the TAB icon, and a TAB appears in the dashboard display area.
 2.  In the TAB editing menu, you can add, move, hide, or delete tabs, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995591438741_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995604438741_en-US.png)
 
 3.  Select a TAB to insert charts. For example, click TAB1, and TAB1 is highlighted with a blue line.
 4.  Click a chart icon to add a chart, and the selected chart is added to TAB1. Alternatively, you can choose **More** \> **Move to** in the upper-right corner to move the existing chart to TAB1, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995591538742_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995604438742_en-US.png)
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995591538743_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995604438743_en-US.png)
 
 5.  Follow the procedure to create a chart.
 
@@ -134,6 +134,6 @@ You can use TAB to present charts in the form of multiple tabs.
 2.  Enter the URL of the image.
 3.  Configure the style of the image, as shown in the following figure.
 
-    ![](images/38744_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9118/154995604438744_en-US.png)
 
 
