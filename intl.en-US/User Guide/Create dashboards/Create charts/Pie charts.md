@@ -1,6 +1,6 @@
 # Pie charts {#concept_gwq_4f2_vdb .concept}
 
-Assume that you have read [EN-US\_TP\_9109.md\#](intl.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [EN-US\_TP\_9111.md\#](intl.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#). This section describes how to create a line chart. If you want to edit a dataset or create a dataset, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
+Assume that you have read [Dashboard overview](intl.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [EN-US\_TP\_9111.md\#](intl.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#). This section describes how to create a line chart. If you want to edit a dataset or create a dataset, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
 A pie chart shows a series of values for items in a dimension. Each item shown in a pie chart has a unique color or texture. Each sector in a pie chart represents one item in the dimension. Sector size represents the proportion of the value for the selected measure that the item represents compared to the whole dimension. For example, you can show the expenditure of five social insurances and one housing fund in proportion to the total personal income or the sales volume of a certain automobile brand in proportion to the total sales volume of all the brands.
 
