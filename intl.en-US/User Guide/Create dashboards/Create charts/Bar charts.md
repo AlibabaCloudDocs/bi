@@ -1,6 +1,6 @@
 # Bar charts {#concept_bnq_fd2_vdb .concept}
 
-Assume that you have read [EN-US\_TP\_9109.md\#](intl.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [EN-US\_TP\_9111.md\#](intl.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#). This section describes how to create a line chart. If you want to create a dataset or eidt a dataset, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
+Assume that you have read [Dashboard overview](intl.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [EN-US\_TP\_9111.md\#](intl.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#). This section describes how to create a line chart. If you want to create a dataset or eidt a dataset, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
 A bar chart shows comparisons among discrete categories. You can use a bar chart to visualize data changes over a period of time or comparisons among discrete categories. For example, you can show the comparison of the traffic flow of vehicles over different periods of time at a crossing.
 
@@ -24,11 +24,11 @@ The following scenario is based on the company\_sales\_record dataset.
 
     You can search for the East China area by using filters as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9126/15468528391685_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9126/15499435411685_en-US.png)
 
 6.  Click the **Filter** icon. Select **Filter by Enumeration** in the Set Filter dialog box that appears as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9126/15468528391686_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9126/15499435411686_en-US.png)
 
 7.  Select East China and click **OK**.
 8.  Drag **province** and **product\_type** to the Category Axis \(Dimensions\) area in turn.
