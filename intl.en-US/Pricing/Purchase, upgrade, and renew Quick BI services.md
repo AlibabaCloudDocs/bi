@@ -8,7 +8,7 @@ If you have purchased a Quick BI Pro edition, go to the Quick BI homepage and cl
 
 Click the **Settings** icon to go to the organization settings page, as shown in the following figure.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/15501368461093_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/15501369261093_en-US.png)
 
 On this page, you can create organizations, and add, edit, or delete members of an organization. For more information about organization management, see [Basic concepts about organization management](../../../../../intl.en-US/User Guide/Organization management/Manage the organization/Basic concepts about organization management.md#).
 
@@ -63,7 +63,7 @@ After you have purchased enough users, you can add users within the quota.
 **Procedure**
 
 1.  Log on to the Quick BI console.
-2.  Click**Manage** \> **Add Member** .
+2.  Click **Manage** \> **Add Member** .
 3.  Add an Alibaba Cloud account or a RAM user.
 4.  Click **OK** to add the user.
 
