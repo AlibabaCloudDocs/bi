@@ -1,6 +1,6 @@
 # Purchase, upgrade, and renew Quick BI services {#concept_jd4_xpc_5db .concept}
 
-Quick BI provides Pro and Professional Edition editions. For the pricing and billing method of each edition, see[Quick BI billing methods](intl.en-US/Pricing/Quick BI billing methods.md#)
+Quick BI provides Pro and Professional Edition editions. For the pricing and billing method of each edition, see [Quick BI billing methods](intl.en-US/Pricing/Quick BI billing methods.md#)
 
 ## Quick BI Pro {#section_ytl_drc_5db .section}
 
@@ -8,9 +8,9 @@ If you have purchased a Quick BI Pro edition, go to the Quick BI homepage and cl
 
 Click the **Settings** icon to go to the organization settings page, as shown in the following figure.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/15447861231093_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/15501368461093_en-US.png)
 
-On this page, you can create organizations, and add, edit, or delete members of an organization. For more information about organization management, see [Organization management overview](../../../../intl.en-US/User Guide/Organization management/Organization management overview.md#).
+On this page, you can create organizations, and add, edit, or delete members of an organization. For more information about organization management, see [Basic concepts about organization management](../../../../../intl.en-US/User Guide/Organization management/Manage the organization/Basic concepts about organization management.md#).
 
 In Workspace, you can operate row-level permissions and data objects including workbooks, dashboards, and portals.
 
