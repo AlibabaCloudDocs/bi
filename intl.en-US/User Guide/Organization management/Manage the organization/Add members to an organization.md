@@ -5,10 +5,10 @@ You can add members to an organization individually by the Alibaba Cloud account
 ## Add members by the Alibaba Cloud accounts {#task_cjs_gy1_5db}
 
 1.   Log on to the Quick BI console. 
-2.   Choose**Settings** \> **Org Units** \> **Members**. 
+2.  Choose **Settings** \> **Org Units** \> **Members**. 
 3.   Click **Add Member**. 
 4.   Click the **Add Alibaba Cloud ID** tab. 
-5.   Enter the Alibaba Cloud account and a nickname for the member. You can select the **Set As Administrator** check box for the member as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9154/15499422661066_en-US.png)
+5.   Enter the Alibaba Cloud account and a nickname for the member. You can select the **Set As Administrator** check box for the member as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9154/15501292821066_en-US.png)
 
  
 6.   Click **OK** to add the member. 
@@ -29,7 +29,7 @@ You can add members to an organization individually by the Alibaba Cloud account
 1.   Log on to the Quick BI console. 
 2.   Choose**Settings** \> **Org Units** \> **Members**. 
 3.   Click **Import Members**. 
-4.   Click **Upload Excel** to upload the local file of the members-to-add list as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9154/15499422661085_en-US.png)
+4.   Click **Upload Excel** to upload the local file of the members-to-add list as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9154/15501292831085_en-US.png)
 
  
 5.   Click **OK** to add members one at one time. 
