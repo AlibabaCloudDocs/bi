@@ -71,11 +71,11 @@ Mappings for roles and permissions are fixed and not modifiable. To grant permis
 3.  Click the **Members** tab to jump to the Members tab page.
 4.  Click **Member Added to Workspace** as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9164/15469415441174_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9164/15501305141174_en-US.png)
 
 5.  Search for the member that you want to add by the nickname and assign a role to it as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9164/15469415441175_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9164/15501305141175_en-US.png)
 
 6.  Click **OK** to complete adding the member.
 
