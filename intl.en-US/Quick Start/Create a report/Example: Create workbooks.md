@@ -13,7 +13,7 @@ Quick BI categorizes data in a dataset into dimensions and measures based on cer
 
     You can also specify the scope of data to be displayed on the workbook. The data can be displayed in partitions.
 
-5.  Locate the company\_sales\_record dataset. Double-click the **product\_type** field and the **order\_amt** field, as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9078/15499418176296_en-US.png)
+5.  Locate the company\_sales\_record dataset. Double-click the **product\_type** field and the **order\_amt** field, as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9078/15502129326296_en-US.png)
 
  
 6.   Click **Update** to update the data. 
@@ -38,7 +38,7 @@ Workbook supports eight charts and one filter bar. You can insert charts and wid
 2.  Click **+Add Correlated Datasets** to add a filter. 
 3.   Click the drop-down arrow and select a data source from the drop-down list. 
 4.  Select a field to be queried, for example, the **shipping-cost** field. Double-click or drag and drop the field to Filter Fields. 
-5.   Click the **Set Filter** icon, select the query scope and the target chart, and click**OK**. The filter bar supports the association of datasets from different sources or from the same source. This example uses the **Current Dataset** association.
+5.  Click the **Set Filter** icon, select the query scope and the target chart, and click **OK**. The filter bar supports the association of datasets from different sources or from the same source. This example uses the **Current Dataset** association.
 6.   Click **Filter**, and the data in the table with shipping costs above 1,000 will be automatically filtered. 
 7.  Click the **Delete** icon to delete the current field. 
 8.  Click the close button to delete the current filter bar. 
