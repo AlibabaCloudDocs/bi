@@ -22,7 +22,7 @@ The following scenario uses the company\_sales\_record dataset as an example.
 
     In the Dimensions list, select **Product\_type** and add it to Rectangle Label. In the Measures list, select **order\_number** and add it to Rectangle Size, as shown in the following figure:
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9137/15502201491803_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9137/15502202001803_en-US.png)
 
 6.  Click **Update** to generate the diagram.
 7.  In the Style tab, you can change the title and legend of the treemap.
