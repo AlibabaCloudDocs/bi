@@ -67,15 +67,15 @@ Mappings for roles and permissions are fixed and not modifiable. To grant permis
 ## Add members to a workspace {#section_pg2_44d_5db .section}
 
 1.  Log on to the Quick BI console.
-2.  Choose**Settings** \> **Workspaces**.
+2.  Choose **Settings** \> **Workspaces**.
 3.  Click the **Members** tab to jump to the Members tab page.
 4.  Click **Member Added to Workspace** as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9164/15501305141174_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9164/15502136891174_en-US.png)
 
 5.  Search for the member that you want to add by the nickname and assign a role to it as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9164/15501305141175_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9164/15502136891175_en-US.png)
 
 6.  Click **OK** to complete adding the member.
 
