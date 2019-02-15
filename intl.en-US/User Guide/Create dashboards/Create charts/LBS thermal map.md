@@ -29,20 +29,20 @@ The following scenario uses the company\_sales\_record dataset as an example.
 
     **Note:** Make sure you have changed the data type of Province from String to Location.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9144/15502208151865_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9144/15502209031865_en-US.png)
 
 6.  Click **Update** to generate the diagram.
 7.  In the Style tab, you can change the title and layout of the diagram and the style of specific fields.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9144/15502208151866_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9144/15502209031866_en-US.png)
 
     -   In the **Layout** section, you can set the basemap to **Google Maps** and the updated diagram is as follows:
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9144/15502208241867_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9144/15502209031867_en-US.png)
 
 8.  Click the **Save** icon to save the dashboard.
 
-    In the upper right corner, select**More \>** \> **Delete**to delete the diagram.
+    In the upper right corner, select **More \>** \> **Delete**to delete the diagram.
 
 
 For more information about the administrative regions of China, see [Administrative regions of China](http://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/assets/attach/48322/cn_zh/1534241743586/%E5%90%84%E5%9C%B0%E5%8C%BA%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF%E5%AF%B9%E7%85%A7%E8%A1%A8.xls).
