@@ -4,7 +4,9 @@ You can upload local CSV files and Excel files \(.xls and .xlsx files\) to the e
 
 The explore space is a data source type that is used only in the personal workspace. Each user has 1 GB storage space.
 
-In addition, you can import data sources from the Data IDE.
+In addition, you can import data resources from the Data IDE.
+
+**Note:** The method that you upload local files through **Create Data Source** \> **Local Files** is only available in personal workspaces.
 
 ## CSV file {#section_hmp_w1r_5db .section}
 
@@ -21,23 +23,23 @@ After you have changed the encoding, upload the CSV file to the explore space.
 
 1.  Log on to the Quick BI console.
 2.  Click **Data Source** to enter the Data Sources page.
-3.  Click **Create Data Sources** \> **Local Upload** \> **CSV file**.
+3.  Choose**Create** \> **Local Upload** \> **CSV file**.
 4.  Enter a display name for the file.
-5.  Click **Select File** to select a file to upload, as shown in the following figure.
+5.  Click **Select a file** to select the file to upload, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9086/15502182581312_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9086/155168674933512_en-US.png)
 
 6.  Click **OK** to upload the file.
 
 ## Excel file {#section_nmp_tbr_5db .section}
 
-When you upload Excel files, you need to select which sheet in each excel file to upload. To make the editing and maintenance more flexible, you can only select one sheet in one Excel file at a time.
+When you upload Excel files, the first sheet in each excel file is uploaded by default. To make the editing and maintenance more flexible, you can only select one sheet in one Excel file at a time.
 
-1.  Click **Create Data Sources** \> **Local Upload** \> **EXCEL file**.
+1.  Choose**Create** \> **Local Upload** \> **EXCEL file**.
 2.  Enter a display name for the file.
 3.  Click **Select a file** to select the file to upload, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9086/15502182581313_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9086/155168674933511_en-US.png)
 
 4.  Click **OK** to complete uploading the file.
 
@@ -45,7 +47,7 @@ When you upload Excel files, you need to select which sheet in each excel file t
 
 **Note:** Only supports importing data sources from the China \(Shanghai\) region, and you must add your account to the project.
 
-1.  Click **Create Data Sources** \> **Local Upload** \> **Data IDE**.
+1.  Choose**Create** \> **From Other** \> **Data IDE**.
 2.  Select the data source from the list.
 3.  Click **Import** to complete the importing of the data source.
 
@@ -60,7 +62,10 @@ The new file can be in a format different from the previously uploaded file. For
 1.  Click **Data Source** to enter the Data Sources page.
 2.  Click **Explore Space** to enter the Explore Space page.
 3.  Select a file, and then click **Update**.
-4.  Click **Append** to upload the file that needs to be appended.
+4.  Click **Append** to upload the file that needs to be appended, as shown in the following figure.
+
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9086/155168674933506_en-US.png)
+
 5.  Click **OK** to append the data.
 
 ## Delete the data of the table corresponding to a local data source {#section_lcx_kcr_5db .section}
@@ -72,7 +77,7 @@ If a file that you have appended contains dirty data, which decreases the accura
 3.  Select a file, and then click **Update**.
 4.  Locate the file that needs to be deleted, and then click the **Delete** icon, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9086/15502182651314_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9086/155168674933504_en-US.png)
 
 
 ## Example of local files {#section_xvt_qcr_5db .section}
@@ -101,5 +106,5 @@ The structure of the sales data is shown in the following table.
 |product\_sub\_type|varchar|Product subtype|
 |product\_name|varchar|Product name|
 |product\_box|varchar|Product packing box|
-|shipping\_date|datetime|Shipping date|
+|shipping\_date|Datetime|Shipping date|
 
