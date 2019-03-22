@@ -4,9 +4,13 @@
 
 Quick BI是阿里云旗下产品，是一个基于云计算致力于大数据高效分析与展现的轻量级自助BI工具服务平台。通过对数据源的连接和数据集的创建，对数据进行即席的分析与查询；通过电子表格或仪表板功能，以拖拽的方式进行数据的可视化呈现。
 
+下图为某公司大盘示例，详情请登录Quick BI系统查看：
+
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9062/155323916610653_zh-CN.png)
+
 ## 产品核心流程 {#section_mvp_ydp_mgb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9062/155054464437888_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9062/155323916637888_zh-CN.png)
 
 ## 产品优势特性 {#section_rbk_12p_mgb .section}
 
@@ -25,6 +29,16 @@ Quick BI是阿里云旗下产品，是一个基于云计算致力于大数据高
 -   多用户协作：所有对象在线化，企业用户之间以群空间的方式进行业务组织，实现成员共同操作，完成业务数据的联合分析。
 -   多维数据分析：基于 WEB 页面的工作环境，拖拽式、类似于 Excel 的操作方式，一键导入、实时分析，可以灵活切换数据分析的视角，无需重新建模。
 -   灵活的报表集成方案：将阿里云 Quick BI 制作的报表嵌入到自有系统里，直接在自有系统访问报表， 并实现免登。
+
+## 如何进入Quick BI系统 {#section_gdw_k4v_tdb .section}
+
+在Quick BI产品详情页，单击[管理控制台](https://data.aliyun.com/product/bi?spm=5176.8142029.dataTechnology.11.41416d3eTJ22ri)并输入阿里云账号密码，就可以进入Quick BI控制台。
+
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9062/1553239166988_zh-CN.png)
+
+## 学习课堂 {#Learning .section}
+
+如果您是第一次使用Quick BI产品，推荐您登录[数加体验馆](https://help.aliyun.com/document_detail/30250.html) ，我们为您准备了专业的Quick BI培训课程。
 
 ## 发展趋势 {#section_zq1_rpp_4gb .section}
 
