@@ -16,7 +16,7 @@ LBS飞线地图是由两个地理区域和LBS飞线度量构成的。地理区�
 
 ## LBS飞线地图效果图举例 {#section_hvp_55s_xgb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/155358570439686_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/155358576439686_zh-CN.png)
 
 ## 注意事项 {#section_ny3_z5s_xgb .section}
 
@@ -41,12 +41,12 @@ LBS飞线地图的地理区域最多只能取2个维度，并且维度类型必�
 
     **说明：** 请确保区域字段和省份字段的维度类型已经从字符串切换为了地理信息。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15535857056992_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15535857646992_zh-CN.png)
 
 6.  单击**更新**，系统自动更新图表。
 7.  在样式标签页可更改图表的标题，布局和系列设置，如下图所示：
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15535857056993_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15535857646993_zh-CN.png)
 
 8.  单击**保存**图标，保存该仪表板。
 
@@ -64,7 +64,7 @@ LBS飞线地图的地理区域最多只能取2个维度，并且维度类型必�
 
 更新后如下图所示：
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/155358570539697_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/155358576439697_zh-CN.png)
 
 ## 删除图表 {#section_yfs_fvs_xgb .section}
 
