@@ -2,7 +2,7 @@
 
 ## Key procedures {#section_nq4_kvv_tdb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/155385122437889_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/155385131737889_en-US.png)
 
 ## Basic objects {#section_jgv_qvv_tdb .section}
 
@@ -14,7 +14,7 @@
 
 **Note:** For more information about the difference of editions, see the following figure.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/155385122435229_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/155385131735229_en-US.png)
 
 ## Data source {#section_cgt_vvv_tdb .section}
 
@@ -24,7 +24,7 @@ When you use Quick BI for data analysis, you must first specify the data source 
 -   Add data sources from user-created database systems
 -   Upload local files \(only available for Personal Space\)
 
-For more information about creating data sources, see [Create a cloud data source](../../../../../intl.en-US/User Guide/Data modeling/Data source management/Create cloud data sources.md#), [Create a data source from external database](../../../../../intl.en-US/User Guide/Data modeling/Data source management/Create a data source on a self-built database.md#) and [Upload local files](../../../../../intl.en-US/User Guide/Data modeling/Data source management/Upload local files.md#).
+For more information about creating data sources, see [Create a cloud data source](../../../../../intl.en-US/User Guide/Data modeling/Data source management/Create cloud data sources.md#), [Create a data source from external database](../../../../../intl.en-US/User Guide/Data modeling/Data source management/Create a data source on a self-built database.md#), and [Upload local files](../../../../../intl.en-US/User Guide/Data modeling/Data source management/Upload local files.md#).
 
 ## Dataset {#section_l5h_rwv_tdb .section}
 
@@ -36,7 +36,7 @@ For more information about datasets, see [Create a dataset](../../../../../intl.
 
 Workbooks are available for Workspace. You can obtain a workbook by analyzing and processing a dataset. You can use it to reference individual cells, leverage a rich range of functions, and create sophisticated business reports.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15538512256895_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15538513176895_en-US.png)
 
 For more information about creating workbooks, see [../../../../../dita-oss-bucket/SP\_78/DNQBI11869867/EN-US\_TP\_9106.md](../../../../../intl.en-US//Create a workbook.md).
 
@@ -51,7 +51,7 @@ Dashboards support two display modes.
 
 The standard mode supports multiple charts and five layout widgets.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15538512256896_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15538513176896_en-US.png)
 
 The standard mode supports multiple charts and five layout widgets.
 
@@ -69,7 +69,7 @@ For more information about portals, see [Create portals](../../../../../intl.en-
 
 The product architecture of Quick BI is shown in the following figure.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9064/15538512251012_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9064/15538513171012_en-US.png)
 
 Modules and functions of Quick BI:
 
