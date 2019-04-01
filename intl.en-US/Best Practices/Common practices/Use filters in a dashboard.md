@@ -10,9 +10,9 @@ Scenario: Compare shipping costs for East China, South China, and North China ba
 2.  Choose **Workspace** \> **Data Source** to enter the Data Sources page.
 3.  Click **Create Data Sources** to select a data source.
 
-    **Note:** For more information about how to create a data source, see [Create a cloud data source](../../../../../intl.en-US/User Guide/Data modeling/Data source management/Create cloud data sources.md#), [Create a data source from an external database](../../../../../intl.en-US/User Guide/Data modeling/Data source management/Create a data source on a self-built database.md#), and [Upload local files](../../../../../intl.en-US/User Guide/Data modeling/Data source management/Upload local files.md#).
+    **Note:** For more information about how to create a data source, see [Create a cloud data source](../../../../../reseller.en-US/User Guide/Data modeling/Data source management/Create cloud data sources.md#), [Create a data source from an external database](../../../../../reseller.en-US/User Guide/Data modeling/Data source management/Create a data source on a self-built database.md#), and [Upload local files](../../../../../reseller.en-US/User Guide/Data modeling/Data source management/Upload local files.md#).
 
-4.  Click the **Create Dataset** icon to [create a dataset](../../../../../intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
+4.  Click the **Create Dataset** icon to [create a dataset](../../../../../reseller.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
 ## Create a dashboard {#section_nxn_hvg_4fb .section}
 
@@ -21,7 +21,7 @@ Scenario: Compare shipping costs for East China, South China, and North China ba
 3.  Select a chart such as a pie chart.
 4.  Select a field as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9190/15469410071914_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9190/15541046681914_en-US.png)
 
 5.  Click **Update**. A chart is generated automatically.
 
@@ -29,19 +29,19 @@ Scenario: Compare shipping costs for East China, South China, and North China ba
 
 1.  Drag the **area** field to the **Filters** area as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9190/15469410071932_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9190/15541046681932_en-US.png)
 
 2.  Click **Filters** icon to set filter conditions as shown in the following figure.
 
-    ![](images/11467_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/24376/155410466842115_en-US.png)
 
 3.  Choose **Enum** \> **Multiple Select**and click the drop-down arrow to list all options as shown in the following figure.
 
-    ![](images/11468_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/24376/155410466842116_en-US.png)
 
 4.  Select **East**, **North**, and **South** and click **OK**.
 5.  Click **Update** to update the chart. The chart shows only the comparison results of shipping costs for East China, North China, and South China as shown in the following figure.
 
-    ![](images/11469_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/24376/155410466832131_en-US.png)
 
 
