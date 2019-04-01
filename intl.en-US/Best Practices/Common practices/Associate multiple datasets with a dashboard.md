@@ -32,9 +32,6 @@ When you configure a cross-chart reference, you can associate a single dataset o
 2.  On the **data** tab, select a dataset, such as company\_sales\_record.
 3.  Select a field to be filtered such as product\_box.
 4.  Click the **Set Filter** icon.
-
-    ![](images/11472_en-US.png)
-
 5.  In the **Set Filter** dialog box, click the **Single-Dataset** tab and select Domestic report.
 6.  Click the **Multi-Dataset** tab, and click the drop-down arrow of Overseas report to view the field list.
 7.  Select the product\_box field.
