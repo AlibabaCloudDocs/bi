@@ -5,7 +5,7 @@ Only an Alibaba Cloud account that has not created or joined any organization is
 Each Alibaba Cloud account can only create or join a maximum of one organization.
 
 1.   Log on to the Quick BI console. 
-2.   Choose**Settings** \> **Org Units**, and then jump to the Org Units page.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9152/15469404991002_en-US.png)
+2.   Choose **Settings** \> **Org Units**, and then jump to the Org Units page.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9152/15543624711002_en-US.png)
 
  
 3.   Click the **Organization Configurations** tab to jump to the Organization Configurations tab page. 
