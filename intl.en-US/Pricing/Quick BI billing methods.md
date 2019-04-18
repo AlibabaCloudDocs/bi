@@ -9,17 +9,17 @@ Your resources are retained for seven days from the expiration date. If you do n
 Quick BI provides two editions using different billing methods.
 
 -   Quick BI Pro
--   Quick BI Professional Edition
+-   Quick BI Enterprise Standard
 
 ## Quick BI Pro {#section_bkl_nqc_5db .section}
 
 The subscription period of the Pro edition is fixed to one year. You can specify the number of users to be purchased, and the system automatically calculates the prices for you.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9072/15447857638970_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9072/15555795698970_en-US.png)
 
 ## Professional Edition {#section_v5m_2wq_s2b .section}
 
 The subscription period of the Professional Edition is fixed to one year. You can specify the number of users to be purchased, and the system automatically calculates the prices for you.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9072/15447857638971_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9072/15555795718971_en-US.png)
 
