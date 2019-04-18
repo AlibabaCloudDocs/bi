@@ -2,7 +2,7 @@
 
 **说明：** LBS飞线地图只可用于**Quick BI专业版**。
 
-如果您已经阅读过[仪表板概述](cn.zh-CN/用户指南/仪表板制作/仪表板概述.md#)和[仪表板基本操作](cn.zh-CN/用户指南/仪表板制作/仪表板基本操作/仪表板基本操作概述.md#)，那么本章将为您介绍如何创建一个LBS飞线地图。如果您还需要对数据集做进一步的编辑，或者想重新创建一个数据集，请参阅[ZH-CN\_TP\_9092\_V1.md\#](cn.zh-CN/用户指南/数据建模/管理数据集/创建数据集.md#)。
+如果您已经阅读过[仪表板概述](cn.zh-CN/用户指南/仪表板制作/仪表板概述.md#)和[仪表板基本操作](cn.zh-CN/用户指南/仪表板制作/仪表板基本操作/仪表板基本操作概述.md#)，那么本章将为您介绍如何创建一个LBS飞线地图。如果您还需要对数据集做进一步的编辑，或者想重新创建一个数据集，请参见[创建数据集](cn.zh-CN/用户指南/数据建模/管理数据集/创建数据集.md#)。
 
 LBS飞线地图以一个地图轮廓为背景，用动态的飞线反映两地或者多地之间的数据关系。
 
@@ -16,7 +16,7 @@ LBS飞线地图是由两个地理区域和LBS飞线度量构成的。地理区�
 
 ## LBS飞线地图效果图举例 {#section_hvp_55s_xgb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/155358576439686_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/155555895639686_zh-CN.png)
 
 ## 注意事项 {#section_ny3_z5s_xgb .section}
 
@@ -39,14 +39,14 @@ LBS飞线地图的地理区域最多只能取2个维度，并且维度类型必�
 
     在维度列表中，找到**区域**，并将其添加到地理区域/经纬度（from）区域中。找到**省份**，并将其添加到地理区域/经纬度（to）区域中。在度量列表中，找到**运输成本**，并将其添加到LBS飞线度量区域中，如下图所示。
 
-    **说明：** 请确保区域字段和省份字段的维度类型已经从字符串切换为了地理信息。
+    **说明：** 请确保省份字段的维度类型已经从字符串切换为了地理信息，如需了解如何切换维度字段类型，请参见[字段类型切换](cn.zh-CN/用户指南/数据建模/管理数据集/字段类型切换.md#)。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15535857646992_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15555589576992_zh-CN.png)
 
 6.  单击**更新**，系统自动更新图表。
 7.  在样式标签页可更改图表的标题，布局和系列设置，如下图所示：
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15535857646993_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15555589576993_zh-CN.png)
 
 8.  单击**保存**图标，保存该仪表板。
 
@@ -55,7 +55,7 @@ LBS飞线地图的地理区域最多只能取2个维度，并且维度类型必�
 
 ## 配置样式 {#section_q2w_crt_xgb .section}
 
--   在通用配置中可配置图表的标题、展示跳转链接、背景颜色。本示例中选用深色系。
+-   在基本信息中可配置图表的标题、展示跳转链接、背景颜色。本示例中选用深色系。
 -   在布局中可设置显示图例位置、地图底图、地图缩放、地图中心。本示例中选择谷歌电子地图。
 
     **说明：** 由于图表中的飞线是动态的，您还可以通过飞线时间来调整飞线的运动速度。数值越大，飞线的速度就越慢。
@@ -64,7 +64,7 @@ LBS飞线地图的地理区域最多只能取2个维度，并且维度类型必�
 
 更新后如下图所示：
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/155358576439697_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/155555895739697_zh-CN.png)
 
 ## 删除图表 {#section_yfs_fvs_xgb .section}
 
