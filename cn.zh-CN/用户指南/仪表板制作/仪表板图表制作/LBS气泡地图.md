@@ -2,7 +2,7 @@
 
 **说明：** LBS气泡地图只可用于**Quick BI专业版**。
 
-您如果已经阅读过[仪表板概述](cn.zh-CN/用户指南/仪表板制作/仪表板概述.md#)和[仪表板基本操作](cn.zh-CN/用户指南/仪表板制作/仪表板基本操作/仪表板基本操作概述.md#)，那么本章将为您介绍如何创建一个LBS气泡地图。如果您还需要对数据集做进一步的编辑，或者想重新创建一个数据集，请参阅[ZH-CN\_TP\_9092\_V1.md\#](cn.zh-CN/用户指南/数据建模/管理数据集/创建数据集.md#)。
+您如果已经阅读过[仪表板概述](cn.zh-CN/用户指南/仪表板制作/仪表板概述.md#)和[仪表板基本操作](cn.zh-CN/用户指南/仪表板制作/仪表板基本操作/仪表板基本操作概述.md#)，那么本章将为您介绍如何创建一个LBS气泡地图。如果您还需要对数据集做进一步的编辑，或者想重新创建一个数据集，请参见[创建数据集](cn.zh-CN/用户指南/数据建模/管理数据集/创建数据集.md#)。
 
 ## LBS气泡地图概述 {#section_bfv_wss_xgb .section}
 
@@ -12,7 +12,7 @@ LBS气泡地图是由地理区域和LBS气泡大小构成的。地理区域由�
 
 ## LBS气泡地图效果图示例 {#section_ysx_zss_xgb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/155358365839683_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/155555893639683_zh-CN.png)
 
 ## 注意事项 {#section_xyq_1ts_xgb .section}
 
@@ -35,12 +35,12 @@ LBS气泡地图的地理区域最多只能取1个维度，并且维度类型必�
 
     在维度列表中，找到**省份**，并将其添加到地理区域中；在度量列表中，找到**订单金额**和**利润金额**，并将依次添加到LBS气泡大小区域中，如下图所示：
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15535836581870_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15555589361870_zh-CN.png)
 
 6.  单击**更新**，更新图表。
 7.  在样式标签页可更改图表的标题，布局和某一个字段的显示格式，如下图所示：
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15535836581871_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15555589361871_zh-CN.png)
 
 8.  单击**保存**，保存该仪表板。
 
@@ -49,13 +49,16 @@ LBS气泡地图的地理区域最多只能取1个维度，并且维度类型必�
 
 ## 配置样式 {#section_c5d_rrs_xgb .section}
 
--   在通用配置中可配置图表的标题、展示跳转链接、背景颜色。本示例中选用深色系。
+-   在基本信息中可配置图表的标题、展示跳转链接、背景颜色。本示例中选用深色系。
+
+    **说明：** 通过**展示跳转链接**功能用户可以在图表界面中直接跳转至需要的报表和外部链接，实现方式简单，只需在基本信息中添加相关的显示文案和链接即可。
+
 -   在布局中可设置显示图例位置、地图底图、地图缩放、地图中心。本示例中选择谷歌电子地图。
 -   在系列设置中可设置度量的别名、数值格式、小数位数。
 
 更新后如下图所示：
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/155358365839685_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/155555893639685_zh-CN.png)
 
 ## 删除图表 {#section_bqk_hts_xgb .section}
 
