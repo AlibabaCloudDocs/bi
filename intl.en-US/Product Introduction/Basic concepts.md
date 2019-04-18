@@ -2,19 +2,17 @@
 
 ## Key procedures {#section_nq4_kvv_tdb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/155385131737889_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/155557794237889_en-US.png)
 
 ## Basic objects {#section_jgv_qvv_tdb .section}
 
 -   Data source
 -   Dataset
--   Workbook \(for Quick BI Pro and Quick Enterprise Standard\)
+-   Workbooks \(for Quick BI Pro\)
 -   Dashboard
--   Portals
+-   Portal \(for Quick BI Pro\)
 
 **Note:** For more information about the difference of editions, see the following figure.
-
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/155385131735229_en-US.png)
 
 ## Data source {#section_cgt_vvv_tdb .section}
 
@@ -24,21 +22,21 @@ When you use Quick BI for data analysis, you must first specify the data source 
 -   Add data sources from user-created database systems
 -   Upload local files \(only available for Personal Space\)
 
-For more information about creating data sources, see [Create a cloud data source](../../../../../intl.en-US/User Guide/Data modeling/Data source management/Create cloud data sources.md#), [Create a data source from external database](../../../../../intl.en-US/User Guide/Data modeling/Data source management/Create a data source on a self-built database.md#), and [Upload local files](../../../../../intl.en-US/User Guide/Data modeling/Data source management/Upload local files.md#).
+For more information about creating data sources, see [Create a cloud data source](../../../../reseller.en-US/User Guide/Data modeling/Data source management/Create cloud data sources.md#), [Create a data source from external database](../../../../reseller.en-US/User Guide/Data modeling/Data source management/Create a data source on a self-built database.md#), and [Upload local files](../../../../reseller.en-US/User Guide/Data modeling/Data source management/Upload local files.md#).
 
 ## Dataset {#section_l5h_rwv_tdb .section}
 
 You can create datasets by using tables from different data sources. You can edit, move, or delete a dataset in the dataset list.
 
-For more information about datasets, see [Create a dataset](../../../../../intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
+For more information about datasets, see [Create a dataset](../../../../reseller.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
 ## Workbook {#section_qvj_b5p_b2b .section}
 
 Workbooks are available for Workspace. You can obtain a workbook by analyzing and processing a dataset. You can use it to reference individual cells, leverage a rich range of functions, and create sophisticated business reports.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15538513176895_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15555779426895_en-US.png)
 
-For more information about creating workbooks, see [../../../../../dita-oss-bucket/SP\_78/DNQBI11869867/EN-US\_TP\_9106.md](../../../../../intl.en-US//Create a workbook.md).
+For more information about creating workbooks, see [../../../../dita-oss-bucket/SP\_78/DNQBI11869867/EN-US\_TP\_9106.md](../../../../reseller.en-US//Create a workbook.md).
 
 ## Dashboard {#section_uf2_1yv_tdb .section}
 
@@ -46,30 +44,27 @@ Dashboard provides you a more flexible tile layout to create interactive reports
 
 Dashboards support two display modes.
 
--   Standard mode \(for Quick BI Pro and Quick BI Enterprise Standard\)
 -   Full-screen mode \(only for Quick BI Enterprise Standard\)
 
 The standard mode supports multiple charts and five layout widgets.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15538513176896_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15555779426896_en-US.png)
 
 The standard mode supports multiple charts and five layout widgets.
 
-For more information, see [Create charts in a dashboard](../../../../../intl.en-US/User Guide/Create dashboards/Create charts/Create charts in a dashboard.md).
+For more information, see [Create charts in a dashboard](../../../../reseller.en-US/User Guide/Create dashboards/Create charts/Create charts in a dashboard.md).
 
 ## Portals {#section_e51_jyv_tdb .section}
 
 The data portal is also known as the data product. and reporting products that use a menu structure. You can use a portal as part of a management analysis system, for it supports to be referenced by external links.
 
- 
-
-For more information about portals, see [Create portals](../../../../../intl.en-US/Quick Start/Create a report/Create portals.md#).
+For more information about portals, see [Create portals](../../../../reseller.en-US/Quick Start/Create a report/Create portals.md#).
 
 ## Product architecture {#section_ptc_sz4_mgb .section}
 
 The product architecture of Quick BI is shown in the following figure.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9064/15538513171012_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9064/15555779421012_en-US.png)
 
 Modules and functions of Quick BI:
 
