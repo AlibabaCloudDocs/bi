@@ -2,7 +2,7 @@
 
 ## Key procedures {#section_nq4_kvv_tdb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/155557843037889_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/155563787137889_en-US.png)
 
 ## Basic objects {#section_jgv_qvv_tdb .section}
 
@@ -34,7 +34,7 @@ For more information about datasets, see [Create a dataset](../../../../reseller
 
 Workbooks are available for Workspace. You can obtain a workbook by analyzing and processing a dataset. You can use it to reference individual cells, leverage a rich range of functions, and create sophisticated business reports.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15555784306895_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15556378716895_en-US.png)
 
 For more information about creating workbooks, see [../../../../dita-oss-bucket/SP\_78/DNQBI11869867/EN-US\_TP\_9106.md](../../../../reseller.en-US//Create a workbook.md).
 
@@ -48,7 +48,7 @@ Dashboards support two display modes.
 
 The standard mode supports multiple charts and five layout widgets.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15555784306896_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9063/15556378716896_en-US.png)
 
 The standard mode supports multiple charts and five layout widgets.
 
@@ -64,7 +64,7 @@ For more information about portals, see [Create portals](../../../../reseller.en
 
 The product architecture of Quick BI is shown in the following figure.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9064/15555784301012_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9064/15556378711012_en-US.png)
 
 Modules and functions of Quick BI:
 
