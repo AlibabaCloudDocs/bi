@@ -18,18 +18,18 @@ Create a dashboard using the dataset named company\_sales\_reco. For more inform
 
     **Note:** The full-screen mode is only available in the Workspace of Quick BI Enterprise Standard. The Personal Space only supports the standard mode.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15556527451241_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15556576141241_en-US.png)
 
 
 **Add datasets to a dashboard**
 
 1.  Click the **Switch** icon, and select a dataset, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15556527456908_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15556576146908_en-US.png)
 
 2.  Click the workbook company\_sales\_record. The data in the workbook is listed in the dimension list and the measure list respectively, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15556527456909_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15556576146909_en-US.png)
 
 
 If the dataset list is empty, click **Datasets** to return to the dataset management page and check whether the dataset has been successfully created.
@@ -45,7 +45,7 @@ For more information about basic dashboard operations, see [Basic dashboard oper
 1.  Click the column chart icon.
 2.  Double-click a field on the Data tab page. The field data is automatically filled in a specified area, as shown in the following figure.
 
-    ![](images/32008_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/155565761532008_en-US.png)
 
 3.  Click **Update**. The system automatically draws a chart.
 
@@ -53,21 +53,21 @@ For more information about basic dashboard operations, see [Basic dashboard oper
 
     **Note:** This feature is only available when the Value Axis area is filled with only one measure field. When the color legend is unavailable, the system automatically provides prompts and reasons. You can manually adjust the dimension fields and measure fields as prompted.
 
-    ![](images/32009_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/155565761532009_en-US.png)
 
 4.  Click **Update**. The updated chart is shown in the following figure.
 
-    ![](images/32012_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/155565761532012_en-US.png)
 
 5.  When you hover your mouse cursor over a set of data, the details of the data \(ToolTip\) are listed automatically, as shown in the following figure.
 
     You can choose**Style** \> **Layout** \> **Tooltip**to clear the Tooltip option.
 
-    ![](images/32013_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/155565761532013_en-US.png)
 
 6.  On the Style tab page, you can modify the titles, layouts, formats, and axis styles, and select a legend type, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15556527466912_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15556576156912_en-US.png)
 
     -   General configuration: You can set the title and the background color of the chart, as well as the font and the color of the title.
     -   Style: You can set the display style of the chart on the Style tab page. For example, you can select Secondary Y Axis, Stacked Percentage, or Stacked.
@@ -115,7 +115,7 @@ A dashboard supports the following five widgets.
 
     1.  Click the **Filter Bar** icon, as shown in the following figure.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15556527466925_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15556576156925_en-US.png)
 
     2.  Click the **Filter Bar** widget to open the editing menu.
     3.  Select a dataset that can be operated, for example, company\_sales\_record.
@@ -125,9 +125,9 @@ A dashboard supports the following five widgets.
 
     5.  Click the **Set Filter** icon, and select **Current Dataset**. Select a chart, as shown in the following figure.
 
-        ![](images/33779_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/155565761533779_en-US.png)
 
-        ![](images/13721_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/155565761513721_en-US.png)
 
     6.  Click **Style** to edit the title of the widget.
     7.  In the **Set Filter Criteria** dialog box, click **Filter by Enumeration** and select **Ratio** or **Multiple Select**.
@@ -135,7 +135,7 @@ A dashboard supports the following five widgets.
 
         **Note:** If you have selected Ratio, you can select only one item. Otherwise, you can select multiple items.
 
-        ![](images/13799_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/155565761513799_en-US.png)
 
     9.  Click **Search**, and the charts that contain the queried items are updated.
     To delete the current widget, click **More** \> **Delete** in the upper-right corner of the widget.
@@ -149,7 +149,7 @@ A dashboard supports the following five widgets.
     1.  Click the **Text Area** icon.
     2.  Enter a text, as shown in the following figure.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15556527466934_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15556576156934_en-US.png)
 
     To delete the current widget, click **More** \> **Delete** in the upper-right corner of the widget to delete the current widget.
 
@@ -174,7 +174,7 @@ A dashboard supports the following five widgets.
     4.  Click the required chart icon, and a chart is automatically inserted to the TAB1 tab page.
     5.  Create the chart by following the chart creation process. After the chart is created, the created TAB widget is shown in the following figure.
 
-        ![](images/33260_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/155565761533260_en-US.png)
 
         To delete the current widget, click**More** \> **Delete** in the upper-right corner of the widget to delete the current widget.
 
@@ -186,7 +186,7 @@ A dashboard supports the following five widgets.
     2.  Enter the picture URL.
     3.  Click the drop-down arrow and select the picture display style, as shown in the following figure.
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15556527466938_en-US.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/15556576166938_en-US.png)
 
         To delete the current widget, click **More** \> **Delete** in the upper-right corner of the widget
 
@@ -197,7 +197,7 @@ After a dashboard is edited, you can preview the charts in the dashboard.
 
 Click **Preview**, choose PC Preview or Mobile Preview, as shown in the following figure.
 
-![](images/33261_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9077/155565761633261_en-US.png)
 
 ## Save dashboards {#section_zrj_wpp_5db .section}
 
