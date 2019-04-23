@@ -4,10 +4,10 @@ Before leaving an organization, the owner of a workspace can transfer the worksp
 
 1.   Log on to the Quick BI console. 
 2.  Choose **Settings** \> **Workspaces**. 
-3.   Click **Transfer** in the **Actions** column for the workspace to transfer as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9162/15543637291135_en-US.png)
+3.   Click **Transfer** in the **Actions** column for the workspace to transfer as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9162/15560097821135_en-US.png)
 
  
-4.   Click the drop-down arrow and select a new owner of the workspace by the nickname as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9162/15543637291136_en-US.png)
+4.   Click the drop-down arrow and select a new owner of the workspace by the nickname as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9162/15560097821136_en-US.png)
 
  
 5.   Click **OK** to complete the transferring of the workspace. 
