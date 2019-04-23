@@ -8,10 +8,10 @@ For personal workspaces, Quick BI supports sharing workbooks, dashboards, and po
 
 1.   Log on to the Quick BI console. 
 2.   Click the **Dashboards** icon to jump to the Dashboards page. 
-3.   Select a dashboard and click the **Share** icon in the Actions column as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9173/15540978431540_en-US.png)
+3.   Select a dashboard and click the **Share** icon in the Actions column as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9173/15560073631540_en-US.png)
 
  
-4.   Enter the usernames of the user that you want to authorize and select an expiration date as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9173/15540978431541_en-US.png)
+4.   Enter the usernames of the user that you want to authorize and select an expiration date as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9173/15560073651541_en-US.png)
 
  
 5.   Click **Save** to finish the authorization. 
