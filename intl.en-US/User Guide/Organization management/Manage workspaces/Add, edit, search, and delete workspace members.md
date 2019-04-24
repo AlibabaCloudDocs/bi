@@ -13,11 +13,11 @@ On the workspaces page, you can add, edit, search, and delete workspace members.
 1.  On the workspaces page, click the workspace that you want to add members to.
 2.  Click the **Members** tab, and then click **Add Members** on the members tab page, as shown in the following figure:
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9164/15560751531174_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/122357/155607637445259_en-US.png)
 
 3.  Search members by alias and select a role for the members, as shown in the following figure:
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9164/15560751531175_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/122357/155607637445261_en-US.png)
 
 4.  Click **OK** to add the members.
 
@@ -27,7 +27,7 @@ On the workspaces page, you can add, edit, search, and delete workspace members.
 2.  Click the **Members** tab, and click **Edit** in the Actions column for the target member.
 3.  Change the role of the member.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9165/15560751531176_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/122357/155607637545262_en-US.png)
 
     Different roles are granted different permissions. For more information, see [Add members to a workspace](reseller.en-US/User Guide/Organization management/Manage workspaces/Add members to a workspace.md).
 
@@ -38,7 +38,7 @@ On the workspaces page, you can add, edit, search, and delete workspace members.
 1.  On the workspaces page, click a workspace to search members.
 2.  Click the **Members** tab, enter an alias into the search box on the members tab page.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9167/15560751551177_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/122357/155607637545262_en-US.png)
 
 3.  Click the **Search** icon to search for the member.
 
