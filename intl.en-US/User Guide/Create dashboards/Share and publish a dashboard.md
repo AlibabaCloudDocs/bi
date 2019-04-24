@@ -17,7 +17,7 @@ You can share and publish a dashboard.
 3.  Right-click a dashboard, select **Public** as shown in the following figure.
 4.  Select an expiration date and select the **Regenerate URL** checkbox as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9121/15502232341539_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9121/15560923251539_en-US.png)
 
 5.  Click **Public** to publish the dashboard.
 
