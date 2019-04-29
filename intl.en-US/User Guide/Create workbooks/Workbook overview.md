@@ -1,55 +1,18 @@
 # Workbook overview {#concept_o35_pbx_5db .concept}
 
-The workbook applies to workspaces under Quick BI Pro and Quick BI Standard. The workbook is not supported in the personal workspace.
+Workbooks are available only in the workspace of Quick BI Pro and Quick BI Enterprise Standard. You cannot create workbooks in personal spaces. You can only add charts and filter bars in Quick BI Enterprise Standard.
 
-## Common features {#section_fsk_sbx_5db .section}
+## Edit page description {#section_hp5_gwk_ggb .section}
 
-In the workbook editing page, you can **undo**, **restore**, **cut**, **copy**, and **paste** data, as shown in the following figure.
+The Edit page of a workbook is divided into the following areas:
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9105/15499564791384_en-US.png)
+-   Dataset selection area
+-   Workbook configuration area
+-   Workbook display area
 
-## Conditional formatting {#section_hsk_sbx_5db .section}
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9105/155650462735283_en-US.png)
 
-Click the **Set Conditional Formatting** icon in the toolbar to add conditions to data results. For example, you can highlight certain data, as shown in the following figure.
-
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9105/15499564791385_en-US.png)
-
-## Add images and hyperlinks {#section_jsk_sbx_5db .section}
-
-The workbook provides you with the **Images** and **Hyperlinks** features so that you can create expressive charts, as shown in the following figure.
-
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9105/15499564791386_en-US.png)
-
-## Add drop-down lists {#section_lsk_sbx_5db .section}
-
-Click the **Drop Down** icon to add labels to the data records.
-
-**Note:** Separate multiple labels with commas \(,\).
-
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9105/15499564791387_en-US.png)
-
-## Text format {#section_osk_sbx_5db .section}
-
-You can use the text format feature to adjust the text format in the charts.
-
--   Specify the text font, color, and background.
--   Specify the text size and style \(Bold, Italic, Underline, and Strikethrough\).
--   Specify the cell style \(text alignment, text wrapping, indenting, and cell merging\).
--   Specify the text formatting method \(general, number, text, percentage, date, and custom settings\)
-
-## Table properties {#section_rsk_sbx_5db .section}
-
-You can use the table properties feature to adjust table properties.
-
--   Insert row, insert column, delete row, delete column, autofit row height, and autofit column width.
--   Group, ungroup, hide row, hide column, freeze row, and freeze column.
--   Set borders.
--   Sort, filter, and set table styles.
-
-## Global parameters {#section_lnj_bph_1fb .section}
-
-You can set global parameters in the workbook. Global parameters can be used in the parameter links of tables.
-
-1.  In the workbook editing page, click the **Global Parameters** icon.
-2.  In the **Parameters** page, enter the required parameters and then click **OK** to finish setting global parameters.
+-   Dataset selection area: In this area, you can switch datasets. The fields of each dataset are displayed in the Dimensions and Measures lists based on the data types preset in the system. You can select dimensions and measures based on the data in the chart.
+-   Workbook configuration area: In this area, you can select the expected chart type, and set the color, font, and data format of cells as needed.
+-   Workbook display area: In this area, you can reprocess data based on the displayed data in cells and reference data.
 
