@@ -6,7 +6,7 @@ Quick BI是阿里云旗下产品，是一个基于云计算致力于大数据高
 
 ## 产品核心流程 {#section_mvp_ydp_mgb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9062/155054464437888_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9062/155650702737888_zh-CN.png)
 
 ## 产品优势特性 {#section_rbk_12p_mgb .section}
 
