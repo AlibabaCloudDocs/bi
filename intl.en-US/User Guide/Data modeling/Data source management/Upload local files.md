@@ -27,7 +27,7 @@ After you have changed the encoding, upload the CSV file to the explore space.
 4.  Enter a display name for the file.
 5.  Click **Select a file** to select the file to upload, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9086/155168674933512_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9086/155661370133512_en-US.png)
 
 6.  Click **OK** to upload the file.
 
@@ -39,7 +39,7 @@ When you upload Excel files, the first sheet in each excel file is uploaded by d
 2.  Enter a display name for the file.
 3.  Click **Select a file** to select the file to upload, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9086/155168674933511_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9086/155661370133511_en-US.png)
 
 4.  Click **OK** to complete uploading the file.
 
@@ -64,7 +64,7 @@ The new file can be in a format different from the previously uploaded file. For
 3.  Select a file, and then click **Update**.
 4.  Click **Append** to upload the file that needs to be appended, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9086/155168674933506_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9086/155661370133506_en-US.png)
 
 5.  Click **OK** to append the data.
 
@@ -77,12 +77,12 @@ If a file that you have appended contains dirty data, which decreases the accura
 3.  Select a file, and then click **Update**.
 4.  Locate the file that needs to be deleted, and then click the **Delete** icon, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9086/155168674933504_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9086/155661370133504_en-US.png)
 
 
 ## Example of local files {#section_xvt_qcr_5db .section}
 
-To help you learn to use local data source files, we provide a sample CSV file here: [Sales data examples](http://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/assets/attach/47483/cn_zh/1483006983645/company_sales_record_utf8.csv?spm=a2c63.p38356.a3.1.613841274yUUi1&file=company_sales_record_utf8.csv).
+To help you learn to use local data source files, we provide a sample CSV file here: .
 
 The structure of the sales data is shown in the following table.
 
