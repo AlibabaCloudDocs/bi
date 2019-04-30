@@ -2,9 +2,9 @@
 
 This topic describes the basic concepts of the dashboard, including the dashboard data types, scenarios, and data that composes the charts.
 
-For more information about basic operations of the dashboard, see [EN-US\_TP\_9111.md\#](intl.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#).
+For more information about basic operations of the dashboard, see [Basic dashboard operations](intl.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#).
 
-For more information about the procedure of creating various charts, see [EN-US\_TP\_9123.md\#](intl.en-US/User Guide/Create dashboards/Create charts/Create charts in a dashboard.md#).
+For more information about the procedure of creating various charts, see [Create charts in a dashboard](intl.en-US/User Guide/Create dashboards/Create charts/Create charts in a dashboard.md#).
 
 The dashboard provides a flexible tile view to show the interaction between data. It renders data visually and supports filtering and querying a variety of data types. It displays data in various ways and highlights the keyword segments in data.
 
@@ -30,7 +30,7 @@ The following table describes the analysis types and scenarios for each chart.
 
 Each chart has three tabs, which are Data, Style, and Advanced, as shown in the following figure.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9109/15499427536898_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9109/15566034326898_en-US.png)
 
 -   Settings in the Data tab determine the data shown on the chart.
 -   Settings in the Style tab determine the appearance of the chart and the details to be displayed.
