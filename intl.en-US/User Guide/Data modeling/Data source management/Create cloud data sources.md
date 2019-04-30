@@ -1,190 +1,177 @@
 # Create cloud data sources {#concept_tlv_gn5_mfb .concept}
 
-Operations on datasets, workbooks, dashboards, and portals are based on data sources. This topic describes how to build a cloud data source.
+Operations on datasets, workbooks, dashboards, and BI portals are based on data sources. This topic describes how to create a cloud data source.
 
-Go to the data source creation page to create a cloud data source.
+You need to go to the Add Data Source page before adding a cloud data source.
 
 1.  Log on to the Quick BI console.
-2.  Click **Data Sources** to go to the data source management page.
-3.  Click **Create Data Source** and select a data source.
-4.  Click the Cloud Database tab.
+2.  Click **Data Sources** to go to the Data Sources page.
+3.  Click **Create Data Source**.
+4.  Click the Cloud Data Sources tab.
 
 ## MaxCompute {#section_inm_5p5_mfb .section}
 
 1.  Click the **MaxCompute** icon.
-2.  Specify the parameters required for data source connection as follows:
+2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154466490013878_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155661202913878_en-US.png)
 
-    -   Name: The display name in the data source list.
-    -   Database Endpoint: You do not need to modify the default address. If you want to modify it, see [Access domains and data centers](https://www.alibabacloud.com/help/doc-detail/34951.htm).
+    -   Name: the data source name.
+    -   Database Address: the default address is displayed. For modification, see .
 
-        **Note:** The database endpoint varies with region. For example, in a classic network, the database endpoints of Hong Kong region and Singapore region are http://service.cn-hongkong.maxcompute.aliyun-inc.com/api and http://service.ap-southeast-1.maxcompute.aliyun-inc.com/api respectively. For more information, see [Access domains and data centers](https://www.alibabacloud.com/help/doc-detail/34951.htm).
+        **Note:** The database address is based on the region where the database instance is deployed. For example, if you choose a classic network as the network type for your database instance that is deployed in the Hong Kong region, the database address is http://service.cn-hongkong.maxcompute.aliyun-inc.com/api. If the database instance is deployed in the Asia Pacific SE 1 \(Singapore\) region, the database address is http://service.ap-southeast-1.maxcompute.aliyun-inc.com/api. For more information, see .
 
-    -   Project: The project name.
-    -   Access ID: The AccessKey ID.
-    -   Access Key: The AccessKey Secret.
-    **Note:** The value of the Access Key must be valid. The corresponding account is that of the project administrator or owner, or a common user who has permissions to list, select, and create instances.
+    -   Project: the project name.
+    -   AccessKey ID: the AccessKey ID.
+    -   AccessKey Secret: the AccessKey Secret.
+    **Note:** Make sure that the AccessKey is valid. The corresponding account is an administrator of the project, the owner of the project, or a user that has List, Select, and CreateInstance permissions.
 
-3.  Click **Test Connection**.
+3.  Click **Test Connection** to perform a data source connectivity test.
 
-    **Note:** If the connection works properly, a message indicating connection success will be displayed.
+    **Note:** If the connection is successful, a message that indicates success is displayed.
 
-4.  Click **Add** to add a data source.
+4.  Click **Add** to add the data source.
 
-    After the data source is added, the **Data Sources** tab page is automatically displayed, and all data tables under the data source are displayed in the right-side pane.
+    After the data source is added, the **Data Sources** page is redirected automatically. All tables that are contained in the data source are listed in the right section.
 
-    MaxCompute data sources are asynchronously loaded and updated. If you create a MaxCompute data source for the first time, wait up to five minutes for the data synchronization.
+    MaxCompute data sources use asynchronous loading. Creating a MaxCompute data source takes one to five minutes to synchronize data.
 
 
 ## MySQL {#section_l1b_pq5_mfb .section}
 
-Due to the limitations imposed by the whitelist policy of ApsaraDB for RDS, before adding an ApsaraDB for RDS data source, you must manually add related IP addresses to whitelists on the ApsaraDB for RDS console.
+You need to add IP addresses or security groups to the whitelist of the RDS instance in the ApsaraDB for RDS console before you add an RDS data source.
 
-For more information about how to add and set a whitelist, see [Set whitelists](https://www.alibabacloud.com/help/doc-detail/26198.htm?spm=a2c63.p38356.a3.1.4a0c1ce4v8Eznb).
+For more information, see .
 
 1.  Click the **MySQL** icon.
-2.  Specify the parameters required for data source connection as follows:
+2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154466490013887_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155661202913887_en-US.png)
 
-    -   Name: The display name in the data source list.
-    -   Database Endpoint: The host name or IP address.
-    -   Port: The port number.
-    -   Database: The name of the database.
-    -   Username: The username of the database.
-    -   Password: The password of the database.
-    If you do not know the username or the password, contact your data warehouse administrator.
+    -   Name: the data source name.
+    -   Database Address: the IP address or the hostname of the database.
+    -   Port Number: the port number.
+    -   Database: the database name.
+    -   Username: the database username.
+    -   Password: the database password.
+    Contact the administrator of your data warehouse if you forget the username and password.
 
-3.  Click **Test Connection**.
-4.  Click **Add** to add a data source.
+3.  Click **Test Connection** to perform a data source connectivity test.
+4.  Click **Add** to add the data source.
 
-    If a data source with the same configuration already exists, a prompt message will be displayed. Do not add a data source repeatedly.
+    If a data source with the same configurations exists, a message that indicates conflict is displayed. You do not need to create the same data source again.
 
 
 ## SQL Server {#section_rws_vq5_mfb .section}
 
-You can add a data source from RDS for SQL Server in a similar way you add a data source from RDS for MySQL. The differences are that you need to add the configuration item **schema** for data sources from ApsaraDB for RDS \(SQL Server\), and the default port number of the SQL server is **1433**.
+Adding an RDS \(SQL Server\) data source is similar to adding an RDS \(MySQL\) data source. However, you need to specify the **Schema** configuration item for an RDS \(SQL Server\) data source. The default port number for an SQL Server data source is **1433**.
 
 1.  Click the **SQL Server** icon.
-2.  Specify the parameters required for data source connection as follows:
+2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154466490113888_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155661202913888_en-US.png)
 
-    -   Name: The display name in the data source list.
-    -   Database Endpoint: The host name or IP address.
-    -   Port: The port number.
-    -   Database: The name of the database.
-    -   Schema: dbo.
-    -   Username: The username of the database.
-    -   Password: The password of the database.
-3.  Click **Test Connection**.
-4.  Click **Add** to add a data source.
+    -   Name: the data source name.
+    -   Database Address: the IP address or the hostname of the database.
+    -   Port Number: the port number.
+    -   Database: the database name.
+    -   Schema: the database schema. The default schema is dbo.
+    -   Username: the database username.
+    -   Password: the database password.
+3.  Click **Test Connection** to perform a data source connectivity test.
+4.  Click **Add** to add the data source.
 
-## Analytic DB {#section_v4y_dr5_mfb .section}
+## AnalyticDB {#section_v4y_dr5_mfb .section}
 
-1.  Click the **Analytic DB** icon.
-2.  Specify the parameters required for data source connection as follows:
+1.  Click the **AnalyticDB** icon.
+2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154466490113889_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155661202913889_en-US.png)
 
-    -   Name: The display name in the data source list.
-    -   Database Endpoint: The host name or IP address.
-    -   Port: The port number.
-    -   Database: The name of the database.
-    -   Access ID: The AccessKey ID.
-    -   Access Key: The AccessKey Secret.
-3.  Click **Test Connection**.
-4.  Click **Add** to add a data source.
+    -   Name: the data source name.
+    -   Database Address: the IP address or the hostname of the database.
+    -   Port Number: the port number.
+    -   Database: the database name.
+    -   Access ID: the AccessKey ID.
+    -   Access Key: the AccessKey Secret.
+3.  Click **Test Connection** to perform a data source connectivity test.
+4.  Click **Add** to add the data source.
 
 ## HybridDB for MySQL {#section_h4s_hr5_mfb .section}
 
-You can add a data source from HybridDB for MySQL in a similar way you add a data source from RDS for MySQL.
+Adding a HybridDB for MySQL data source is similar to adding a MySQL data source.
 
 1.  Click the **HybridDB for MySQL** icon.
-2.  Specify the parameters required for data source connection as follows:
+2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154466490113890_en-US.png)
+     
 
-    -   Name: The display name in the data source list.
-    -   Database Endpoint: The host name or IP address.
-    -   Port: The default value is 3306.
-    -   Database: The name of the database.
-    -   Username: The username of the database.
-    -   Password: The password of the database.
-3.  Click **Test Connection**.
-4.  Click **Add** to add a data source.
+3.  Click **Test Connection** to perform a data source connectivity test.
+4.  Click **Add** to add the data source.
 
 ## HybirdDB for PostgreSQL {#section_xjg_nr5_mfb .section}
 
-You can add a data source from HybridDB for PostgreSQL in a similar way you add a data source from RDS for SQL Server. The default port is the port specific to HybridDB for PostgreSQL.
+Adding a HybridDB for PostgreSQL data source is similar to adding a SQL Server data source. The default port number for a HybridDB for PostgreSQL database is displayed.
 
 1.  Click the **HybridDB for PostgreSQL** icon.
-2.  Specify the parameters required for data source connection as follows:
+2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154466490113891_en-US.png)
+     
 
-    -   Name: The display name in the data source list.
-    -   Database Endpoint: The host name or IP address.
-    -   Port: The port number.
-    -   Database: The name of the database.
-    -   Schema: public.
-    -   Username: The username of the database.
-    -   Password: The password of the database.
-3.  Click **Test Connection**.
-4.  Click **Add** to add a data source.
+3.  Click **Test Connection** to perform a data source connectivity test.
+4.  Click **Add** to add the data source.
 
 ## PostgreSQL {#section_zmk_rr5_mfb .section}
 
 1.  Click the **PostgreSQL** icon.
-2.  Specify the parameters required for data source connection as follows:
+2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154466490113892_en-US.png)
+     
 
-    -   Name: The display name in the data source list.
-    -   Database Endpoint: The host name or IP address.
-    -   Port: The port number.
-    -   Database: The name of the database.
-    -   Schema: public.
-    -   Username: The username of the database.
-    -   Password: The password of the database.
-3.  Click **Test Connection**.
-4.  Click **Add** to add a data source.
+    -   Name: the data source name.
+    -   Database Address: the IP address or the hostname of the database.
+    -   Port Number: the port number.
+    -   Database: the database name.
+    -   Schema: the database schema. The default schema is public.
+    -   Username: the database username.
+    -   Password: the database password.
+3.  Click **Test Connection** to perform a data source connectivity test.
+4.  Click **Add** to add the data source.
 
 ## PPAS {#section_s12_vr5_mfb .section}
 
-You can add a data source from RDS for PPAS in a similar way you add a data source from HybridDB for PostgreSQL.
+Adding a PPAS data source is similar to adding a PostgreSQL data source.
 
 1.  Click the **PPAS** icon.
-2.  Specify the parameters required for data source connection as follows:
+2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154466490113893_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155661202913893_en-US.png)
 
-    -   Name: The display name in the data source list.
-    -   Database Endpoint: The host name or IP address.
-    -   Port: The port number.
-    -   Database: The name of the database.
-    -   Schema: public.
-    -   Username: The username of the database.
-    -   Password: The password of the database.
-3.  Click **Test Connection**.
-4.  Click **Add** to add a data source.
+    -   Name: the data source name.
+    -   Database Address: the IP address or the hostname of the database.
+    -   Port Number: the port number.
+    -   Database: the database name.
+    -   Schema: the database schema. The default schema is public.
+    -   Username: the database username.
+    -   Password: the database password.
+3.  Click **Test Connection** to perform a data source connectivity test.
+4.  Click **Add** to add the data source.
 
-## Hive \(for Quick BI Professional\) {#section_ngp_ts5_mfb .section}
+## Hive \(Quick BI Enterprise Standard\) {#section_ngp_ts5_mfb .section}
 
-If you have purchased **Quick BI Professional**, you can add a Hive data source.
+If you use **Quick BI Enterprise Standard**, you can add a Hive data source.
 
 1.  Click the **Hive** icon.
-2.  Specify the parameters required for data source connection as follows:
+2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/154466490113894_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155661202913894_en-US.png)
 
-    -   Name: The display name in the data source list.
-    -   Database Endpoint: The host name or IP address.
-    -   Port: The port number.
-    -   Database: The name of the database.
-    -   Username: The username of the database.
-    -   Password: The password of the database.
-3.  Click **Test Connection**.
-4.  Click **Add** to add a data source.
+    -   Name: the data source name.
+    -   Database Address: the IP address or the hostname of the database.
+    -   Port Number: the port number.
+    -   Database: the database name.
+    -   Username: the database username.
+    -   Password: the database password.
+3.  Click **Test Connection** to perform a data source connectivity test.
+4.  Click **Add** to add the data source.
 
