@@ -11,7 +11,7 @@ This topic describes how to create a user-created data source. You can access al
 
     **Note:** Select ECS \(VPC\) User-created Data Source and enter the required fields when you connect to an ECS \(VPC\) user-created data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/155661252511380_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/155661353711380_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or hostname of the database.
@@ -23,10 +23,10 @@ This topic describes how to create a user-created data source. You can access al
     -   AccessKey Secret: the AccessKey Secret.
     -   Instance ID: the ECS instance ID.
     -   ECS Instance Region: the region location ID of the ECS instance.
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
+    -   SSH Host: The host name or IP address.
+    -   SSH Username: The username for logon through SSH.
+    -   SSH Password: The password for logon through SSH.
+    -   SSH Port: The default SSH port number 22.
 5.  Click **Test Connection** to perform a data source connectivity test.
 6.  Click **Add** to add the data source.
 
@@ -55,7 +55,7 @@ You need to remove the firewall of the user-created database for allowing users 
 
     **Note:** Select ECS \(VPC\) User-created Data Source and enter the required fields when you connect to an ECS \(VPC\) user-created data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/155661252511381_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/155661353711381_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or hostname of the database.
@@ -68,10 +68,10 @@ You need to remove the firewall of the user-created database for allowing users 
     -   AccessKey Secret: the AccessKey Secret.
     -   Instance ID: the ECS instance ID.
     -   ECS Instance Region: the region location ID of the ECS instance.
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
+    -   SSH Host: The host name or IP address.
+    -   SSH Username: The username for logon through SSH.
+    -   SSH Password: The password for logon through SSH.
+    -   SSH Port: The default SSH port number 22.
 3.  Click **Test Connection** to perform a data source connectivity test.
 4.  Click **Add** to add the data source.
 
@@ -80,7 +80,7 @@ You need to remove the firewall of the user-created database for allowing users 
 1.  Click the **PostgreSQL** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/155661252511382_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/155661353711382_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or hostname of the database.
@@ -89,10 +89,10 @@ You need to remove the firewall of the user-created database for allowing users 
     -   Schema: the database schema. The default schema is public.
     -   Username: the database username.
     -   Password: the database password.
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
+    -   SSH Host: The host name or IP address.
+    -   SSH Username: The username for logon through SSH.
+    -   SSH Password: The password for logon through SSH.
+    -   SSH Port: The default SSH port number 22.
     **Note:** After you select ssh, interactive query services that are provided by MaxCompute Lightning are supported.
 
 3.  Click **Test Connection** to perform a data source connectivity test.
@@ -103,7 +103,7 @@ You need to remove the firewall of the user-created database for allowing users 
 1.  Click the **Oracle** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/155661252511383_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/155661353711383_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or hostname of the database.
@@ -112,10 +112,10 @@ You need to remove the firewall of the user-created database for allowing users 
     -   Schema: the database schema. The default schema is public.
     -   Username: the database username.
     -   Password: the database password.
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
+    -   SSH Host: The host name or IP address.
+    -   SSH Username: The username for logon through SSH.
+    -   SSH Password: The password for logon through SSH.
+    -   SSH Port: The default SSH port number 22.
 3.  Click **Test Connection** to perform a data source connectivity test.
 4.  Click **Add** to add the data source.
 
@@ -126,7 +126,7 @@ If you use **Quick BI Enterprise Standard**, you can add a Hive data source.
 1.  Click the **Hive** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/155661252511384_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/155661353711384_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or hostname of the database.
@@ -134,10 +134,10 @@ If you use **Quick BI Enterprise Standard**, you can add a Hive data source.
     -   Database: the database name.
     -   Username: the database username.
     -   Password: the database password.
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
+    -   SSH Host: The host name or IP address.
+    -   SSH Username: The username for logon through SSH.
+    -   SSH Password: The password for logon through SSH.
+    -   SSH Port: The default SSH port number 22.
 3.  Click **Test Connection** to perform a data source connectivity test.
 4.  Click **Add** to add the data source.
 
@@ -148,7 +148,7 @@ If you use **Quick BI Enterprise Standard**, you can add a Vertica data source.
 1.  Click the **Vertica** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/15566125256839_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/15566135376839_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or hostname of the database.
@@ -157,10 +157,10 @@ If you use **Quick BI Enterprise Standard**, you can add a Vertica data source.
     -   Schema: the database schema. The default schema is public.
     -   Username: the database username.
     -   Password: the database password.
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
+    -   SSH Host: The host name or IP address.
+    -   SSH Username: The username for logon through SSH.
+    -   SSH Password: The password for logon through SSH.
+    -   SSH Port: The default SSH port number 22.
 3.  Click **Test Connection** to perform a data source connectivity test.
 4.  Click **Add** to add the data source.
 
@@ -171,7 +171,7 @@ If you use **Quick BI Enterprise Standard**, you can add an IBM DB2 LUW data sou
 1.  Click the **IBM DB2 LUW** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/15566125256841_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/15566135376841_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or hostname of the database.
@@ -180,10 +180,10 @@ If you use **Quick BI Enterprise Standard**, you can add an IBM DB2 LUW data sou
     -   Schema: the database schema. The default schema is DB2INST1.
     -   Username: the database username.
     -   Password: the database password.
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
+    -   SSH Host: The host name or IP address.
+    -   SSH Username: The username for logon through SSH.
+    -   SSH Password: The password for logon through SSH.
+    -   SSH Port: The default SSH port number 22.
 3.  Click **Test Connection** to perform a data source connectivity test.
 4.  Click **Add** to add the data source.
 
@@ -194,7 +194,7 @@ If you use **Quick BI Enterprise Standard**, you can add an SAP IQ \(Sybase IQ\)
 1.  Click the **SAP IQ\(Sybase IQ\)** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/155661252511189_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/155661353711189_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or hostname of the database.
@@ -203,10 +203,10 @@ If you use **Quick BI Enterprise Standard**, you can add an SAP IQ \(Sybase IQ\)
     -   Schema: the database schema. The default schema is sybase.
     -   Username: the database username.
     -   Password: the database password.
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
+    -   SSH Host: The host name or IP address.
+    -   SSH Username: The username for logon through SSH.
+    -   SSH Password: The password for logon through SSH.
+    -   SSH Port: The default SSH port number 22.
 3.  Click **Test Connection** to perform a data source connectivity test.
 4.  Click **Add** to add the data source.
 
@@ -217,7 +217,7 @@ If you use **Quick BI Enterprise Standard**, you can add an SAP HANA data source
 1.  Click the **SAP HANA** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/155661252511190_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9085/155661353711190_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or hostname of the database.
@@ -226,10 +226,10 @@ If you use **Quick BI Enterprise Standard**, you can add an SAP HANA data source
     -   Schema: the database schema. The default schema is public.
     -   Username: the database username.
     -   Password: the database password.
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
-    -   \[DO NOT TRANSLATE\]
+    -   SSH Host: The host name or IP address.
+    -   SSH Username: The username for logon through SSH.
+    -   SSH Password: The password for logon through SSH.
+    -   SSH Port: The default SSH port number 22.
 3.  Click **Test Connection** to perform a data source connectivity test.
 4.  Click **Add** to add the data source.
 
