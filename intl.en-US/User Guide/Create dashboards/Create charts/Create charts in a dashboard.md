@@ -1,12 +1,12 @@
 # Create charts in a dashboard {#concept_x2d_lsy_5db .concept}
 
-We recommend that you read [Dashboard overview](intl.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [EN-US\_TP\_9111.md\#](intl.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#) to prepare for this topic. In this topic, you will learn how to create charts on the dashboard.
+We recommend that you read [Dashboard overview](intl.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [Basic dashboard operations](intl.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#) to prepare for this topic. In this topic, you will learn how to create charts on the dashboard.
 
 You must create and edit a dataset before creating a chart. For example, you must switch the dimension field type to Location.
 
 For more information about how to create and edit a dataset, see [Create a dataset](intl.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
-For more information about how to switch the dimension field type, see [EN-US\_TP\_9077.md\#](intl.en-US/Quick Start/Create a report/Example: Create dashboards.md#).
+For more information about how to switch the dimension field type, see [EN-US\_TP\_9077.md\#](intl.en-US/Quick Start/Create a report/Create dashboards.md#).
 
 ## Line charts {#section_ibb_4sy_5db .section}
 
@@ -62,7 +62,7 @@ Similar to [Bar charts](intl.en-US/User Guide/Create dashboards/Create charts/Ba
 
 ## TreeMap {#section_vbb_4sy_5db .section}
 
-[EN-US\_TP\_9137.md\#](intl.en-US/User Guide/Create dashboards/Create charts/TreeMap.md#) displays hierarchical relationships through a set of rectangles, sized proportionately to each data category, clustered together into one large rectangle.
+[Treemap](intl.en-US/User Guide/Create dashboards/Create charts/Treemap.md#) displays hierarchical relationships through a set of rectangles, sized proportionately to each data category, clustered together into one large rectangle.
 
 ## Polar charts {#section_xbb_4sy_5db .section}
 
@@ -74,7 +74,7 @@ Similar to [Bar charts](intl.en-US/User Guide/Create dashboards/Create charts/Ba
 
 ## Tornado {#section_zbb_4sy_5db .section}
 
-[EN-US\_TP\_9141.md\#](intl.en-US/User Guide/Create dashboards/Create charts/Tornado Chart.md#) You can use tornado funnel diagrams to compare different metrics between two objects or analyze a process with complicated steps.
+[Tornado chart](intl.en-US/User Guide/Create dashboards/Create charts/Tornado chart.md#) You can use tornado funnel diagrams to compare different metrics between two objects or analyze a process with complicated steps.
 
 ## Hierarchy {#section_acb_4sy_5db .section}
 
