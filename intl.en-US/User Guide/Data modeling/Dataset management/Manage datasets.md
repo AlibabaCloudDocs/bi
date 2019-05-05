@@ -8,7 +8,7 @@ On the edit page of a dataset, you can analyze, edit, and rename the dataset.
 
 The edit page of a dataset consists of the following sections.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9091/155661769038296_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9091/155703544938296_en-US.png)
 
 On the edit page of a dataset, you can perform the following operations on the dataset.
 
