@@ -18,7 +18,7 @@ Quick BI提供了高级版和专业版两个版本供您购买。不同版本的
 2.  选择需要购买的用户数和购买时长。
 3.  确认价格后，单击**立即购买**。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/155702430338305_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/155719466946567_zh-CN.png)
 
 4.  输入用户名和登录密码，单击**登录**，登录阿里云官网。
 
@@ -26,7 +26,7 @@ Quick BI提供了高级版和专业版两个版本供您购买。不同版本的
 
 5.  确认订单后，单击**去支付**。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/155702430338308_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/155719467046568_zh-CN.png)
 
 
 ## 账户扩充 {#section_d5l_drc_5db .section}
@@ -51,7 +51,7 @@ Quick BI提供了高级版和专业版两个版本供您购买。不同版本的
 1.  登录Quick BI控制台。
 2.  单击**申请试用**，按照系统提示，完成版本升级。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/155702430338303_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/155719467046569_zh-CN.png)
 
 
 ## 降级 {#section_eqr_4s1_dhb .section}
@@ -74,13 +74,13 @@ Quick BI支持版本降级功能，降级操作需在后台进行，有降级需
 
 ## 欠费说明 {#section_blm_jdl_ngb .section}
 
--   **Quick BI到期提醒**
+-   **Quick BI到期提醒** 
 
     产品到期后，产品资源会被保留七天。在此期间，您的数据不会丢失。
 
     您在此期间内无法重新购买该产品，只可以选择续费。续费后，产品可继续使用。如需续费，请参见**续费**部分。
 
--   **Quick BI资源保留期**
+-   **Quick BI资源保留期** 
 
     产品到期后，产品资源会被保留七天。在此期间，您的数据不会丢失。
 
@@ -88,7 +88,7 @@ Quick BI支持版本降级功能，降级操作需在后台进行，有降级需
 
     如需续费，请参见**续费**部分。
 
-    **Quick BI资源释放规则**
+     **Quick BI资源释放规则** 
 
     资源被释放后，除作品外，您的其它数据会丢失。
 
