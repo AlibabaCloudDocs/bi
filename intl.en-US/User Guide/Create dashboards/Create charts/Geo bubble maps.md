@@ -10,7 +10,7 @@ A geo bubble map consists of regions with varied color scales. Geo Location \(Di
 
 ## Example of a geo bubble map {#section_dxf_gb5_xgb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/20186/155728110839738_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/20186/155728672739738_en-US.png)
 
 ## Precautions {#section_vl1_hb5_xgb .section}
 
@@ -35,7 +35,7 @@ The following scenario is based on the company\_sales\_record dataset.
 
     **Note:** Make sure you have changed the data type of the province field value from String to Geo.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/20186/155728110811281_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/20186/155728672711281_en-US.png)
 
 6.  Click **Update**. The system automatically updates the map.
 7.  On the Style tab, you can set Display Scope and the legend color of each value range, as shown in the following figure.
