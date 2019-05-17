@@ -23,31 +23,36 @@ Currently, you can use the following three joins in Quick BI:
 
 1.  Click the **Join** icon to enter the **Table Join** page as the following figure shows.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/116859/155806022537882_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/116859/155809178137882_en-US.png)
 
 2.  Click the **+** icon to add a table that you want to join.
 3.  Click the drop-down arrow for **Dataset Field** to select a field as the following figure shows.
 
-    ![](images/34000_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/116859/155809178147514_en-US.png)
 
 4.  Click the drop-down arrow for **Join Type** to select a type as the following figure shows.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9093/15580602256892_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/116859/155809178147515_en-US.png)
 
 5.  Click the drop-down arrow for **Associate Table** to select a table as the following figure shows.
 
-    ![](images/34003_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/116859/155809178147516_en-US.png)
 
 6.  Click the drop-down arrow for **Join On** to select a field.
-7.  Click **OK** to add a join table as the following figure shows.
+7.  Click **OK** to add a join table.
+
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/116859/155809178147517_en-US.png)
+
+    -   Click the **+** icon at position 1 to join the third table with the second table.
+    -   Click the **+** icon at position 2 to join the third table with the first table.
 8.  Click the **Preview** icon to switch to the preview mode as the following figure shows.
 
-    ![](images/37883_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/116859/155809178137883_en-US.png)
 
 9.  Click **Save** to save the dataset.
 
     **Note:** Before saving the dataset, you can click **Set filter conditions** to filter the data in the current dataset to reduce searches for non-relevant data when using this dataset.
 
-    ![](images/37886_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/116859/155809178137886_en-US.png)
 
 
