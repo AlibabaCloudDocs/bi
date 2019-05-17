@@ -22,7 +22,7 @@ In the upper-right corner of a chart, click the **More Actions** icon. Then you 
 -   Copy: copies the chart.
 -   Delete: deletes the chart.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9119/155806350811400_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9119/155806365311400_en-US.png)
 
 ## Change the chart type {#section_ab4_vny_5db .section}
 
@@ -46,11 +46,11 @@ Click the **Add to Favorites** icon next to the dashboard name to add a dashboar
 
 Click the **Page Settings** icon to configure whether to allow downloads of the dashboard and whether to add watermarks.
 
-![](http://icms-static-translation.oss-cn-hangzhou.aliyuncs.com/SP_78/DNQBI11855835/images/6948_zh-CN.png?Expires=1554540176&OSSAccessKeyId=LTAIJfoPL6wmrirR&Signature=pOJ5PzsYSK63Jl3%2FwmImGEStdpQ%3D)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9119/15580636536948_en-US.png)
 
 ## Global variables {#section_gt3_cyd_2hb .section}
 
 After creating a dashboard and clicking **Save**, you can configure global variables. You can use global variables for page jumping. For more information, see [Drilling, filter interaction, and hyperlink](reseller.en-US/User Guide/Create dashboards/Visualization analysis/Drilling, filter interaction, and hyperlink.md).
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9119/155806350841308_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9119/155806365341308_en-US.png)
 
