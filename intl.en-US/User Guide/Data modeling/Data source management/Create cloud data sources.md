@@ -14,7 +14,7 @@ You need to go to the Add Data Source page before adding a cloud data source.
 1.  Click the **MaxCompute** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155661202913878_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155806304813878_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the default address is displayed. For modification, see .
@@ -46,7 +46,7 @@ For more information, see .
 1.  Click the **MySQL** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155661202913887_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155806304813887_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
@@ -69,7 +69,7 @@ Adding an RDS \(SQL Server\) data source is similar to adding an RDS \(MySQL\) d
 1.  Click the **SQL Server** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155661202913888_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155806304813888_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
@@ -86,7 +86,7 @@ Adding an RDS \(SQL Server\) data source is similar to adding an RDS \(MySQL\) d
 1.  Click the **AnalyticDB** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155661202913889_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155806304813889_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
@@ -145,7 +145,7 @@ Adding a PPAS data source is similar to adding a PostgreSQL data source.
 1.  Click the **PPAS** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155661202913893_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155806304813893_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
@@ -164,7 +164,7 @@ If you use **Quick BI Enterprise Standard**, you can add a Hive data source.
 1.  Click the **Hive** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155661202913894_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155806304813894_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
