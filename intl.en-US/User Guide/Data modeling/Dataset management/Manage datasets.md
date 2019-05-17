@@ -1,19 +1,34 @@
-# Manage datasets {#concept_c4g_t2r_5db .concept}
+# Manage datasets {#concept_xmw_d2r_ngb .concept}
 
-You can create datasets based on the data sources that you add or import. For adding and importing data sources, see [Create cloud data sources](reseller.en-US/User Guide/Data modeling/Data source management/Create cloud data sources.md#), [Create a user-created data source](reseller.en-US/User Guide/Data modeling/Data source management/Create a user-created data source.md#), and [Upload local files](reseller.en-US/User Guide/Data modeling/Data source management/Upload local files.md#).
+On the datasets page, you can create, rename, and delete dataset folders.
 
-After creating a dataset, you can create a dashboard as needed. For creating dashboards, see [Create charts in a dashboard](reseller.en-US/User Guide/Create dashboards/Create charts/Create charts in a dashboard.md#).
+## Create a dataset folder {#section_rdk_f2r_ngb .section}
 
-On the edit page of a dataset, you can analyze, edit, and rename the dataset.
+1.  Log on to the Quick BI console.
+2.  In the left-side navigation pane, select **Datasets**.
+3.  Click **Create Folder** and enter a folder name.
+4.  Click **OK**.
 
-The edit page of a dataset consists of the following sections.
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/116037/155805930737855_en-US.png)
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9091/155703544938296_en-US.png)
 
-On the edit page of a dataset, you can perform the following operations on the dataset.
+## Rename a dataset folder {#section_zxs_f2r_ngb .section}
 
--   [Edit dimensions and measures](reseller.en-US/User Guide/Data modeling/Dataset management/Edit dimensions and measures.md)
--   [Add a grouping field](reseller.en-US/User Guide/Data modeling/Dataset management/Add a grouping field.md)
--   [Join data tables](reseller.en-US/User Guide/Data modeling/Dataset management/Join data tables.md)
--   [Enable table scan](reseller.en-US/User Guide/Data modeling/Dataset management/Enable table scan.md)
+1.  Log on to the Quick BI console.
+2.  In the left-side navigation pane, select **Datasets**.
+3.  Select a dataset folder. Click the **Rename** icon, or right-click the folder and select **Rename**.
+4.  Enter a new folder name, and click**OK**.
+
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/116037/155805930737856_en-US.png)
+
+
+## Delete a dataset folder {#section_gqy_f2r_ngb .section}
+
+1.  Log on to the Quick BI console.
+2.  In the left-side navigation pane, select **Datasets**.
+3.  Select a dataset folder. Click the **Delete** icon, or right-click the dataset folder and select **Delete**.
+4.  Click **OK** to delete the dataset folder.
+
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/116037/155805930837857_en-US.png)
+
 
