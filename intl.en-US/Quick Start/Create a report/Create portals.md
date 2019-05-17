@@ -9,11 +9,11 @@ A portal, also known as a data product, is a set of dashboards that contain menu
 3.  Click **Create Portal** to go to the portal editing page.
 4.  On the Page Setting tab page, set the title name, background color, and navigation bar color. You can also upload a logo and edit the footer, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9148/15580755791904_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9148/15580759351904_en-US.png)
 
 5.  Click the **Edit** icon to go to the Menu Setting tab page, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9148/15580755791905_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9148/15580759351905_en-US.png)
 
 6.  On the Menu Setting tab page, set the menu structure, menu levels, and menu homepage.
 7.  On the Content Setting tab page, set the display name, external link, icon, and view type of each menu.
@@ -24,7 +24,7 @@ A portal, also known as a data product, is a set of dashboards that contain menu
 -   Click **Create Menu** to add a level-one menu in the navigation bar.
 -   Click **+** to add a submenu, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9148/15580755791910_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9148/15580759351910_en-US.png)
 
 -   References to dashboards, workbooks, and external links are supported.
 
@@ -38,8 +38,6 @@ After creating a data portal, you can perform the following operations on the po
 
     Enter a portal name in the search box and click the **Search** icon to search for a data portal.
 
-    ![](images/34766_en-US.png)
-
 -   **Edit** 
 
     Select **Edit** to go to the portal editing page where you can edit portals.
@@ -47,8 +45,6 @@ After creating a data portal, you can perform the following operations on the po
 -   **Attributes** 
 
     Select **Attribute** to go to the attribute editing page where you can edit the data portal name, owner, and security policy.
-
-    ![](images/34767_en-US.png)
 
 -   **Share** 
 
