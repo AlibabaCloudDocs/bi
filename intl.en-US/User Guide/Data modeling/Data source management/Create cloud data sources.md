@@ -14,7 +14,7 @@ You need to go to the Add Data Source page before adding a cloud data source.
 1.  Click the **MaxCompute** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155806304813878_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155808314413878_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the default address is displayed. For modification, see .
@@ -46,7 +46,7 @@ For more information, see .
 1.  Click the **MySQL** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155806304813887_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155808314413887_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
@@ -69,7 +69,7 @@ Adding an RDS \(SQL Server\) data source is similar to adding an RDS \(MySQL\) d
 1.  Click the **SQL Server** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155806304813888_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155808314413888_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
@@ -86,7 +86,7 @@ Adding an RDS \(SQL Server\) data source is similar to adding an RDS \(MySQL\) d
 1.  Click the **AnalyticDB** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155806304813889_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155808314413889_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
@@ -103,9 +103,6 @@ Adding a HybridDB for MySQL data source is similar to adding a MySQL data source
 
 1.  Click the **HybridDB for MySQL** icon.
 2.  Enter the fields for connecting to the data source.
-
-     
-
 3.  Click **Test Connection** to perform a data source connectivity test.
 4.  Click **Add** to add the data source.
 
@@ -115,9 +112,6 @@ Adding a HybridDB for PostgreSQL data source is similar to adding a SQL Server d
 
 1.  Click the **HybridDB for PostgreSQL** icon.
 2.  Enter the fields for connecting to the data source.
-
-     
-
 3.  Click **Test Connection** to perform a data source connectivity test.
 4.  Click **Add** to add the data source.
 
@@ -125,9 +119,6 @@ Adding a HybridDB for PostgreSQL data source is similar to adding a SQL Server d
 
 1.  Click the **PostgreSQL** icon.
 2.  Enter the fields for connecting to the data source.
-
-     
-
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
     -   Port Number: the port number.
@@ -145,7 +136,7 @@ Adding a PPAS data source is similar to adding a PostgreSQL data source.
 1.  Click the **PPAS** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155806304813893_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155808314413893_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
@@ -164,12 +155,48 @@ If you use **Quick BI Enterprise Standard**, you can add a Hive data source.
 1.  Click the **Hive** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155806304813894_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155808314413894_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
     -   Port Number: the port number.
     -   Database: the database name.
+    -   Username: the database username.
+    -   Password: the database password.
+3.  Click **Test Connection** to perform a data source connectivity test.
+4.  Click **Add** to add the data source.
+
+## Data Lake Analytics \(Quick BI Pro and Quick BI Enterprise Standard\) {#section_fxf_ct5_mfb .section}
+
+If you use **Quick BI Enterprise Standard** or **Quick BI Pro**, you can add a Data Lake Analytics data source.
+
+1.  Click the **Data Lake Analytics** icon.
+2.  Enter the fields for connecting to the data source.
+
+    ![](images/13895_en-US.png)
+
+    -   Name: the data source name.
+    -   Database Address: the IP address or the hostname of the database.
+    -   Port: 10000
+    -   Database: the database name.
+    -   Access ID: the AccessKey ID.
+    -   Access Key: the AccessKey Secret.
+3.  Click **Test Connection** to perform a data source connectivity test.
+4.  Click **Add** to add the data source.
+
+## DRDS {#section_swl_vwk_5fb .section}
+
+If you use **Quick BI Enterprise Standard**, you can add a DRDS data source.
+
+1.  Click the **DRDS** icon.
+2.  Enter the fields for connecting to the data source.
+
+    ![](images/31893_en-US.png)
+
+    -   Name: the data source name.
+    -   Database Address: the IP address or the hostname of the database.
+    -   Port Number: the port number.
+    -   Database: the name of a database that you connect to.
     -   Username: the database username.
     -   Password: the database password.
 3.  Click **Test Connection** to perform a data source connectivity test.
