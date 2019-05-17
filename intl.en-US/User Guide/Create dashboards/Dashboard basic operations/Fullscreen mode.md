@@ -13,25 +13,25 @@ In the fullscreen mode, you can perform the following operations in the display 
 
 In fullscreen mode, a chart will be scaled to its maximum extent in the display area of a dashboard. In addition, when multiple charts exist in a dashboard, click the arrow cross icon and hold down the left button, and then drag charts to change the arrangement as shown in the following figure.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9120/15543673531524_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9120/15580617991524_en-US.png)
 
 ## Add a subscreen {#section_dv3_xpy_5db .section}
 
 1.  Click the plus icon in the lower-right corner as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9120/155436735333263_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9120/155806180033263_en-US.png)
 
 2.  In a subscreen, you can add a chart as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9120/15543673531528_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9120/15580618001528_en-US.png)
 
 3.  Click the **dot** icon to switch between subscreens as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9120/15543673541529_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9120/15580618001529_en-US.png)
 
 4.  Click the **Delete** icon to delete a subscreen as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9120/15543673541530_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9120/15580618001530_en-US.png)
 
 
 ## View chart data {#section_wbv_jqy_5db .section}
