@@ -4,7 +4,7 @@ When a member is added to an organization, the member is added to the default wo
 
 1.   Log on to the Quick BI console. 
 2.  Choose **Settings** \> **Workspaces**. 
-3.   Hover your mouse over a workspace. Click **Set as Default** as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9161/15560097291129_en-US.png)
+3.   Hover your mouse over a workspace. Click **Set as Default** as shown in the following figure.![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9161/15580785601129_en-US.png)
 
  
 
