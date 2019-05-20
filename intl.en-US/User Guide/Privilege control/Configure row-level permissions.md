@@ -14,14 +14,14 @@ The User/User Group Authorization mode applies to scenarios that involve a small
 6.  Select the**Enable Row-Level Access Control** \> **User/User Group Authorization**check box to enable row-level permissions.
 7.  Click the drop-down arrow. Select the fields to perform row-level permissions, such as province and metrics, as shown in the following figure.
 
-    ![](images/11343_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/21112/155834611012613_en-US.png)
 
     The values of the **metrics** field are the metrics in the dataset. By performing row-level access permissions on the metrics field, users have access to different data rows that are corresponding to the values of the metrics field.
 
 8.  Click the **province** field in the **Permissions** list. Then all values of the province field are listed as shown in the following figure.
 9.  Select a member. Then select the values of the **province** field to grant row-level permission to the user as shown in the following figure.
 
-    ![](images/11344_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/21112/155834611012913_en-US.png)
 
     The member can only view the data rows where the value of the province field is Shanghai or Yunnan.
 
@@ -35,13 +35,13 @@ Scenario: Users can only access the data rows in the company\_sales\_record data
 
 **Set member tags**
 
-1.  On the **Settings** page, select **Member Tags** in the Actions column for the member to authorize as shown in the following figure.
+1.  On the **Settings** page, select **Edit Member Tags** in the Actions column for the member to authorize as shown in the following figure.
 
-    ![](images/11347_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/21112/155834611112932_en-US.png)
 
 2.  In the **Edit Member Tags** dialog box, set the value of the **area** tag to **air, truck** and click**OK**.
 
-    ![](images/11348_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/21112/155834611112933_en-US.png)
 
 
 After setting the member tags, set tag authentication in the Row-Level Access dialog box for the dataset.
@@ -53,7 +53,7 @@ After setting the member tags, set tag authentication in the Row-Level Access di
 3.  Select the **Enable Row-Level Access Control** \> **Tag Authentication** check box to enable row-level permissions.
 4.  From the **Field** drop-down list, select **shipping\_type**. Select **area** as **Tag Parameter**. Click **OK** to complete the settings.
 
-    ![](images/11353_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/21112/155834611112940_en-US.png)
 
 
 After tag authentication is complete, the user can only access data rows where the **shipping\_type** is **air** or **truck**.
