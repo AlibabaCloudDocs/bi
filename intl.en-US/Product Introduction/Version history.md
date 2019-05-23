@@ -30,15 +30,15 @@ The layout of Quick BI v2.0 contains these sections: Home, Workspace, Guide, and
 
 -   Home: you can find a specified report on the Shared with Me or Favorites tab. New users can install case reports and apply to join the workspace to view resources in the workspace.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15585805471054_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15585827011054_en-US.png)
 
 -   Workspace: you can create data sources, datasets, dashboards, and workbooks. Dashboards components are better displayed and filter bars are optimized.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15585805471055_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15585827011055_en-US.png)
 
 -   Guide: the workflow provides you with an overview of the product process to familiarize you with Quick BI.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15585805471056_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15585827011056_en-US.png)
 
 -   Subscriptions: you can create, manage, and monitor email tasks.
 
@@ -53,7 +53,7 @@ Quick BI Pro new features
 
     Workbooks support a new data analysis method. This method can retrieve data from a specified cell. Different data sources can be displayed and processed at the same time. The Microsoft Excel-like workbooks also support over 200 functions that can help you process data.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15585805471057_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15585827011057_en-US.png)
 
 -   Subscriptions
 
