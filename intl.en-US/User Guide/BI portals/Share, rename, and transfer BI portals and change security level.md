@@ -9,7 +9,7 @@ The share function allows you to share BI portals with other users. You can edit
 3.  On the BI portals page, right-click a BI portal, and select **Share**.
 4.  Set the expiration date and select the users that you want to share the BI portal with.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/90155/155858370836496_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/90155/155858406836496_en-US.png)
 
 
 ## Rename a BI portal, transfer it, or change its security level {#section_qbq_gl5_jgb .section}
@@ -19,7 +19,7 @@ The share function allows you to share BI portals with other users. You can edit
 3.  On the BI portals page, right-click a BI portal, and select **Edit Properties**.
 4.  On the properties page, you can rename the BI portal, transfer it to another user in the workspace, or change its security level. If the security level is set to **Protected**, other members in the workspace can edit the BI portal. They can use the lock function to prevent their changes from being overwritten by the other users.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/90155/155858370836308_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/90155/155858406836308_en-US.png)
 
 
 **Note:** The BI portal transfer and security level functions are only available in group workspaces.
