@@ -1,6 +1,6 @@
 # Area charts {#concept_rvx_tyd_vdb .concept}
 
-This topic describes how to create an area chart. Make sure that you have read [Dashboard overview](reseller.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [Basic dashboard operations](reseller.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#). For creating a dataset, see [Create datasets](https://help.aliyun.com/document_detail/61151.html?spm=a2c4g.11186623.6.599.34f62466FzveVP).
+This topic describes how to create an area chart. Make sure that you have read [Dashboard overview](reseller.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [Basic dashboard operations](reseller.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#). For creating a dataset, see [Create a dataset](reseller.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
 ## Overview {#section_i4z_mcg_xgb .section}
 
@@ -12,7 +12,7 @@ Dimensions and measures are automatically used for the category axis and the val
 
 ## Examples {#section_qs1_qcg_xgb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9125/15571365171682_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9125/15585795681682_en-US.png)
 
 ## Notes {#section_m23_tcg_xgb .section}
 
@@ -37,7 +37,7 @@ The following example uses the company\_sales\_record dataset.
 
     **Note:** Makes sure that you have converted the dimension type of the province field from String to Geo. For more information, see [Create dashboards](../../../../reseller.en-US/Quick Start/Create a report/Create dashboards.md).
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9125/15571365171679_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9125/15585795681679_en-US.png)
 
 6.  Drag the **product\_type** field to the Color Legend \(Dimensions\) section and click **Update**.
 
@@ -45,7 +45,7 @@ The following example uses the company\_sales\_record dataset.
 
 7.  On the **Style** tab page, you can configure the chart title, layout, legend, and axis style.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9125/15571365171680_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9125/15585795681680_en-US.png)
 
 8.  Click **Save** to save the dashboard.
 
@@ -65,7 +65,7 @@ The following example uses the company\_sales\_record dataset.
 
 The updated chart is shown as follows.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9125/15571365171682_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9125/15585795681682_en-US.png)
 
 **Note:** For more information about Style, see [Configure a chart](reseller.en-US/User Guide/Create dashboards/Dashboard basic operations/Configure a chart.md#).
 
