@@ -2,7 +2,7 @@
 
 ## Purchase Quick BI {#section_xlt_1dl_2gb .section}
 
-Before you can use Quick BI, you must purchase Quick BI or apply for a Quick BI free trial. For more information, see [Purchase, upgrade, and renew Quick BI services](../../../../reseller.en-US/Pricing/Purchase, upgrade, and renew Quick BI services.md).
+Before you can use Quick BI, you must purchase Quick BI or apply for a Quick BI free trial. For more information, see [Purchases, upgrades, downgrades, renewals, and overdue payments](../../../../reseller.en-US/Pricing/Purchases, upgrades, downgrades, renewals, and overdue payments.md).
 
 ## Add a Quick BI user {#section_g5l_drc_5db .section}
 
@@ -15,7 +15,7 @@ After you purchase a user quota, you can add users up to the quota limit.
 1.  Log on to the Quick BI console
 2.  Choose **Manage** \> **Add Member**.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/80862/155660817541188_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/80862/155962838641188_en-US.png)
 
 3.  Add an Alibaba Cloud account or a RAM user.
 4.  Click **OK** to add the user.
@@ -40,5 +40,5 @@ You can remove users from the user list. Removed users can no longer use Quick B
 
 On the Quick BI product details page, click [Console](https://data.aliyun.com/product/bi?spm=5176.8142029.dataTechnology.11.41416d3eTJ22ri) to log on to the Quick BI console.
 
-![登录管理控制台](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/80862/155660817544900_en-US.png)
+![log on to the QBI console](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/80862/155962838644900_en-US.png)
 
