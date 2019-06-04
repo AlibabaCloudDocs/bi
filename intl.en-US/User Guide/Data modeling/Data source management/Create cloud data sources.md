@@ -14,12 +14,12 @@ You need to go to the Add Data Source page before adding a cloud data source.
 1.  Click the **MaxCompute** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155808338113878_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155961950613878_en-US.png)
 
     -   Name: the data source name.
-    -   Database Address: the default address is displayed. For modification, see .
+    -   Database Address: the default address is displayed. For modification, see [Configure Endpoint](../../../../reseller.en-US/Prepare/Configure Endpoint.md#).
 
-        **Note:** The database address is based on the region where the database instance is deployed. For example, if you choose a classic network as the network type for your database instance that is deployed in the Hong Kong region, the database address is http://service.cn-hongkong.maxcompute.aliyun-inc.com/api. If the database instance is deployed in the Asia Pacific SE 1 \(Singapore\) region, the database address is http://service.ap-southeast-1.maxcompute.aliyun-inc.com/api. For more information, see .
+        **Note:** The database address is based on the region where the database instance is deployed. For example, if you choose a classic network as the network type for your database instance that is deployed in the Hong Kong region, the database address is http://service.cn-hongkong.maxcompute.aliyun-inc.com/api. If the database instance is deployed in the Asia Pacific SE 1 \(Singapore\) region, the database address is http://service.ap-southeast-1.maxcompute.aliyun-inc.com/api. For more information, see [Configure Endpoint](../../../../reseller.en-US/Prepare/Configure Endpoint.md#).
 
     -   Project: the project name.
     -   AccessKey ID: the AccessKey ID.
@@ -46,7 +46,7 @@ For more information, see .
 1.  Click the **MySQL** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155808338113887_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155961950613887_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
@@ -69,7 +69,7 @@ Adding an RDS \(SQL Server\) data source is similar to adding an RDS \(MySQL\) d
 1.  Click the **SQL Server** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155808338113888_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155961950713888_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
@@ -86,7 +86,7 @@ Adding an RDS \(SQL Server\) data source is similar to adding an RDS \(MySQL\) d
 1.  Click the **AnalyticDB** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155808338113889_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155961950713889_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
@@ -136,7 +136,7 @@ Adding a PPAS data source is similar to adding a PostgreSQL data source.
 1.  Click the **PPAS** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155808338113893_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155961950713893_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
@@ -155,7 +155,7 @@ If you use **Quick BI Enterprise Standard**, you can add a Hive data source.
 1.  Click the **Hive** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155808338213894_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155961950713894_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
@@ -173,7 +173,7 @@ If you use **Quick BI Enterprise Standard** or **Quick BI Pro**, you can add a D
 1.  Click the **Data Lake Analytics** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155808338213895_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155961950713895_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
@@ -191,7 +191,7 @@ If you use **Quick BI Enterprise Standard**, you can add a DRDS data source.
 1.  Click the **DRDS** icon.
 2.  Enter the fields for connecting to the data source.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155808338231893_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/23954/155961950731893_en-US.png)
 
     -   Name: the data source name.
     -   Database Address: the IP address or the hostname of the database.
