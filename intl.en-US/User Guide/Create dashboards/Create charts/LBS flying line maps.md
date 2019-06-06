@@ -16,7 +16,7 @@ An LBS flying line map consists of regions connected with routes. Regions are de
 
 ## Example of an LBS flying line map {#section_hvp_55s_xgb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/155722252339686_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/155980612339686_en-US.png)
 
 ## Precautions {#section_ny3_z5s_xgb .section}
 
@@ -39,14 +39,14 @@ The following scenario is based on the company\_sales\_record dataset.
 
     In the Dimensions section, double-click **area**, or drag and drop it to the Geo Location \(from\) section. Double-click **province**, or drag and drop it to the Geo Location \(to\) section. In the Measures section, double-click **shipping cost**, or drag and drop it to the Routes \(Measures\) section, as shown in the following figure.
 
-    **Note:** Make sure you have changed the data type of the province field value from String to Geo.
+    **Note:** Make sure you have changed the data type of the province field value from String to Geo. For more information, see [Change field types](reseller.en-US/User Guide/Data modeling/Dataset management/Change field types.md#).
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15572225236992_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15598061236992_en-US.png)
 
 6.  Click **Update**. The system automatically updates the map.
 7.  On the Style tab, you can change the title and layout of the map, and configure Series Settings, as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15572225236993_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15598061236993_en-US.png)
 
 8.  Click **Save** to save the dashboard.
 
@@ -64,7 +64,7 @@ The following scenario is based on the company\_sales\_record dataset.
 
 Click Update. A similar figure is displayed.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/155722252339697_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/155980612339697_en-US.png)
 
 ## Delete a map {#section_yfs_fvs_xgb .section}
 
