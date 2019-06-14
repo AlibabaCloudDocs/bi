@@ -10,7 +10,7 @@ After the expiration of the product, the product resources are retained for 7 da
 
 During the expiration and grace period, you cannot buy a new Quick BI Product. You can purchase Quick BI again only after all previous data resources are released. After the renewal, the product can be used continually. 
 
-If you want to renew the product, see [Purchase, upgrade, and renew Quick BI services](intl.en-US/Pricing/Purchase, upgrade, and renew Quick BI services.md#).
+If you want to renew the product, see [Purchases, upgrades, downgrades, renewals, and overdue payments](intl.en-US/Pricing/Purchases, upgrades, downgrades, renewals, and overdue payments.md#).
 
 ## Rules of resources release {#section_fbt_35c_5db .section}
 
@@ -20,5 +20,5 @@ On the sixth day after the initial expiration date, the system sends you one mor
 
 If you renew Quick BI before its expiration date, the start date of the new validity period is counted from the expiration date of the last validity period.
 
-If you want to add users, see [Purchase, upgrade, and renew Quick BI services](intl.en-US/Pricing/Purchase, upgrade, and renew Quick BI services.md#).
+If you want to add users, see [Purchases, upgrades, downgrades, renewals, and overdue payments](intl.en-US/Pricing/Purchases, upgrades, downgrades, renewals, and overdue payments.md#).
 
