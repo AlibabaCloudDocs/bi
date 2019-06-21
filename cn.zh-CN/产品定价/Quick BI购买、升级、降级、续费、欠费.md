@@ -1,6 +1,6 @@
 # Quick BI购买、升级、降级、续费、欠费 {#concept_jd4_xpc_5db .concept}
 
-Quick BI提供了高级版和专业版两个版本供您购买。不同版本的购买价格和计费方式，请参阅[Quick BI计费方式](intl.zh-CN/产品定价/Quick BI计费方式.md#)
+Quick BI提供了标准版，高级版，专业版三个版本供您购买。不同版本的购买价格和计费方式，请参见[Quick BI计费方式](cn.zh-CN/产品定价/Quick BI计费方式.md#)
 
 ## 初次购买 {#section_a5l_drc_5db .section}
 
@@ -10,15 +10,17 @@ Quick BI提供了高级版和专业版两个版本供您购买。不同版本的
 
 如果一个主账号和一个RAM子账号都需要购买 Quick BI 产品，那么在购买时，需要购买两个用户数。
 
+如果您购买的是标准版并且只想为子账号购买Quick BI产品，可以先用主账号购买，然后再用主账号将自己删除即可。该操作不适用于高级版和专业版，高级版和专业版的主账号是付费主体，不能移除或变更。
+
 初次使用Quick BI的用户，可一次购买多个用户数。
 
 **操作步骤**
 
-1.  进入 [Quick BI](https://common-buy-intl.aliyun.com/?spm=a3c0i.176005.918367.1.62894206QgHuH5&commodityCode=quickbi_intl#/buy)购买页面。
+1.  进入 [Quick BI](https://common-buy.aliyun.com/?spm=a2c0j.8190895.737583.btn1.RsKHI8&commodityCode=quickbi#/buy)购买页面。
 2.  选择需要购买的用户数和购买时长。
 3.  确认价格后，单击**立即购买**。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/155962965646567_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/156108777738305_zh-CN.png)
 
 4.  输入用户名和登录密码，单击**登录**，登录阿里云官网。
 
@@ -26,7 +28,7 @@ Quick BI提供了高级版和专业版两个版本供您购买。不同版本的
 
 5.  确认订单后，单击**去支付**。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/155962965646568_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/156108777738308_zh-CN.png)
 
 
 ## 账户扩充 {#section_d5l_drc_5db .section}
@@ -50,9 +52,6 @@ Quick BI提供了高级版和专业版两个版本供您购买。不同版本的
 
 1.  登录Quick BI控制台。
 2.  单击**升级**，按照系统提示，完成版本升级。
-
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/155962965646569_zh-CN.png)
-
 
 ## 降级 {#section_eqr_4s1_dhb .section}
 
@@ -96,6 +95,6 @@ Quick BI支持版本降级功能，降级操作需在后台进行，有降级需
 
     如果您在产品过期前续费，那么产品新的有效期起始日将从上一个有效期的截止日开始计算。
 
-    如需重新添加用户，请参阅[前提条件](../../../../intl.zh-CN/快速入门/准备工作/前提条件.md#)。
+    如需重新添加用户，请参阅[前提条件](../../../../cn.zh-CN/快速入门/准备工作/前提条件.md#)。
 
 
