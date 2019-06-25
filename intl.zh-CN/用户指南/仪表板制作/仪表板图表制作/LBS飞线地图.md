@@ -18,7 +18,7 @@ LBS飞线地图是由两个地理区域和LBS飞线度量构成的。地理区�
 
 ## LBS飞线地图效果图举例 {#section_hvp_55s_xgb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/155859428739686_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/156145274439686_zh-CN.png)
 
 ## 注意事项 {#section_ny3_z5s_xgb .section}
 
@@ -39,16 +39,16 @@ LBS飞线地图的地理区域最多只能取2个维度，并且维度类型必�
 4.  单击**LBS飞线地图**图标，LBS飞线地图的图例会自动显示在仪表板展示区。
 5.  在数据标签页，为LBS飞线地图选择需要的维度字段和度量字段。
 
-    在维度列表中，找到**区域**，并将其添加到地理区域/经纬度（from）区域中。找到**省份**，并将其添加到地理区域/经纬度（to）区域中。在度量列表中，找到**运输成本**，并将其添加到LBS飞线度量区域中，如下图所示。
+    在维度列表中，找到**区域**，并将其添加到地理区域/经纬度（from）区域中。找到**省份**，并将其添加到地理区域/经纬度（to）区域中。在度量列表中，找到**运输成本**，并将其添加到LBS飞线度量区域中。
 
-    **说明：** 请确保省份字段的维度类型已经从字符串切换为了地理信息，如需了解如何切换维度字段类型，请参见[字段类型切换](intl.zh-CN/用户指南/数据建模/管理数据集/字段类型切换.md#)。
+    **说明：** 请确保省份，区域字段的维度类型已经从字符串切换为了地理信息，如需了解如何切换维度字段类型，请参见[字段类型切换](intl.zh-CN/用户指南/数据建模/管理数据集/字段类型切换.md#)。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15585942876992_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15614527446992_zh-CN.png)
 
 6.  单击**更新**，系统自动更新图表。
 7.  在样式标签页可更改图表的标题，布局和系列设置，如下图所示：
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15585942876993_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/15614527446993_zh-CN.png)
 
 8.  单击**保存**图标，保存该仪表板。
 
@@ -66,7 +66,7 @@ LBS飞线地图的地理区域最多只能取2个维度，并且维度类型必�
 
 更新后如下图所示：
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/155859428739697_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/15477/156145274439697_zh-CN.png)
 
 ## 删除图表 {#section_yfs_fvs_xgb .section}
 
