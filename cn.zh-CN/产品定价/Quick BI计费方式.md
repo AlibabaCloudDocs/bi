@@ -9,7 +9,7 @@ Quick BI产品最短有效期为一年，您可以自主选择购买的用户数
 Quick BI标准版支持以下功能：
 
 -   个人空间
--   阿里云云数据库接入（MaxCompute，\(ADS\)Analytic DB，\(RDS\)MySQL，\(RDS\)SQL Server，HybridDB for MySQL，HybridDB for PostgreSQL，\(RDS\)PostgreSQL，\(RDS\)PPAS）
+-   阿里云云数据库接入（MaxCompute，AnalyticDB for MySQL 2.0，\(RDS\)MySQL，\(RDS\)SQL Server，HybridDB for MySQL，AnalyticDB for PostgreSQL，\(RDS\)PostgreSQL，\(RDS\)PPAS）
 -   阿里云公共数据库接入（\(ECS\)MySQL，\(ECS\)SQL Server，\(ECS\)PostegreSQL，Oracle）
 -   本地文件上传到探索空间，支持CSV、Excel上传
 -   数据表建模
