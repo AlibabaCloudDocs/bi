@@ -1,50 +1,52 @@
 # Word clouds {#concept_lnr_m3f_vdb .concept}
 
-This topic describes how to create a word cloud. We recommend that you read [Dashboard overview](reseller.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [Basic dashboard operations](reseller.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#) before you create a word cloud. You also can edit or create a dataset. For more information, see [Create a dataset](reseller.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
+This topic describes the overview, examples, and deletion of a word cloud.
+
+Make sure that you have read [Dashboard overview](reseller.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [Dashboard basic operations](reseller.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#) before reading this topic. For more information about how to create a dataset, see [Create a dataset](reseller.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
 ## Overview {#section_mx2_rjn_xgb .section}
 
-A word cloud clearly displays the frequency of words. It is suitable for creating user personas and user tags.
+A word cloud visualizes the frequency of words. It can be used in user profiles and user labels.
 
-A word cloud consists of words with various sizes. Words are determined by data dimensions, such as the customer name or product type. Word sizes are determined by data measures, such as the profit amt or unit price.
+A word cloud is based on words and font sizes. Words are determined by dimensions, such as customer names and product names. Font sizes of words are determined by measures, such as profit amounts and unit prices.
 
-## Example of a word cloud {#section_bxd_tjn_xgb .section}
+## Samples {#section_bxd_tjn_xgb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9140/155721335039658_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9140/156404669339658_en-US.png)
 
-## Precautions {#section_ns3_5jn_xgb .section}
+## Notes {#section_ns3_5jn_xgb .section}
 
-Only one dimension can be set for words. Only one measure can be set for word sizes.
+You can select a maximum of one dimension for words and a maximum of one measure for font sizes.
 
-## Scenario: Compare the order quantities across different provinces {#section_pyb_gkn_xgb .section}
+## Examples {#section_pyb_gkn_xgb .section}
 
-The following scenario is based on the company\_sales\_record dataset.
+The following example uses the company\_sales\_record dataset.
 
 1.  Log on to the Quick BI console.
-2.  On the homepage, click the Workspace tab. In the left-side navigation pane, enter a group workspace name in the text box, or click the triangle next to the text box and select a group workspace from the drop-down list. Click **Datasets** to go to the All Items tab.
-3.  Click the **Create Dashboard** icon in the Actions column corresponding to the company\_sales\_record dataset.
+2.  Click **Datasets** to go to the Datasets page.
+3.  Select the company\_sales\_record dataset and click **Create Dashboard**.
 
-    **Note:** If you are using **Quick BI Enterprise Standard**, you must select **Standard** or **Full Screen**. The following scenario uses **Standard** as an example.
+    **Note:** If you use **Quick BI Enterprise Standard**, you need to select **Standard** or **Full Screen** as the dashboard display mode. The following example uses **Standard**.
 
-4.  In the toolbar, click the Word Cloud icon. The blank word cloud is automatically displayed in the display section.
-5.  Click the Data tab and select the required measure and dimension.
+4.  Click the Word Cloud icon and an empty chart appears.
+5.  On the Data tab page, select a dimension and measure.
 
-    In the Dimensions section, double-click province, or drag and drop it to the Word \(Dimensions\) section. In the Measures section, double-click **order number**, or drag and drop it to the Word Size \(Measures\) section, as shown in the following figure.
+    In the Dimensions list, locate the province field and add it to the Word \(Dimensions\) section. In the Measures list, locate the **order\_number** field and add it to the Word Size \(Measures\) section.
 
-    **Note:** Make sure you have changed the data type of the province field value from String to Geo.
+    **Note:** Make sure that you have converted the dimension type from String to Geo for the province dimension. For more information, see [Change the dimension type](reseller.en-US/User Guide/Data modeling/Dataset management/Change field types.md#).
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9140/15572133501819_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9140/15640466931819_en-US.png)
 
-6.  Click **Update**. The system automatically updates the chart.
-7.  On the Style tab, you can set Show Title, Show Hyperlink, and Background Color, as shown in the following figure.
+6.  Click **Update** and the chart is updated.
+7.  On the Style tab page, you can configure the title name, title color, hyperlink, and background color. The updated chart is shown as follows.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9140/15572133591820_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9140/15640466931820_en-US.png)
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9140/15572133591821_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9140/15640466931821_en-US.png)
 
 8.  Click **Save** to save the dashboard.
 
 ## Delete a chart {#section_xl1_jkn_xgb .section}
 
-Move the pointer over the upper-right corner of the window. Click the More icon that appears and choose **More Actions** \> **Delete** to delete the current chart.
+Click the **More Actions** icon in the upper-right corner of a chart and select **Delete** from the drop-down list to delete the chart.
 
