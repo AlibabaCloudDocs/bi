@@ -12,7 +12,7 @@ Each bubble chart has an X-axis and Y-axis. The X-axis is based on a dimension, 
 
 ## Sample bubble chart {#section_dzg_7bb_kfc .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/218470/156265337347246_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/218470/156404698147246_en-US.png)
 
 ## Precautions {#section_p3k_nks_mr1 .section}
 
@@ -37,12 +37,12 @@ Sample scenario: compares the unit prices and the order quantities of different 
 
     On the list of dimensions, locate the **product\_type** dimension and add the dimension to the X Axis \(Dimensions\) field. On the list of measures, locate the **price** measure and add it to the Y Axis \(Measures\) field, and then locate the **order\_number** measure and add it to the Bubble Size field.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/218470/156265337347249_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/218470/156404698147249_en-US.png)
 
 6.  Click **Update** to update the chart.
 7.  In the Style tab, you can change the title, layout, and legend of the chart as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/218470/156265337447251_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/218470/156404698247251_en-US.png)
 
 8.  Click **Save** to save the dashboard.
 
@@ -53,7 +53,7 @@ Sample scenario: compares the unit prices and the order quantities of different 
 
 Click Update after you complete configurations. A sample bubble chart is shown as follows.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/218470/156265337447252_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/218470/156404698247252_en-US.png)
 
 ## Delete a chart {#section_om4_3c4_nxc .section}
 
