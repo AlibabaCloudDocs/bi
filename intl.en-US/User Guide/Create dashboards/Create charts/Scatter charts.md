@@ -10,7 +10,7 @@ A scatter chart is composed of the X-axis and Y-axis. The color legend is based 
 
 ## Examples {#section_asp_4vm_xgb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9134/155721033239634_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9134/156404650039634_en-US.png)
 
 ## Notes {#section_gz3_pvm_xgb .section}
 
@@ -35,12 +35,12 @@ The following example uses the company\_sales\_record dataset.
 
     In the Dimensions list, locate the **product\_type** field and add it to the Color Legend \(Dimensions\) section. In the Measures list, locate the **price** and **order\_number** fields and add them to the X Axis \(Measures\) and Y Axis \(Measures\) sections separately.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9134/15572103321750_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9134/15640465001750_en-US.png)
 
 6.  Click **Update** and the chart is updated.
 7.  On the Style tab page, you can modify the chart name, layout, and legend as shown in the following figure.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9134/15572103321751_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9134/15640465001751_en-US.png)
 
 8.  Click **Save** to save the dashboard.
 
@@ -52,7 +52,7 @@ The following example uses the company\_sales\_record dataset.
 
 The updated chart is as follows.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9134/155721033339638_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9134/156404650039638_en-US.png)
 
 ## Delete a chart {#section_br2_dwm_xgb .section}
 
