@@ -14,7 +14,7 @@ Dimensions and measures are automatically used for the category axis and the val
 
 ## Samples {#section_smq_qrf_xgb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9124/156404587844560_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9124/156404592044560_en-US.png)
 
 ## Notes {#section_nvf_vrf_xgb .section}
 
@@ -39,11 +39,11 @@ Scenario: displays order numbers and unit prices of multiple products. The follo
 
     **Note:** Make sure that you have converted the dimension type from String to Geo for the province dimension. For more information, see [Change the dimension type](reseller.en-US/User Guide/Data modeling/Dataset management/Change field types.md#).
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9124/15640458781589_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9124/15640459201589_en-US.png)
 
 6.  On the Style tab page, you can configure the basic information, chart type, axes, functionality, and series settings.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9124/15640458781592_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9124/15640459201592_en-US.png)
 
 7.  Click **Save** to save the dashboard.
 
@@ -63,7 +63,7 @@ Scenario: displays order numbers and unit prices of multiple products. The follo
 
 Click Update and the updated chart is shown as follows.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9124/15640458781594_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9124/15640459201594_en-US.png)
 
 For more information about Style, see [Configure a chart](reseller.en-US/User Guide/Create dashboards/Dashboard basic operations/Configure a chart.md#).
 
