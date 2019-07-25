@@ -1,59 +1,64 @@
 # Polar diagrams {#concept_wby_whf_vdb .concept}
 
-This topic describes how to create a polar diagram. We recommend that you read [Dashboard overview](reseller.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [Basic dashboard operations](reseller.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#) before you create a polar diagram. You also can edit or create a dataset. For more information, see [Create a dataset](reseller.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
+This topic describes the overview, examples, and deletion of a polar diagram.
+
+Make sure that you have read [Dashboard overview](reseller.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [Dashboard basic operations](reseller.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#) before this topic. For more information about how to create a dataset, see [Create a dataset](reseller.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
 ## Overview {#section_clr_shn_xgb .section}
 
-A polar diagram can be used to display data changes over a period of time or compare metric values. It is suitable for data of the enumerated type. For example, compare data across different regions.
+A polar diagram compares multiple data values. It is used for comparing enumerated data, such as data based on multiple regions.
 
-Similar to [Pie charts](reseller.en-US/User Guide/Create dashboards/Create charts/Pie charts.md#), a polar diagram consists of sectors of labels and arc radiuses. Labels are determined by data dimensions, such as the area and product type. Arc radiuses are determined by data measures, such as the order number and order amount.
+Similar to a [pie chart](reseller.en-US/User Guide/Create dashboards/Create charts/Pie charts.md#), a polar diagram consists of slices. Labels of slices are determined by the dimension, such as the area and product type. Arc radiuses are determined by the measure, such as order numbers and order amounts.
 
-## Example of a polar diagram {#section_ttz_13n_xgb .section}
+## Samples {#section_ttz_13n_xgb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9139/155721180639657_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9139/156404664939657_en-US.png)
 
-## Precautions {#section_ol1_23n_xgb .section}
+## Notes {#section_ol1_23n_xgb .section}
 
-Only one dimension can be set for labels. This dimension must contain 3 to 12 variables. Only one measure can be set for arc radiuses.
+You can select a maximum of one dimension for labels. The minimum number of dimension values is three. The maximum number of dimension values is 12. You can select a maximum of one measure for arc radiuses.
 
-## Scenario: Compare the order quantities across multiple areas {#section_khj_h3n_xgb .section}
+## Examples {#section_khj_h3n_xgb .section}
 
-The following scenario is based on the company\_sales\_record dataset.
+The following example uses the company\_sales\_record dataset.
 
 1.  Log on to the Quick BI console.
-2.  On the homepage, click the Workspace tab. In the left-side navigation pane, enter a group workspace name in the text box, or click the triangle next to the text box and select a group workspace from the drop-down list. Click **Datasets** to go to the All Items tab.
-3.  Click the **Create Dashboard** icon in the Actions column corresponding to the company\_sales\_record dataset.
+2.  Click **Datasets** to go to the Datasets page.
+3.  Select the company\_sales\_record dataset and click **Create Dashboard**.
 
-    **Note:** If you are using **Quick BI Enterprise Standard**, you must select **Standard** or **Full Screen**. The following scenario uses **Standard** as an example.
+    **Note:** If you use **Quick BI Enterprise Standard**, you need to select **Standard** or **Full Screen** as the dashboard display mode. The following example uses **Standard**.
 
-4.  In the toolbar, click the Polar Diagram icon. The blank polar diagram is automatically displayed in the display section.
-5.  Click the Data tab and select the required measure and dimension.
+4.  Click the Polar Diagram icon and an empty chart appears on the dashboard.
+5.  On theData tab page, select a dimension and a measure.
 
-    In the Dimensions section, double-click **area**, or drag and drop it to the Label \(Dimensions\) section. In the Measures section, double-click **order number**, or drag and drop it to the Arc Radius \(Measures\) section, as shown in the following figure.
+    In the Dimensions list, locate the **area** field and add it to the Label \(Dimensions\) section. In the Measures list, locate the **order\_number** field and add it to the Arc Radius \(Measures\) section, as shown in the following figure.
 
-    **Note:** Make sure you have changed the data type of the province field value from String to Geo.
+    **Note:** Make sure that you have converted the dimension type from String to Geo for the area dimension. For more information, see [Change the dimension type](reseller.en-US/User Guide/Data modeling/Dataset management/Change field types.md#).
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9139/15572118061816_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9139/15640466491816_en-US.png)
 
-6.  Click **Update**. The system automatically updates the diagram.
-7.  On the Style tab, you can set Show Title, Layout, Show Legend, Measures, and Series Settings, as shown in the following figure.
+6.  Click **Update** and the chart is updated.
+7.  On the Style tab page, you can configure the title, layout, legend, measures, and series settings.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9139/15572118061817_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9139/15640466491817_en-US.png)
 
 8.  Click **Save** to save the dashboard.
 
-## Configure a style {#section_vhf_l3n_xgb .section}
+## Configure the style {#section_vhf_l3n_xgb .section}
 
--   In the Basic Settings section, you can set Show Title, Show Hyperlink, and Background Color. Set Background Color to **Light** in this example.
--   In the Layout section, you can set Show Legend, Show Tooltip, Label Style, Leaders, and Radius. In this example, set Show Legend to **Right** and Label Style to **Name, Value \(Percentage\)**.
--   In the Measures section, you can set AutoFit Mode and decimal places. In this case, enter **2**.
--   In the Series Settings section, you can set the alias of the measure and the color of the alias.
+-   In the Basic Information section, you can configure the title name, title color, description, hyperlink, and background color. This example uses **Dark** as the background color.
 
-Click Update. A similar figure is displayed.
+    **Note:** For jumping to a report or an external page, select **Show Hyperlink** and enter a name and an address.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9139/155721180633800_en-US.png)
+-   In the Layout section, you can configure the legend position, whether to show tooltips, label style, leaders, and radiuses. The example uses **Name, Value \(Percentage\)** as the label style and uses **Right** as the legend position.
+-   In the Measures section, you can configure the data format and the number of decimal places. This example uses **2** as the number of decimal places.
+-   In the Series Setting section, you can configure aliases for the dimensions and slice colors.
+
+Click Update and the chart is shown as follows.
+
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9139/156404664933800_en-US.png)
 
 ## Delete a chart {#section_yzh_p3n_xgb .section}
 
-Move the pointer over the upper-right corner of the window. Click the More icon that appears and choose **More Actions** \> **Delete** to delete the current chart.
+Click the **More Actions** icon in the upper-right corner of a chart and select **Delete** from the drop-down list to delete the chart.
 
