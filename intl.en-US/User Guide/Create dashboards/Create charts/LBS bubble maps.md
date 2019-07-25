@@ -1,63 +1,68 @@
 # LBS bubble maps {#concept_glz_t4f_vdb .concept}
 
-**Note:** LBS bubble maps are available only to **Quick BI Enterprise Standard** users.
+This topic describes the overview, examples, and deletion of an LBS bubble map.
 
-This topic describes how to create an LBS bubble map. We recommend that you read [Dashboard overview](reseller.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [Basic dashboard operations](reseller.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#) before you create an LBS bubble map. You also can edit or create a dataset. For more information, see [Create a dataset](reseller.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
+**Note:** LBS bubble maps only apply to **Quick BI Enterprise Standard**.
+
+Make sure that you have read [Dashboard overview](reseller.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [Dashboard basic operations](reseller.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#) before reading this topic. For more information about how to create a dataset, see [Create a dataset](reseller.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
 ## Overview {#section_bfv_wss_xgb .section}
 
-Similar to [Bubble maps](reseller.en-US/User Guide/Create dashboards/Create charts/Bubble maps.md#), an LBS bubble map is a map that uses the sizes of bubbles distributed across the map to reflect data sizes. It provides multiple basemaps for you to choose from, such as AMAP, Google Map, and GeoQ. LBS bubble maps allow you to understand the distribution and values of metrics across countries and regions in an easy and visual way. For example, LBS bubble maps can display the number of visitors at different tourist attractions or the per capita incomes across different regions.
+Similar to a [bubble map](reseller.en-US/User Guide/Create dashboards/Create charts/Bubble maps.md#), an LBS bubble map is a map that uses the sizes of bubbles distributed across the map to reflect data. It provides multiple base maps for you to choose from, such as AMAP, Google Maps, and GeoQ. LBS bubble maps allow you to understand the distribution and values of metrics across countries and regions in an easy and visual way. For example, LBS bubble maps can display the passenger numbers across tourist attractions or the per capita incomes across regions.
 
-An LBS bubble map consists of regions with bubbles of various sizes. Regions are determined by data dimensions, or the latitude and longitude values of the location such as the province. Bubble sizes are determined by data measures, such as the transportation cost and order quantity.
+An LBS bubble map is based on bubble sizes and geographical locations. Geographical locations are determined by Geo type dimensions such as the province. Bubble sizes are determined by measures such as the shipping cost and order number.
 
-## Example of an LBS bubble map {#section_ysx_zss_xgb .section}
+## Samples {#section_ysx_zss_xgb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/155722184039683_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/156404678239683_en-US.png)
 
-## Precautions {#section_xyq_1ts_xgb .section}
+## Notes {#section_xyq_1ts_xgb .section}
 
-Only one dimension can be set for the region of an LBS bubble map and it must be a geographical dimension or the latitude and longitude values of the location, such as the region, province, or city. One to five measures can be set for the bubble size.
+You can only select one dimension for the geographical locations and the dimension type must be Geo. For example, the area, province, and city fields. You can select a minimum of one and a maximum of five measures for bubble sizes.
 
-For more information about the administrative divisions of China, see [Administrative divisions of China](http://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/assets/attach/48322/cn_zh/1534241743586/%E5%90%84%E5%9C%B0%E5%8C%BA%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF%E5%AF%B9%E7%85%A7%E8%A1%A8.xls).
+For more information, see [Detailed information for regions](http://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/assets/attach/48322/cn_zh/1534241743586/%E5%90%84%E5%9C%B0%E5%8C%BA%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF%E5%AF%B9%E7%85%A7%E8%A1%A8.xls).
 
-## Scenario: Compare the order amounts and profit amounts across provinces {#section_qnb_cts_xgb .section}
+## Examples {#section_qnb_cts_xgb .section}
 
-The following scenario is based on the company\_sales\_record dataset.
+The following example uses the company\_sales\_record dataset.
 
 1.  Log on to the Quick BI console.
-2.  On the homepage, click the Workspace tab. In the left-side navigation pane, enter a group workspace name in the text box, or click the triangle next to the text box and select a group workspace from the drop-down list. Click **Datasets** to go to the All Items tab.
-3.  Click the **Create Dashboard** icon in the Actions column corresponding to the company\_sales\_record dataset.
+2.  Click **Datasets** to go to the Datasets page.
+3.  Select the company\_sales\_record dataset and click **Create Dashboard**.
 
-    **Note:** If you are using **Quick BI Enterprise Standard**, you must select **Standard** or **Full Screen**. The following scenario uses **Standard** as an example.
+    **Note:** If you use **Quick BI Enterprise Standard**, you need to select **Standard** or **Full Screen** as the dashboard display mode. The following example uses the **Standard** display mode.
 
-4.  Click the **LBS Bubble Map** icon. The blank LBS bubble map is automatically displayed in the display section.
-5.  Click the Data tab and select the required measure and dimensions.
+4.  Click the **LBS Bubble Map** icon and an empty chart appears.
+5.  On the Data tab page, select dimensions and measures.
 
-    In the Dimensions section, double-click **province**, or drag and drop it to the Geo \(Location\) section. In the Measures section, double-click **order amt** and **profit amt**, or drag and drop them to the Bubble Size \(Measures\) section, as shown in the following figure.
+    On the Dimensions list, locate the **province** field to the Geo Location section. On the Measures list, locate the **order\_amt** and **profit\_amt** fields and add them to the Bubble Size \(Measures\) section respectively.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15572218401870_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15640467821870_en-US.png)
 
-6.  Click **Update**. The system automatically updates the map.
-7.  On the Style tab, you can change the title and layout of the map, and the formats of specific fields, as shown in the following figure.
+6.  Click **Update** and the chart is updated.
+7.  On the Style tab page, you can configure the title, layout, and data display formats.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15572218401871_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/15640467831871_en-US.png)
 
 8.  Click **Save** to save the dashboard.
 
-    Move the pointer over the upper-right corner of the window. Click the More icon that appears and choose **More Actions** \> **Delete** to delete the current chart.
+    In the upper-right corner of the chart, choose **More Actions** \> **Delete** to delete the chart.
 
 
-## Configure a style {#section_c5d_rrs_xgb .section}
+## Configure the style {#section_c5d_rrs_xgb .section}
 
--   In the Basic Settings section, you can set Show Title, Show Hyperlink, and Background Color. Set Background Color to Dark in this example.
--   In the Layout section, you can set Show Legend, Map, Zoom, and Map Center. Set Map Center to Google Map in this example.
--   In the Series Settings section, you can set Alias, AutoFit Mode, and Decimal Places.
+-   In the Basic Information section, you can configure the title, hyperlink, and background color. This example uses Dark as the background color.
 
-Click Update. A similar figure is displayed.
+    **Note:** To configure a hyperlink used to jump to a report or an external page, select **Show Hyperlink** and enter a name and address.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/155722184039685_en-US.png)
+-   In the Layout section, you can configure the legend position, base map, zoom settings, and map center. This example uses Google Map as the base map.
+-   In the Series Settings section, you can configure the measures' aliases, data display formats, and numbers of decimal places.
 
-## Delete a map {#section_bqk_hts_xgb .section}
+Click Update and the chart is updated.
 
-Move the pointer over the upper-right corner of the window. Click the More icon that appears and choose **More Actions** \> **Delete** to delete the current map.
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9145/156404678339685_en-US.png)
+
+## Delete a chart {#section_bqk_hts_xgb .section}
+
+In the upper-right corner of the chart, choose **More Actions** \> **Delete** to delete the chart.
 
