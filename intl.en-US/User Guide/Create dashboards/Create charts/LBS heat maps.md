@@ -1,60 +1,65 @@
 # LBS heat maps {#concept_brr_dnf_vdb .concept}
 
-**Note:** LBS heat maps are available only to **Quick BI Enterprise Standard** users.
+This topic describes the overview, examples, and deletion of an LBS heat map.
 
-This topic describes how to create an LBS heat map. We recommend that you read [Dashboard overview](reseller.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [Basic dashboard operations](reseller.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#) before you create an LBS heat map. You also can edit or create a dataset. For more information, see [Create a dataset](reseller.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
+**Note:** LBS heat maps only apply to **Quick BI Enterprise Standard**.
+
+Make sure that you have read [Dashboard overview](reseller.en-US/User Guide/Create dashboards/Dashboard overview.md#) and [Dashboard basic operations](reseller.en-US/User Guide/Create dashboards/Dashboard basic operations/Basic dashboard operations.md#) before reading this topic. For more information about how to create a dataset, see [Create a dataset](reseller.en-US/User Guide/Data modeling/Dataset management/Create a dataset.md#).
 
 ## Overview {#section_mcg_3qs_xgb .section}
 
-Similar to [Colored maps](reseller.en-US/User Guide/Create dashboards/Create charts/Colored maps.md#), an LBS heat map shows the size and distribution of data by using shades of color.
+Similar to a [colored map](reseller.en-US/User Guide/Create dashboards/Create charts/Colored maps.md#), an LBS heat map represents the size and distribution of data by using different shades of location dots.
 
-An LBS heat map consists of regions with different colors. Regions are determined by data dimensions or the latitude and longitude values of the location, such as the province. Colors are determined by data measures, such as the order amount and profit.
+An LBS heat map is based on geographic locations and heat intensity. Geographic locations are determined by Geo type dimensions such as the province. Heat intensity is determined by measures such as the order amount and profit amount.
 
-## An example of an LBS heat map {#section_fl2_mqs_xgb .section}
+## Samples {#section_fl2_mqs_xgb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9144/155722104839681_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9144/156404674539681_en-US.png)
 
-## Precautions {#section_xkd_nqs_xgb .section}
+## Notes {#section_xkd_nqs_xgb .section}
 
-Only one dimension can be set for the region of an LBS heat map and it must be a geographical dimension. One to five measures can be set for the heat intensity.
+You can only select one dimension for the geographical locations and the dimension type must be Geo. You can select a minimum of one and a maximum of five measures for the heat intensity.
 
-For more information about the administrative divisions of China, see [Administrative divisions of China](http://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/assets/attach/48322/cn_zh/1534241743586/%E5%90%84%E5%9C%B0%E5%8C%BA%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF%E5%AF%B9%E7%85%A7%E8%A1%A8.xls).
+For more information, see [Detailed information for regions](http://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/assets/attach/48322/cn_zh/1534241743586/%E5%90%84%E5%9C%B0%E5%8C%BA%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF%E5%AF%B9%E7%85%A7%E8%A1%A8.xls).
 
-## Scenario: Compare the transportation costs and order quantities across provinces {#section_eyh_4qs_xgb .section}
+## Examples {#section_eyh_4qs_xgb .section}
 
-The following scenario is based on the company\_sales\_record dataset.
+The following example uses the company\_sales\_record dataset.
 
 1.  Log on to the Quick BI console.
-2.  On the homepage, click the Workspace tab. In the left-side navigation pane, enter a group workspace name in the text box, or click the triangle next to the text box and select a group workspace from the drop-down list. Click **Datasets** to go to the All Items tab.
-3.  Click the **Create Dashboard** icon in the Actions column corresponding to the company\_sales\_record dataset.
+2.  Click **Datasets** to go to the Datasets page.
+3.  Select the company\_sales\_record dataset and click the **Create Dashboard** icon.
 
-    **Note:** If you are using **Quick BI Enterprise Standard**, you must select **Standard** or **Full Screen**. The following scenario uses **Standard** as an example.
+    **Note:** If you use **Quick BI Enterprise Standard**, you need to select **Standard** or **Full Screen** as the dashboard display mode. The following example uses the **Standard** display mode.
 
-4.  In the toolbar, click the **LBS Heat Map** icon. The blank LBS heat map is automatically displayed in the display section.
-5.  Click the Data tab and select the required measures and dimension.
+4.  Click the **LBS Heat Map** icon and an empty chart appears.
+5.  On the Data tab page, select a dimension and measures.
 
-    In the Dimensions section, double-click **province**, or drag and drop it to the Geo Location section. In the Measures section, double-click **order number** and **shipping cost**, or drag and drop them to the Heat Intensity \(Measures\) section.
+    On the Dimensions list, locate the **province** field and add it to the Geo Location section. On the Measures list, locate the **order\_number** and **shipping cost** fields and add them to the Heat Intensity \(Measures\) section respectively.
 
-    **Note:** Make sure you have changed the data type of the province field value from String to Geo.
+    **Note:** Make sure that you have converted the dimension type from String to Geo for the province dimension. For more information, see [Change the dimension type](reseller.en-US/User Guide/Data modeling/Dataset management/Change field types.md#).
 
-6.  Click **Update**. The system automatically updates the map.
-7.  On the Style tab, you can change the title and layout of the map, and the formats of specific fields, as shown in the following figure.
+6.  Click **Update** and the chart is updated.
+7.  On the Style tab page, you can configure the title, layout, and measures' aliases.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9144/15572210481866_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9144/15640467451866_en-US.png)
 
 8.  Click **Save** to save the dashboard.
 
-## Configure a style {#section_c5d_rrs_xgb .section}
+## Configure the style {#section_c5d_rrs_xgb .section}
 
--   In the Basic Settings section, you can set Show Title, Show Hyperlink, and Background Color. Set Background Color to Dark in this example.
--   In the Layout section, you can set Show Legend, Map, Zoom, and Map Center. Set Map Center to Google Map in this example.
--   In the Series Settings section, you can set the alias and color of the measure.
+-   In the Basic Information section, you can configure the title, hyperlink, and background color. This example uses Dark as the background color.
 
-Click Update. A similar figure is displayed.
+    **Note:** To configure a hyperlink used to jump to a report or an external page, select **Show Hyperlink** and enter a name and address.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9144/155722104839682_en-US.png)
+-   In the Layout section, you can configure the legend position, base map, zoom setting, and map center. This example uses Google Map as the base map.
+-   In the Series Settings section, you can configure measures' aliases and legend colors.
 
-## Delete a map {#section_j1k_qqs_xgb .section}
+Click Update and the chart is updated.
 
-Move the pointer over the upper-right corner of the window. Click the More icon that appears and choose **More Actions** \> **Delete** to delete the current map.
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9144/156404674539682_en-US.png)
+
+## Delete a chart {#section_j1k_qqs_xgb .section}
+
+In the upper-right corner of the chart, choose **More Actions** \> **Delete** to delete the chart.
 
