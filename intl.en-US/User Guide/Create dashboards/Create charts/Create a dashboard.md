@@ -68,14 +68,6 @@ Each segment in a bar shows percentages rather than absolute numbers. Each bar i
 
 [Colored maps](reseller.en-US/User Guide/Create dashboards/Create charts/Colored maps.md#) show the size and distribution of data by using shades of color.
 
-## Geo maps {#section_set_2dv_mbe .section}
-
-[Geo maps](reseller.en-US/User Guide/Create dashboards/Create charts/Geo maps.md#) show the size and distribution of data by using shades of color.
-
-## Geo bubble maps {#section_307_ffu_0vq .section}
-
-[Geo bubble maps](reseller.en-US/User Guide/Create dashboards/Create charts/Geo bubble maps.md#) show the size and distribution of data across regions.
-
 ## LBS bubble maps {#section_52c_sum_3pf .section}
 
 [LBS bubble maps](reseller.en-US/User Guide/Create dashboards/Create charts/LBS bubble maps.md#) use bubbles on a map to reflect the data size.
