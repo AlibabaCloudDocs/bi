@@ -1,100 +1,5 @@
 # Version history {#concept_gkr_bdb_5db .concept}
 
-## Quick BI V3.3.1 {#section_qzc_oaa_bq6 .section}
-
-Quick BI V3.3.1 supports the following features:
-
-Data sources 
-
--   Supports connecting Quick BI to PostgreSQL data sources through endpoints with the following format: lightning.\*\*\*\*.aliyun-inc.com.
--   Optimized the WEEKDAY function in ADS and PostgreSQL data sources.
-
-Dashboards 
-
--   Supports combination charts.
--   Supports the Metric Analysis feature.
--   Supports wrapping text, renaming totals, and setting data bars with conditional formats for cross tables and pivot tables.
--   Allows you to enter a value for data filtering when you set the filter condition. Supports pinning the Filter Bar widget, and setting the field style \(drop-down or expanded\), position, field alignment, and field width.
--   Optimized the Style tab pages for multiple chart types.
-
-Datasets 
-
--   You can copy datasets across workspaces.
--   Supports duplicating, hiding, and deleting dimensions of all hierarchy levels. Supports specifying the first day of a week for the week dimension.
--   Renamed Custom SQL to Ad Hoc Query. Supports specifying a data source, formatting SQL statements, and creating datasets by copying and uploading SQL statements.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## V3.2.0 {#section_w9c_hea_brc .section}
-
-Data sources
-
--   You can access all data sources that are created in Quick BI Enterprise Standard by using SSH tunnels.
-
-Datasets
-
--   When you create datasets with custom SQL statements, you can preview the data.
--   You can use filter bars when you edit datasets.
--   The dataset edit page is optimized.
-
-Dashboards
-
--   Cross tables now support table topics, paging, and exporting data statistics that are sorted based on a specified field or table.
--   Line, vertical bar, and area charts now support new features including data labels, zero axes, markers, and the maximum and minimum values.
-
-Workbooks
-
--   You can embed workbooks into third-party systems.
-
-BI portals
-
--   You can now set colors for the navigation pane and the sub-navigation pane of BI portals.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Quick BI 3.1.3 {#section_chw_1fp_fhb .section}
-
-Data sources
-
--   Quick BI V3.1.3 supports more data sources including:
-    -   Data Lake Analytics
-    -   Distribute Relational Database Service \(DRDS\)
-    -   Object Storage Service \(OSS\)
--   Quick BI V3.1.3 also supports the following user-created data sources:
-    -   SAP IQ \(supported by Quick BI Enterprise Standard\)
-    -   SAP HANA \(supported by Quick BI Enterprise Standard\)
--   You can connect Quick BI to VPC-connected HybridDB for PostgreSQL and HybridDB for MySQL databases.
--   MaxCompute resources support full table scans.
--   You can configure SSL for the PostgreSQL data source. MaxCompute Lightning is also supported.
-
-Datasets
-
--   Group spaces in Quick BI Enterprise Standard now support field grouping.
--   Supports the label authorization mode for row-level permissions.
-
-Dashboards
-
--   You can now switch dashboards colors.
--   Supports regional maps and regional bubble maps, and a new tab component style.
--   Optimized the drilling and filter interaction features.
--   You can now copy and view the SQL statements in charts and tables. You can also move charts in and out of the tab components.
--   Supports parameter passing and hyperlinks for cross tables and scatter charts.
--   Filter bars allow you to set time ranges for time-based data, set default values, and set time range presets by month or day.
--   Filter bars allow you to set a value range for text data. Cascade filtering supports three-level cascade, renaming the filter field, tree cascade, and tile cascade.
--   You can adjust the column width and alignment, set hyperlinks, and show or hide the chart title. Supports parameter passing and hyperlinks for cross tables and scatter charts.
--   You can roll up and drill down layers in a chart or table. You can specify custom items and drill-down and roll-up dimensions.
-
-BI portals
-
--   You can now manage menu permissions for BI portals.
-
-Other features
-
--   You can share an object with a specified user group.
--   The Protected mode allows members in the same group space to edit the same dataset, dashboard, workbook, and BI portal.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## Quick BI V2.4.0 {#section_xjt_2rq_k2b .section}
 
 The Chinese version of Quick BI V2.4.0 supports the following features:
@@ -125,15 +30,15 @@ The layout of Quick BI V2.0 contains these sections: Home, Workspace, Guide, and
 
 -   Home: you can find a specified report on the Shared with Me or Favorites tab. New users can install case reports and apply to join the workspace to view resources in the workspace.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15645532481054_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15645534761054_en-US.png)
 
 -   Workspace: you can create data sources, datasets, dashboards, and workbooks. Dashboards components are better displayed and filter bars are optimized.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15645532481055_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15645534771055_en-US.png)
 
 -   Guide: the workflow provides you with an overview of the product process to familiarize you with Quick BI.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15645532481056_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15645534771056_en-US.png)
 
 -   Subscriptions: you can create, manage, and monitor email tasks.
 
@@ -148,7 +53,7 @@ Quick BI Pro new features
 
     Added new data analysis methods for workbooks. Supports retrieving data from workbook cells, and displaying and processing data from different data sources. Supports more than 200 data processing functions that are similar to those in Excel.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15645532481057_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9067/15645534771057_en-US.png)
 
 -   Subscriptions
 
