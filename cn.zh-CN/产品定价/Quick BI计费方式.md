@@ -9,44 +9,48 @@ Quick BI产品最短有效期为一年，您可以自主选择购买的用户数
 Quick BI标准版支持以下功能：
 
 -   个人空间
--   阿里云云数据库接入（MaxCompute，AnalyticDB for MySQL 2.0，\(RDS\)MySQL，\(RDS\)SQL Server，HybridDB for MySQL，AnalyticDB for PostgreSQL，\(RDS\)PostgreSQL，\(RDS\)PPAS）
--   阿里云公共数据库接入（\(ECS\)MySQL，\(ECS\)SQL Server，\(ECS\)PostegreSQL，Oracle）
--   本地文件上传到探索空间，支持CSV、Excel上传
--   数据表建模
--   常规仪表板（组件）
+-   探索空间：每个账号支持1GB容量
+-   阿里云云数据库接入：MaxCompute，AnalyticDB for MySQL 2.0，AnalyticDB for MySQL 3.0，\(RDS\)MySQL，\(RDS\)SQL Server，HybridDB for MySQL，AnalyticDB for PostgreSQL，\(RDS\)PostgreSQL，\(RDS\)PPAS
+-   阿里云公共数据库接入：\(ECS\)MySQL，\(ECS\)SQL Server，\(ECS\)PostegreSQL，Oracle
+-   本地文件上传到探索空间：支持CSV、Excel上传
+-   数据表建模：数据表建模、SQL建模
+-   常规仪表板（组件）：线图、面积图、堆积面积图、百分比堆叠面积图、柱形图、堆积柱状图、百分比堆积柱状图、条形图、堆积条形图、百分比堆积条形图、组合图、饼图、交叉表、区域色彩地图、区域气泡地图、色彩地图、气泡地图、指标看板、仪表盘、进度条、散点图、漏斗图、旋风漏斗、雷达图、极坐标图、矩阵树图、树图、词云图、来源去向、指标卡趋势图
 -   公开分享
--   服务规格（阿里云工单系统）
-
-**说明：** 标准版不支持报表嵌入第三方功能。
+-   服务规格：阿里云工单系统
 
 ## Quick BI高级版 {#section_ytl_drc_5db .section}
 
 Quick BI高级版在标准版的功能基础上支持以下功能：
 
--   群空间
--   阿里云云数据库接入（DLA）
--   数据填报（公测）
--   电子表格（单Sheet）
+-   工作空间：群空间
+-   阿里云云数据库接入：DLA、Presto、PolarDB for MySQL
+-   阿里云公共数据库接入：Presto
+-   常规仪表板（组件）：复合查询控件、平铺式查询控件、桑基图、瀑布图、排行榜、翻牌器
+-   电子表格：单Sheet
 -   数据门户
+-   公开分享
 -   邮件订阅
 -   第三方报表嵌入
--   协同便捷
+-   协同编辑
 -   行级权限
--   服务规格（阿里云工单系统；享受钉钉大群5\*8答疑服务）
+-   审计日志
+-   服务规格：阿里云工单系统、享受钉钉大群5\*8答疑服务
 
 ## Quick BI专业版 {#section_hht_kd4_y2b .section}
 
 Quick BI专业版在高级版的功能基础上支持以下功能：
 
--   阿里云云数据库接入（OSS，DRDS）
--   阿里云公共数据库接入（Hive，Vertica，SAP IQ\(Sybase IQ\)，SAP HANA，IBM DB2 LUW）
+-   阿里云云数据库接入：Hive、OSS，DRDS
+-   阿里云公共数据库接入：Hive，Vertica，SAP IQ\(Sybase IQ\)，SAP HANA，IBM DB2 LUW
 -   数据填报（公测）
--   常规仪表板（组件）（环形柱状图，透视表，3D—LBS气泡地图，3D—LBS热力地图，3D—LBS飞线地图）
--   电子表格（多Sheet，可视化图表展示，查询控件筛选）
+-   常规仪表板（组件）：环形柱状图，透视表，3D—LBS气泡地图，3D—LBS热力地图，3D—LBS飞线地图
+-   电子表格：多Sheet，可视化图表展示，查询控件筛选
 -   全屏仪表板
 -   钉钉微应用
--   查询加速引擎
--   服务规格（阿里云工单系统；享受钉钉大群5\*8答疑服务；数据分析沙龙优先参与权）
+-   查询加速引擎（公测）
+-   监控告警（公测）
+-   自助取数（公测）
+-   服务规格：数据分析沙龙优先参与权
 
 ## 计费方式 {#section_x44_5qk_ngb .section}
 
