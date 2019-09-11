@@ -2,26 +2,32 @@
 
 ## 产品定位 {#section_etr_pdp_mgb .section}
 
-Quick BI是阿里云旗下产品，是一个基于云计算致力于大数据高效分析与展现的轻量级自助BI工具服务平台。通过对数据源的连接和数据集的创建，对数据进行即席的分析与查询；通过电子表格或仪表板功能，以拖拽的方式进行数据的可视化呈现。
+Quick BI是阿里云旗下产品，是一个基于云计算致力于大数据高效分析与展现的轻量级自助BI工具服务平台。通过对数据源的连接和数据集的创建，对数据进行即时的分析与查询；通过电子表格或仪表板功能，以拖拽的方式进行数据的可视化呈现。
+
+## Quick BI 视频简介 {#section_j2e_cfa_zq5 .section}
+
+  
+
+## Quick BI 图文简介 {#section_si8_m9l_9xv .section}
 
 下图为某公司大盘示例，详情请登录Quick BI系统查看：
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9062/155323916610653_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9062/156817356010653_zh-CN.png)
 
 ## 产品核心流程 {#section_mvp_ydp_mgb .section}
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9062/155323916637888_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9062/156817356037888_zh-CN.png)
 
 ## 产品优势特性 {#section_rbk_12p_mgb .section}
 
-**产品优势**
+ 产品优势 
 
 -   丰富的数据源接入：支持云数据库、关系型数据库、Hadoop、MPP等数据源接入，尤其是阿里云数据库的无缝对接能力。
 -   高性能即席查询：内置高速查询引擎，亿级数据可实现秒级计算与查询。
 -   便捷的数据分析：类Excel操作的电子表格，并且支持300多类似Excel的函数；零SQL拖拽式的仪表板，支持多组件查询联动和下钻联动等数据联动分析机制。
 -   安全的多端访问：产品采用ACL权限体制，数据以访问对象为控制单元，实现权限审批及授权，提供用户级、行级、水印等数据安全管控机制。一次仪表板的制作即可支持移动、PC、大屏的多终端适配。
 
-**功能特性**
+ 功能特性 
 
 -   极速建模：用户只需通过简单的3步点击即可完成数据集的创建。
 -   数据分析能力：产品提供专业的电子表格功能，用户可以在线完成多数据联合分析并形成报表（如日报，周报，月报），支持超300个常规的数据分析函数。
@@ -34,11 +40,11 @@ Quick BI是阿里云旗下产品，是一个基于云计算致力于大数据高
 
 在Quick BI产品详情页，单击[管理控制台](https://data.aliyun.com/product/bi?spm=5176.8142029.dataTechnology.11.41416d3eTJ22ri)并输入阿里云账号密码，就可以进入Quick BI控制台。
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9062/1553239166988_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9062/1568173561988_zh-CN.png)
 
 ## 学习课堂 {#Learning .section}
 
-如果您是第一次使用Quick BI产品，推荐您登录[数加体验馆](https://help.aliyun.com/document_detail/30250.html) ，我们为您准备了专业的Quick BI培训课程。
+如果您是第一次使用Quick BI产品，推荐您登录[数加体验馆](https://help.aliyun.com/document_detail/30250.html)，我们为您准备了专业的Quick BI培训课程。
 
 ## 发展趋势 {#section_zq1_rpp_4gb .section}
 
