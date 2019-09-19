@@ -18,7 +18,7 @@ Quick BI提供了标准版，高级版，专业版三个版本供您购买。不
 2.  选择需要购买的用户数和购买时长。
 3.  确认价格后，单击**立即购买**。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/156888256338305_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/156888425438305_zh-CN.png)
 
 4.  输入用户名和登录密码，单击**登录**，登录阿里云官网。
 
@@ -26,7 +26,7 @@ Quick BI提供了标准版，高级版，专业版三个版本供您购买。不
 
 5.  确认订单后，单击**去支付**。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/156888256338308_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9073/156888425438308_zh-CN.png)
 
 
 ## 账户扩充 {#section_d5l_drc_5db .section}
